@@ -1,0 +1,84 @@
+/* Base styles */
+body { min-width:320px; }
+body *:not(header) { font-family:'PT Sans', sans-serif; }
+h1, h2, h3, h4, h5 { color:black; }
+
+/* Header */
+header { border-top:20px solid #262626; border-bottom:10px solid #FFB647; font-family:'Roboto Condensed', sans-serif; text-align:center; }
+#main-menu { background-color:white; box-shadow: 0px 3px 15px rgba(0,0,0,0.3); }
+#main-menu div { padding:0; }
+#logo h3 { text-transform:uppercase; color:black; font-weight:bold; letter-spacing:3px; margin:0; line-height:normal; color:black; }
+nav li { font-size:17px; font-weight:bold;  position:relative; text-transform:uppercase; padding:0 20px; letter-spacing:1px; }
+nav li a { color:#F7B044; }
+#intro h3 { color:white; max-width:900px; margin:0 auto; }
+
+/* Main content */
+section { background:#F3F3F3; }
+section a { color:#545454; }
+section a:hover { color:#206e9b; }
+article img { max-width:637px; width:100%; display:block; margin:0 auto; }
+article h5 + p { margin-top:0; }
+article p + .button { margin-top:5px; }
+section hr { border-bottom-color:#dfdfdf; }
+section h4 { margin:0; }
+section p { color:#7a7a7a; }
+
+/* Footer */
+footer { font-size:13px; background:#222222; }
+footer div > a { color:white; border-bottom:1px solid #AB7D38; }
+footer p { margin:0; }
+footer p, footer a { color:#9E9E9E; }
+
+/* Desktop */
+@media all and (min-width: 1024px) { #logo h3 { text-align:left; } }
+
+/* Medium and under */
+@media all and (max-width: 1023px) { article h5 { margin-top:10px; } }
+
+/* Desktop (when header starts to break) */
+@media all and (max-width: 890px) { header #logo, header #logo + div { width:100%; } }
+
+@media all and (min-width: 768px) {
+	main { padding:40px 0; }
+	main > div { margin-top:40px; }
+	#main-menu { padding:30px 0; }
+	#intro { padding:210px 0; }
+	#intro h3 { text-shadow:0 1px 1px #CCB299; }
+	nav li:not(:first-child):after { content:'|'; color:#CBCBCB; position:absolute; top:5px; left:-5px; }
+	nav li a { border-bottom:4px solid transparent; }
+	nav a:hover { border-color:#F2F2F2; }
+	footer { padding:30px 0; }
+}
+
+/* Below tablet */
+@media all and (max-width: 767px) { 
+	main { padding:20px 0; }
+	main > div { margin-top:20px; }
+	#main-menu { padding:5% 0; }
+	#intro { padding:13% 0; }	
+	footer { padding:20px 0; }
+}
+
+/* Medium and up */
+@media all and (min-width: 640px) {
+	header { background:url("/images/snowy-mountains-trees-banff-canada.jpg") no-repeat; background-position:center center; background-size:cover; } 
+	.hamburger-container { display:none; }
+	nav { margin-top:8px; }
+	footer p { text-align:right; } 
+}
+
+/* Mobile */
+@media all and (max-width: 639px) {
+	div > nav { display:none; }
+	/* Mobile nav icon */
+	#logo { position:relative; }
+	.hamburger-container { display:inline-block; position:absolute; left:0; }
+	.hamburger-container div { width:22px; height:4px; background-color:#333; margin:4px 0 4px 20px; transition:0.4s; }
+	.hamburger-container div:first-of-type { margin-top:0; }	
+	nav { margin-top:10px; }
+	.menu li:last-of-type > a { padding-bottom:0; }
+	#intro { background:url("/images/binoculars.jpg") no-repeat; background-position:center center; background-size:cover; }
+	footer * { text-align:center; }
+	footer div.column:first-of-type { padding-bottom:15px;	 }
+}
+
