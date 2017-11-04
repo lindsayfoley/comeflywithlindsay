@@ -32,22 +32,10 @@
 					<hr>
 					<div class="row">
 						<div class="large-6 column">
-							<img src="images/autumnal-colours-whistler-british-columbia.jpg" alt="Stunning autumnal coloured trees in Whistler - British Columbia, Canada">
-						</div>
-						<div class="large-6 column">
-							<h5><a href="whistler">Whistler Village, Canada</a></h5>
-							<p>A cool little town with a focus on sports and outdoor activities</p>
-							<p>Hiking, biking, skiing... definitely a must stop destination for all adventure seekers. Whistler was a lovely town with the most amazing autumnal trees, but unfortunately for me it was off season when we arrived, meaning a lot of the top attractions were closed.</p>
-							<a class="button small" href="whistler">Read About Whistler</a>
-						</div>
-					</div>
-					<hr>
-					<div class="row">
-						<div class="large-6 column">
 							<img src="images/port-view-stanley-park-vancouver.jpg" alt="A view of the port and boats taken in Stanley Park">
 						</div>
 						<div class="large-6 column">
-							<h5><a href="vancouver">Vancouver, Canada</a></h5>
+							<h5><a href="vancouver">Downtown Vancouver, Canada</a></h5>
 							<p>Easily one of the best cities I have ever had the pleasure of visiting</p>
 							<p>Cycling around Stanley Park, roaming around Gastown and Yaletown, these are just a few of my favourite moments spent in downtown Vancouver. There's a lot to do in and see in Van, you may even see something being filmed! I'd recommend at least 5 nights here.</p>
 							<a class="button small" href="vancouver">More On Vancouver</a>

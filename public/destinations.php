@@ -1,54 +1,44 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-	<title>Destinations | Come Fly With Lindsay | My Travel Blog</title>
+	<title>Holiday Destinations | Come Fly With Lindsay | My Travel Blog</title>
 	<?php include('structure/meta.php'); ?>
-	<meta name="description" content="Come Fly With Lindsay, a new travel blog detailing my luxurious adventures abroad!">
+	<meta name="description" content="Destinations that I've travelled to with helpful guides detailing my adventures.">
 	<?php include('structure/styles.php'); ?>
 	<?php include('structure/icons.php'); ?>
   </head>
   
-  <body>
+  <body id="destinations">
 	  	  
 	<?php include('structure/header.php'); ?>
 	
 	<section>
-		<h4 class="text-center">Recent Trips</h4>
 		<main class="row">
 			<div class="large-12 column">
 				<article>
 					<div class="row">
-						<div class="large-6 column">
-							<img src="images/snow-covered-trees-mountains-banff-canada.jpg" alt="Winter wonderland, snow topped mountains and trees in Banff - Alberta, Canada">
-						</div>
-						<div class="large-6 column">
+						<img class="large-12" src="images/snow-covered-trees-mountains-banff-canada-wide.jpg" alt="Winter wonderland, snow topped mountains and trees in Banff - Alberta, Canada">
+						<div class="large-9">
 							<h5><a href="banff">Banff National Park, Canada</a></h5>
-							<p>Definitely one of the most beautiful places, possibly in existence</p>
-							<p>Behold stunning mountain scenery in every direction that you look. Banff was my first stop on my recent 2 week holiday to the West coast of Canada. I visited in October to get a glimpse of the the autumnal colours in Canada in fall, and I was not disappointed!</p>
+							<p>Part of the Rocky Mountains, you'll see the most amazing scenery; snow tipped mountains, fir trees and lakes.</p>
 							<a class="button small" href="banff">More About Banff</a>
 						</div>
 					</div>
 					<hr>
 					<div class="row">
-						<div class="large-6 column">
-							<img src="images/autumnal-colours-whistler-british-columbia.jpg" alt="Stunning autumnal coloured trees in Whistler - British Columbia, Canada">
-						</div>
-						<div class="large-6 column">
+						<img class="large-12" src="images/autumnal-colours-whistler-british-columbia-wide.jpg" alt="Stunning autumnal coloured trees in Whistler - British Columbia, Canada">
+						<div class="large-9 ">
 							<h5><a href="whistler">Whistler Village, Canada</a></h5>
-							<p>A cool little town with a focus on sports and outdoor activities</p>
-							<p>Hiking, biking, skiing... definitely a must stop destination for all adventure seekers. Whistler was a lovely town with the most amazing autumnal trees, but unfortunately for me it was off season when we arrived, meaning a lot of the top attractions were closed.</p>
+							<p>A cool little village, 2 hours drive from Vancouver Airport with a focus on sports and outdoor activities.</p>
 							<a class="button small" href="whistler">Read About Whistler</a>
 						</div>
 					</div>
 					<hr>
 					<div class="row">
-						<div class="large-6 column">
-							<img src="images/port-view-stanley-park-vancouver.jpg" alt="A view of the port and boats taken in Stanley Park">
-						</div>
-						<div class="large-6 column">
-							<h5><a href="vancouver">Vancouver, Canada</a></h5>
-							<p>Easily one of the best cities I have ever had the pleasure of visiting</p>
-							<p>Cycling around Stanley Park, roaming around Gastown and Yaletown, these are just a few of my favourite moments spent in downtown Vancouver. There's a lot to do in and see in Van, you may even see something being filmed! I'd recommend at least 5 nights here.</p>
+						<img class="large-12" src="images/port-view-stanley-park-vancouver-wide.jpg" alt="A view of the port and boats taken in Stanley Park">
+						<div class="large-9">
+							<h5><a href="vancouver">Downtown Vancouver, Canada</a></h5>
+							<p>A must for those who enjoy city breaks and plenty of walking! Downtown Vancouver has loads to see and do.</p>
 							<a class="button small" href="vancouver">More On Vancouver</a>
 						</div>
 					</div>				
