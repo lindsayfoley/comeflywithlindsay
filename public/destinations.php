@@ -17,28 +17,28 @@
 			<div class="large-12 column">
 				<article>
 					<div class="row">
-						<img class="large-12" src="images/snow-covered-trees-mountains-banff-canada-wide.jpg" alt="Winter wonderland, snow topped mountains and trees in Banff - Alberta, Canada">
-						<div class="large-9">
-							<h5><a href="banff">Banff National Park, Canada</a></h5>
-							<p>Part of the Rocky Mountains, you'll see the most amazing scenery; snow tipped mountains, fir trees and lakes.</p>
+						<img class="large-12 column" src="images/snow-covered-trees-mountains-banff-canada-wide.jpg" alt="Winter wonderland, snow topped mountains and trees in Banff - Alberta, Canada">
+						<div class="large-9 column">
+							<h2><a href="banff">Banff National Park, Canada</a></h2>
+							<p>Part of the Rocky Mountains, you'll see the most amazing scenery; snowy mountains, fir trees and lakes.</p>
 							<a class="button small" href="banff">More About Banff</a>
 						</div>
 					</div>
 					<hr>
 					<div class="row">
-						<img class="large-12" src="images/autumnal-colours-whistler-british-columbia-wide.jpg" alt="Stunning autumnal coloured trees in Whistler - British Columbia, Canada">
-						<div class="large-9 ">
-							<h5><a href="whistler">Whistler Village, Canada</a></h5>
+						<img class="large-12 column" src="images/autumnal-colours-whistler-british-columbia-wide.jpg" alt="Stunning autumnal coloured trees in Whistler - British Columbia, Canada">
+						<div class="large-9 column">
+							<h2><a href="whistler">Whistler Village, Canada</a></h2>
 							<p>A cool little village, 2 hours drive from Vancouver Airport with a focus on sports and outdoor activities.</p>
 							<a class="button small" href="whistler">Read About Whistler</a>
 						</div>
 					</div>
 					<hr>
 					<div class="row">
-						<img class="large-12" src="images/port-view-stanley-park-vancouver-wide.jpg" alt="A view of the port and boats taken in Stanley Park">
-						<div class="large-9">
-							<h5><a href="vancouver">Downtown Vancouver, Canada</a></h5>
-							<p>A must for those who enjoy city breaks and plenty of walking! Downtown Vancouver has loads to see and do.</p>
+						<img class="large-12 column" src="images/port-view-stanley-park-vancouver-wide.jpg" alt="A view of the port and boats taken in Stanley Park">
+						<div class="large-9 column">
+							<h2><a href="vancouver">Downtown Vancouver, Canada</a></h2>
+							<p>A must for those who enjoy city breaks and plenty of walking! Downtown Van has loads to see and do.</p>
 							<a class="button small" href="vancouver">More On Vancouver</a>
 						</div>
 					</div>				

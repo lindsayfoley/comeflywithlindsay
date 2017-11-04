@@ -18,7 +18,7 @@
 				<article>
 					<div class="row">
 						<div class="large-6 column">
-							<h5><a href="whistler">Whistler Village, Canada</a></h5>
+							<h2><a href="whistler">Whistler Village, Canada</a></h2>
 							<p>A cool little town with a focus on sports and outdoor activities</p>
 							<p>Hiking, biking, skiing... definitely a must stop destination for all adventure seekers. Whistler was a lovely town with the most amazing autumnal trees, but unfortunately for me it was off season when we arrived, meaning a lot of the top attractions were closed.</p>
 							<a class="button small" href="vancouver">Read About Vancouver</a>

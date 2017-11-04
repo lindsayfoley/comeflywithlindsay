@@ -1,15 +1,14 @@
 /* Base styles */
-body { min-width:320px; }
-body *:not(header) { font-family:'PT Sans', sans-serif; }
+body { min-width:320px; font-family:'PT Sans', sans-serif; }
 h1, h2, h3, h4, h5 { color:black; }
 
 /* Header */
-header { border-top:20px solid #262626; font-family:'Roboto Condensed', sans-serif; text-align:center; position:relative; }
-#main-menu { box-shadow: 0px 3px 15px rgba(0,0,0,0.3); padding:15px 0; background-color:white; }
+header { border-top:20px solid #262626; text-align:center; position:relative; }
+#main-menu { box-shadow:0px 3px 15px rgba(0,0,0,0.2); padding:15px 0; background-color:white; font-family:'Roboto Condensed', sans-serif; }
 main > div { margin-top:30px; }
 #logo { max-width:125px; max-height:125px; }
 nav { padding-top:20px; }
-nav li { font-size:17px; font-weight:bold; position:relative; text-transform:uppercase; padding:0 20px; letter-spacing:1px; }
+nav li { font-size:18px; font-weight:bold; position:relative; text-transform:uppercase; padding:0 20px; letter-spacing:1px; }
 nav li a { color:#F7B044; }
 
 /* Main content */
@@ -17,12 +16,13 @@ section { background:#F3F3F3; }
 section a { color:#4e4d4d; }
 section a:not(.button) { text-decoration:underline; }
 section a:hover { color:#FFB647; }
-section > h4 { background:white; padding:20px 0; }
-section > h4:before, section > h4:after { content:'—'; }
+section > h2 { background:white; padding:20px 0; }
+section > h2:before, section > h2:after { content:'—'; }
+article { padding-bottom:20px; }
 article .row { padding:10px 0; }
 article .row:last-of-type { padding-bottom:40px; }
 article img { max-width:637px; width:100%; display:block; margin:0 auto; }
-article h5 + p { margin-top:0; }
+article h2 + p { margin-top:0; }
 article p + .button { margin-top:5px; }
 section hr { border-bottom-color:#dfdfdf; }
 section h4 { margin:0; }
@@ -35,6 +35,7 @@ footer p, footer a { color:#9E9E9E; margin:0; }
 
 /* Pages */
 #about article span { text-decoration:line-through; }
+#destinations article * { float:none; }
 #destinations article .large-9 { margin:0 auto; }
 #destinations article img { max-width:750px; padding-bottom:20px; }
 
@@ -54,13 +55,16 @@ footer p, footer a { color:#9E9E9E; margin:0; }
 	footer p { text-align:right; } 
 	
 	/* Homepage only */
-	#homepage header { background:url("/images/snowy-mountains-trees-banff-canada.jpg") no-repeat; background-position:center 40px; background-size:cover; padding:320px 0; } 
+	#homepage header { background:url("/images/snowy-mountains-trees-banff-canada.jpg") no-repeat; background-position:center 70px; background-size:cover; padding:320px 0; } 
 	#homepage #main-menu { position:absolute; top:0; left:0; width:100%; }
+	#homepage h1, #homepage h1:after { position:absolute; left:0; font-family:'Satisfy', cursive; color:white; text-align:center; width:100%; font-size:65px; }
+	#homepage h1 { top:410px; }
+	#homepage h1:after { content:'—'; top:40px; }
 }
 
 /* Mobile */
 @media all and (max-width: 667px) {
-	div > nav { display:none; }
+	div > nav, #homepage h1 { display:none; }
 	.hamburger-container { position:absolute; left:0; top:10px; width:75px; padding:15px 0; margin-top:10px; }
 	.hamburger-container div { width:22px; height:4px; background-color:#333; margin:4px 0 4px 20px; transition:0.4s; }
 	.hamburger-container div:first-of-type { margin-top:0; }	
