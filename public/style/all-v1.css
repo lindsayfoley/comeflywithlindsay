@@ -32,7 +32,8 @@ footer { font-size:13px; background:#222222; border-top:5px solid black; padding
 footer div > a { color:white; border-bottom:1px solid #AB7D38; }
 footer p, footer a { color:#9E9E9E; margin:0; }
 
-/* Homepage only */
+/* About */
+#about article span { text-decoration:line-through; }
 
 
 /* When article img and text stack */
