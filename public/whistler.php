@@ -17,47 +17,48 @@
 			<div class="large-12 column">
 				<article class="large-12 column">
 					<h1>Whistler Village, Canada</h1>
-					<p>Hiking, biking, skiing... definitely a must stop destination for all adventure seekers. Whistler is north of Vancouver and is where the 2010 Vancouver Winter Olympics were hosted, it's also home to Whistler Blackcomb which is a very popular ski resort.</p>
+					<p>Hiking, biking, skiing... definitely a must stop destination for all thrill-	seekers. Whistler is located north of Vancouver and is where the 2010 Vancouver Winter Olympics were hosted, it's also home to Whistler Blackcomb which is an incredibly popular ski resort.</p>
+					<p>We travelled to Whistler from Vancouver International Airport on the Whistler Shuttle bus which took around 2.5 hours. Shuttles depart from the airport every hour (it did when we visited) so it's a great, convenient choice if you don't have a car. The views on the drive are just beautiful, you pass through Downtown Vancouver, Stanley Park and then have the ocean, trees and glacier covered mountains beside you. Whistler village is a pedestrianised, quaint, little town and has the most amazing red and autumnal coloured trees in October.</p>
 					<figure>
-						<img src="images/whistler/banff-town-alberta-canada.jpg" alt="The lovely town of Banff">
-						<figcaption>The lovely town of Banff</figcaption>
+						<img src="images/whistler/whistler-village-autumnal-colours.jpg" alt="Autumnal coloured trees in Whistler Village, Canada">
+						<figcaption>Autumnal coloured trees in Whistler Village</figcaption>
 					</figure>
 					
-					<p>We travelled to Whistler from Vancouver International Airport on the Whistler Shuttle which took about 2.5 hours. The Whistler shuttles depart from the airport every hour so it's a great choice if you don't have a car. The views on the drive are just beautiful, you pass through Downtown Vancouver, Stanley Park and then have the ocean, trees and glacier covered mountains beside you. Whistler village is small, quaint and has the most amazing red, fiery trees and autumnal colours. It's pretty small so you can walk across and explore the whole village in 20 minutes.</p>
+					<p>In comparison to Banff, the village was quieter and more compact. There are shops, cafes, restaurants, bars and hotels and you can explore the whole village on foot in about 20 minutes. We had a great stay in a deluxe studio at <a target="_blank" href="https://www.summitlodge.com/">Summit Lodge Boutique Hotel</a> located in Village North, just a few minutes walk to the centre of the village.</p>
 					<figure>
-						<img src="images/whistler/moose-hotel-and-suites-banff-canada.jpg" alt="Moose Hotel and Suites, Banff">
-						<figcaption>The exterior of Moose Hotel and Suites, Banff</figcaption>
+						<img src="images/whistler/summit-lodge-view-from-balcony-whistler.jpg" alt="The view from our balcony showing beautiful autumnal trees at Summit Lodge Boutique Hotel in Whistler, Canada">
+						<figcaption>View from our balcony at Summit Lodge Boutique Hotel</figcaption>
 					</figure>
 					
-					<p>We attempted to do the Rainbow trail but the Rainbow lake was just too far for us to make it to! We did make it to Alta Lake and Rainbow Falls which was really cool but let me warn you, a longggg walk for those who aren't fit, it's about a 3 hour roundtrip.</p>
+					<p>We attempted the Rainbow Lake trail but unfortunately Rainbow lake was just too far out for us. We managed to pass  Alta Lake and made it to the tranquil Rainbow Falls, but this ended up being a 3 hour roundtrip journey! To get to Rainbow falls on foot, part of the journey involves walking along the road which was a bit scary at times! You enter the forest and walk for a short distance to reach Rainbow falls.</p>
 					<figure>
-						<img src="images/whistler/bow-river-trail-banff-canada.jpg" alt="Bow River trail in Banff, Canada">
-						<figcaption>Walking the Bow River trail in Banff</figcaption>
+						<img src="images/whistler/rainbow-falls-whistler.jpg" alt="Hiking to Rainbow Falls in Whistler, Canada">
+						<figcaption>Hiking to Rainbow Falls in Whistler</figcaption>
 					</figure>					
 					
-					<p>If you're after something a bit more challenging and adventurous, the Tunnel Mountain trail is ideal. The elevation gain is 300 m and the roundtrip from Banff town took about 2.5 hours, mostly because it started snowing half way up. Unfortunately the snow meant we couldn't see amazing views when we got to the top, but the experience was incredible and the trees looked like a dream covered in snow.</p>
+					<p>The Lost Lake trail was a nice easy 15 minute walk from Whistler Village, we ended up getting really lost on the way there despite parts of it being well signposted! This is a pretty lake surrounded by dense forest, it's very peaceful and not at all overcrowded.</p>					
 					<figure>
-						<img src="images/whistler/tunnel-mountain-trail-in-snow-banff-canada.jpg" alt="Hiking in Tunnel Mountain in the snow, Banff - Alberta, Canada">
-						<figcaption>Hiking up Tunnel Mountain in the snow, Banff</figcaption>	
-					</figure>						
-					
-					<p>Our trip to Lake Louise was the highlight for me, we booked a <a target="_blank" href="https://www.banfftours.com/">Discover Banff Tour</a> to take us and it was just perfect. It snowed the day before and the snow settled, resulting in a stunning winter wonderland scene. It's  worth nipping into the impressive Fairmont Hotel to defrost and have a nose around this swanky hotel before heading back to the lake. On this tour we also visited the Fairmont Banff Springs Hotel, the Hoodoos, Bow River, Bow Falls, Surprise Corner and made a quick stop by the Vermillion Lakes to take some photos.</p>
-					<figure>
-						<img src="images/whistler/lake-louise-in-banff-canada.jpg" alt="Lake Louise surrounded by snowy trees in Banff - Alberta, Canada">
-						<figcaption>The incredible Lake Louise surrounded by snowy trees in Banff</figcaption>
+						<img src="images/whistler/lost-lake-whistler.jpg" alt="Lost Lake in Whistler, Canada">
+						<figcaption>Lost Lake in Whistler</figcaption>
 					</figure>		
-					<p>We stayed in Banff for 3 nights in October 2017 and I recommend staying for at least 5 nights to see everything. When I return, I'd like to visit the hot springs, take a ride on the Banff gondola and see Moraine Lake, Lake Minnewanka, Peyto Lake and Jasper National Park.</p>			
+					
+					<p>We would have liked to have done much more in Whistler, but unfortunately arrived during off-season so most key activities were closed! There's a period in October where the summer season ends and the winter season hasn't started, so not a great deal to do. Be sure to check the schedules when planning so you're not affected by this down time. On the plus side, as it wasn't a peak time we were able to dine at our chosen restaurants without having to book or queue and it was nice to explore without the area being overrun with tourists!</p>
+					<figure>
+						<img src="images/whistler/lost-lake-whistler-behind-trees.jpg" alt="Lost Lake behind the trees in Whistler, Canada">
+						<figcaption>Lost Lake behind the trees in Whistler</figcaption>	
+					</figure>	
+					
+					<p>We stayed in Whistler Village for 3 nights in October 2017 and I would say 3/5 nights is the perfect amount of time. When I return, I'd like to do the activities that were closed such as ride the Peak 2 Peak Gondola to the top of Blackcomb Mountain and go on a glacier tour.</p>			
 					<hr>
 					
 					<h2>My Top Tips</h2>
 					<ul>
-						<li>Wrap up warm - thermals, layers, waterproofs and comfortable shoes are a must, the temperature dropped to -10°C/14°F one night</li>
-						<li>Hiking necessities - don't be like me, pack bottles of water and energy bars... also don't bring a handbag it's a pain to carry!</li>
-						<li>No car, no problem - we got around fine without one. There are <a target="_blank" href="https://www.banfftours.com/">tours</a> you can do and <a target="_blank" href="http://roamtransit.com/schedules-routes/banff-local-route-one/">Roam buses</a> that can take you to places for $2 </li>
-						<li>So many lakes... so little time - Lake Louise is an absolute must! Make it a priority to visit this beauty otherwise you'll miss out</li>
+						<li>Check the schedule - October wasn't the best time to visit Whistler, you want to make sure it's not off-season and there is plenty to do</li>
+						<li>On your bike - there's a lot of bike rental places located	 in the village and at some hotels, ideal for some of the longer trails</li>
+						<li>To book or not to book  - if you're visiting during peak times I would advise you to book your restaurants in advance if possible</li>
 					</ul>
 					<hr>
-					<a class="button small" href="whistler">Read About Whistler</a>
+					<a class="button small" href="vancouver">Read About Vancouver</a>
 				</article>
 			</div>
 		</main>
