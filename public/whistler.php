@@ -18,7 +18,7 @@
 				<article class="large-12 column">
 					<h1>Whistler Village, Canada</h1>
 					<p>Hiking, biking, skiing... definitely a must stop destination for all thrill-	seekers. Whistler is located north of Vancouver and is where the 2010 Vancouver Winter Olympics were hosted, it's also home to Whistler Blackcomb which is an incredibly popular ski resort.</p>
-					<p>We travelled to Whistler from Vancouver International Airport on the Whistler Shuttle bus which took around 2.5 hours. Shuttles depart from the airport every hour (it did when we visited) so it's a great, convenient choice if you don't have a car. The views on the drive are just beautiful, you pass through Downtown Vancouver, Stanley Park and then have the ocean, trees and glacier covered mountains beside you. Whistler village is a pedestrianised, quaint, little town and has the most amazing red and autumnal coloured trees in October.</p>
+					<p>We travelled to Whistler from Vancouver International Airport on the <a target="_blank" href="https://www.whistler.com/getting-here/road/shuttle/">Whistler Shuttle</a> bus which took around 2.5 hours. Shuttles depart from the airport every hour (it did when we visited) so it's a great, convenient choice if you don't have a car. The views on the drive are just beautiful, you pass through Downtown Vancouver, Stanley Park and then have the ocean, trees and glacier covered mountains beside you. Whistler village is a pedestrianised, quaint, little town and has the most amazing red and autumnal coloured trees in October.</p>
 					<figure>
 						<img src="images/whistler/whistler-village-autumnal-colours.jpg" alt="Autumnal coloured trees in Whistler Village, Canada">
 						<figcaption>Autumnal coloured trees in Whistler Village</figcaption>
@@ -42,13 +42,13 @@
 						<figcaption>Lost Lake in Whistler</figcaption>
 					</figure>		
 					
-					<p>We would have liked to have done much more in Whistler, but unfortunately arrived during off-season so most key activities were closed! There's a period in October where the summer season ends and the winter season hasn't started, so not a great deal to do. Be sure to check the schedules when planning so you're not affected by this down time. On the plus side, as it wasn't a peak time we were able to dine at our chosen restaurants without having to book or queue and it was nice to explore without the area being overrun with tourists!</p>
+					<p>We would have liked to have done much more in Whistler, but unfortunately arrived during off-season so most key activities were closed! There's a period in October where the summer season ends and the winter season hasn't started, so not a great deal to do. Be sure to check the <a target="_blank" href="https://www.whistler.com/activities/">schedules</a> when planning so you're not affected by this down time. On the plus side, as it wasn't a peak time we were able to dine at our chosen restaurants without having to book or queue and it was nice to explore without the area being overrun with tourists!</p>
 					<figure>
 						<img src="images/whistler/lost-lake-whistler-behind-trees.jpg" alt="Lost Lake behind the trees in Whistler, Canada">
 						<figcaption>Lost Lake behind the trees in Whistler</figcaption>	
 					</figure>	
 					
-					<p>We stayed in Whistler Village for 3 nights in October 2017 and I would say 3/5 nights is the perfect amount of time. When I return, I'd like to do the activities that were closed such as ride the Peak 2 Peak Gondola to the top of Blackcomb Mountain and go on a glacier tour.</p>			
+					<p>We stayed in Whistler Village for 3 nights in October 2017 and I would say 3/5 nights is the perfect amount of time. When I return, I'd like to do the activities that were closed such as ride the <a target="_blank" href="https://www.whistler.com/activities/peak-to-peak-gondola/">Peak 2 Peak Gondola</a> to the top of Blackcomb Mountain and go on a glacier tour.</p>			
 					<hr>
 					
 					<h2>My Top Tips</h2>
