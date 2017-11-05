@@ -58,7 +58,7 @@
 						<li>These boots are made for walking - there are loads of lovely little districts to be explored, venture out to all/most of them</li>
 					</ul>
 					<hr>
-					<a class="button small" href="whistler">Read About Whistler</a>
+					<a class="button small" href="banff">Read About Banff</a>
 				</article>
 			</div>
 		</main>
