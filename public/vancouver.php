@@ -8,7 +8,7 @@
 	<?php include('structure/icons.php'); ?>
   </head>
   
-  <body>
+  <body id="blog-post">
 	  	  
 	<?php include('structure/header.php'); ?>
 	

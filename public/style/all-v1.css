@@ -21,12 +21,14 @@ section > h2:before, section > h2:after { content:'—'; }
 article { padding-bottom:20px; }
 article .row { padding:10px 0; }
 article .row:last-of-type { padding-bottom:40px; }
-article img { max-width:637px; width:100%; display:block; margin:0 auto; }
+article img { width:100%; display:block; margin:0 auto; }
+body:not(#blog-post) article img { max-width:637px; }
 article h2 + p { margin-top:0; }
 article p + .button { margin-top:5px; }
 section hr { border-bottom-color:#dfdfdf; }
 section h4 { margin:0; }
-section p { color:#7a7a7a; }
+section p, section ul { color:#7a7a7a; }
+figcaption { margin-top:10px; color:#c98f38; }
 
 /* Footer */
 footer { font-size:13px; background:#222222; border-top:5px solid black; padding:30px 0; }
@@ -37,12 +39,12 @@ footer p, footer a { color:#9E9E9E; margin:0; }
 #about article span { text-decoration:line-through; }
 #destinations article * { float:none; }
 #destinations article .large-9 { margin:0 auto; }
-#destinations article img { max-width:750px; padding-bottom:20px; }
-
+#destinations .wide { max-width:750px; padding-bottom:20px; }
+#blog-post main { padding-bottom:20px; }
 
 /* When article img and text stack */
 @media all and (max-width: 1023px) { 
-	article .row > div:nth-of-type(odd) { padding-bottom:20px; }
+	body:not(#destinations) article .row > div:nth-of-type(odd) { padding-bottom:20px; }
 	article .row > div:nth-of-type(even) { max-width:670px; float:none!important; margin:0 auto; }
 }
 
