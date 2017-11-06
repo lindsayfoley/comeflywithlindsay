@@ -22,7 +22,7 @@
 						</div>
 						<div class="large-6 column">
 							<h2>Track Me Down</h2>
-							<p>Always happy to receive questions and talk/write/message/babble, I like to talk and write, etc. so I'll probably respond right away.</p>
+							<p>Always happy to receive questions and talk/write/message/waffle, I like to talk and write so I'll probably respond right away.</p>
 							<p><a href="mailto:me@lindsayfoley.co.uk">Send me an email</a> or follow me on <a target="_blank" href="https://www.instagram.com/comeflywithlindsay/">Instagram</a>.</p>
 							
 							<a class="button small" href="destinations">Browse Destinations</a>

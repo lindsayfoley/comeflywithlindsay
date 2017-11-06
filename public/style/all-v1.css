@@ -53,20 +53,21 @@ footer p, footer a { color:#9E9E9E; margin:0; }
 /*****************************************/
 
 /* Mailchimp form */
-#mc_embed_signup_scroll { text-align:right; }
+#destinations #mc_embed_signup { text-align:center; padding-bottom:20px; }
 #mc-embedded-subscribe { margin-left:10px; font-weight:bold; }
 #mc_embed_signup .button { background-color:#FFB647!important; height:38px!important; width:auto!important; }
 #mc_embed_signup input.email { max-width:250px; }
 #mc_embed_signup_scroll label:first-of-type, #mce-EMAIL { margin-top:3px!important; }
 
 /* MailChimp form - desktop */
-@media all and (min-width: 832px) {
+@media all and (min-width: 836px) {
+	#blog-post #mc_embed_signup_scroll { text-align:right; }
 	#mc_embed_signup form { padding:0!important; }
 	#mc_embed_signup_scroll label { display:inline!important; }	
 }
 
 /* MailChimp form - large mobile */
-@media all and (max-width: 831px) {
+@media all and (max-width: 835px) {
 	#blog-post article > .column { width:100%; display:block; }	
 	#blog-post article > .column:first-of-type { margin-bottom:20px; padding-bottom:20px; border-bottom:1px solid #dfdfdf; }
 	#mc_embed_signup_scroll{ text-align:center; }
