@@ -32,15 +32,48 @@ figcaption { margin-top:10px; color:#c98f38; }
 
 /* Footer */
 footer { font-size:13px; background:#222222; border-top:5px solid black; padding:30px 0; }
-footer div > a { color:white; border-bottom:1px solid #AB7D38; }
+footer div:nth-of-type(2) a { color:white; border-bottom:1px solid #AB7D38; }
+footer #social { pointer-events:cursor; vertical-align:top; }
+footer #social a:first-of-type { font-size:25px; font-weight:bold; color:white; }
+footer #social a:last-of-type { padding-left:10px; fill:white; vertical-align:sub; }
+footer p { padding-top:10px; }
 footer p, footer a { color:#9E9E9E; margin:0; }
 
+/*****************************************/
+
 /* Pages */
+#homepage section > h2 a { text-decoration:none; }
 #about article span { text-decoration:line-through; }
 #destinations article * { float:none; }
 #destinations article .large-9 { margin:0 auto; }
 #destinations .wide { max-width:750px; padding-bottom:20px; }
 #blog-post main { padding-bottom:20px; }
+#blog-post article > .column { padding-left:0; padding-right:0; }
+
+/*****************************************/
+
+/* Mailchimp form */
+#mc_embed_signup_scroll { text-align:right; }
+#mc-embedded-subscribe { margin-left:10px; font-weight:bold; }
+#mc_embed_signup .button { background-color:#FFB647!important; height:38px!important; width:auto!important; }
+#mc_embed_signup input.email { max-width:250px; }
+#mc_embed_signup_scroll label:first-of-type, #mce-EMAIL { margin-top:3px!important; }
+
+/* MailChimp form - desktop */
+@media all and (min-width: 832px) {
+	#mc_embed_signup form { padding:0!important; }
+	#mc_embed_signup_scroll label { display:inline!important; }	
+}
+
+/* MailChimp form - large mobile */
+@media all and (max-width: 831px) {
+	#blog-post article > .column { width:100%; display:block; }	
+	#blog-post article > .column:first-of-type { margin-bottom:20px; padding-bottom:20px; border-bottom:1px solid #dfdfdf; }
+	#mc_embed_signup_scroll{ text-align:center; }
+	#mc_embed_signup label { padding-bottom:0!important; }
+}
+
+/*****************************************/
 
 /* When article img and text stack */
 @media all and (max-width: 1023px) { 
@@ -55,7 +88,8 @@ footer p, footer a { color:#9E9E9E; margin:0; }
 	nav li a { border-bottom:4px solid transparent; }
 	nav a:hover { border-color:#e6e6e6; }
 	footer p { text-align:right; } 
-	
+	footer #social { text-align:left; }
+
 	/* Homepage only */
 	#homepage header { background:url("/images/snowy-mountains-trees-banff-canada.jpg") no-repeat; background-position:center 70px; background-size:cover; padding:320px 0; } 
 	#homepage #main-menu { position:absolute; top:0; left:0; width:100%; }
