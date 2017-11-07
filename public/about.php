@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-	<title>About Lindsay | Come Fly With Lindsay | My Travel Blog</title>
+	<title>About Me | Come Fly With Lindsay | My Travel Blog</title>
 	<?php include('structure/meta.php'); ?>
 	<meta name="description" content="I am new to the world of travel blogging and was inspired to start my own guides after sourcing information about where to stay on holiday, best places to visit, where to eat, etc. from various different sites and resources.">
 	<?php include('structure/styles.php'); ?>
