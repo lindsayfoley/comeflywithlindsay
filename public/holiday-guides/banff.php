@@ -3,7 +3,7 @@
   <head>
 	<title>Banff - Alberta, Canada | Come Fly With Lindsay | My Travel Blog</title>
 	<?php include('../structure/meta.php'); ?>
-	<meta name="description" content="My experience travelling to the beautiful Banff in Alberta, Canada to see the Canadian Rocky Mountains.">
+	<meta name="description" content="A guide to Banff, Alberta in Canada to help you plan your holiday to the Canadian Rocky Mountains. Prepare for your visit by reading my guide on things to do and see in Banff.">
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>

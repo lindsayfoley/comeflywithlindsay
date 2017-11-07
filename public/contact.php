@@ -3,7 +3,7 @@
   <head>
 	<title>Contact Me | Come Fly With Lindsay | My Travel Blog</title>
 	<?php include('structure/meta.php'); ?>
-	<meta name="description" content="A couple of different ways to get in touch with me!">
+	<meta name="description" content="A couple of different ways to get in touch with me. Follow me on Instagram or send me an email.">
 	<?php include('structure/styles.php'); ?>
 	<?php include('structure/icons.php'); ?>
   </head>

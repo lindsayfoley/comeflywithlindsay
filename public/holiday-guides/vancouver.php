@@ -3,7 +3,7 @@
   <head>
 	<title>Downtown Vancouver - British Columbia, Canada | Come Fly With Lindsay | My Travel Blog</title>
 	<?php include('../structure/meta.php'); ?>
-	<meta name="description" content="My experience travelling to the amazing Downtown Vancouver in British Columbia, Canada to explore the city.">
+	<meta name="description" content="A guide to Downtown Vancouver with handy travel tips, my top experiences, information about where to visit, where to stay and what to do in Vancouver city.">
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>

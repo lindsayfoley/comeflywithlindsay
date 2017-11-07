@@ -3,7 +3,7 @@
   <head>
 	<title>Holiday Destinations | Come Fly With Lindsay | My Travel Blog</title>
 	<?php include('structure/meta.php'); ?>
-	<meta name="description" content="Destinations that I've travelled to with helpful guides detailing my adventures.">
+	<meta name="description" content="Find travel guides on Banff, Whistler, Downtown Vancouver and many more destinations on Come Fly With Lindsay; a new travel blog with handy travel guides to help you plan your holidays.">
 	<?php include('structure/styles.php'); ?>
 	<?php include('structure/icons.php'); ?>
   </head>

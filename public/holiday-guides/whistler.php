@@ -3,7 +3,7 @@
   <head>
 	<title>Whistler Village - British Columbia, Canada | Come Fly With Lindsay | My Travel Blog</title>
 	<?php include('../structure/meta.php'); ?>
-	<meta name="description" content="My experience travelling to the sporty Whistler in British Columbia, Canada to see the mountains.">
+	<meta name="description" content="A guide to Whistler, British Columbia in Canada detailing things to see and do in sporty Whistler and Whistler Village in fall, with tips on activities and ideas.">
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>

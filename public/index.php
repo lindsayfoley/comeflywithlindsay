@@ -3,7 +3,7 @@
   <head>
 	<title>Home | Come Fly With Lindsay | My Travel Blog</title>
 	<?php include('structure/meta.php'); ?>
-	<meta name="description" content="Come Fly With Lindsay, a new travel blog detailing my luxurious adventures abroad!">
+	<meta name="description" content="Welcome to Come Fly With Lindsay, a new travel blog with travel guides to help you plan your holiday/vacation with handy travel tips detailing things to see and do, my advice on where to visit and where to stay.">
 	<?php include('structure/styles.php'); ?>
 	<?php include('structure/icons.php'); ?>
 	<link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
