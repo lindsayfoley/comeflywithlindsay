@@ -1,9 +1,9 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-	<title>Downtown Vancouver - British Columbia, Canada | Come Fly With Lindsay | My Travel Blog</title>
+	<title>Travel Guide on Vancouver, Canada | Come Fly With Lindsay</title>
 	<?php include('../structure/meta.php'); ?>
-	<meta name="description" content="A guide to Downtown Vancouver with handy travel tips, my top experiences, information about where to visit, where to stay and what to do in Vancouver city.">
+	<meta name="description" content="A travel guide on Downtown Vancouver with handy travel tips, top experiences, information about where to visit, where to stay and what to do in Vancouver city.">
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>

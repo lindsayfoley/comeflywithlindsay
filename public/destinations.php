@@ -1,9 +1,9 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-	<title>Holiday Destinations | Come Fly With Lindsay | My Travel Blog</title>
+	<title>Travel Guides On Many Destinations | Come Fly With Lindsay</title>
 	<?php include('structure/meta.php'); ?>
-	<meta name="description" content="Find travel guides on Banff, Whistler, Downtown Vancouver and many more destinations on Come Fly With Lindsay; a new travel blog with handy travel guides to help you plan your holidays.">
+	<meta name="description" content="Travel guides on Banff, Whistler, Vancouver and other holiday destinations on Come Fly With Lindsay; a travel blog with handy guides to help plan your holidays.">
 	<?php include('structure/styles.php'); ?>
 	<?php include('structure/icons.php'); ?>
   </head>

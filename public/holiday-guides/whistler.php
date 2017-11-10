@@ -1,9 +1,9 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-	<title>Whistler Village - British Columbia, Canada | Come Fly With Lindsay | My Travel Blog</title>
+	<title>Travel Guide On Whistler, Canada | Come Fly With Lindsay</title>
 	<?php include('../structure/meta.php'); ?>
-	<meta name="description" content="A guide to Whistler, British Columbia in Canada detailing things to see and do in sporty Whistler and Whistler Village in fall, with tips on activities and ideas.">
+	<meta name="description" content="A guide to Whistler, British Columbia in Canada detailing things to see and do in sporty Whistler and Whistler Village in fall, with tips and ideas.">
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>
