@@ -16,12 +16,13 @@
 		<main class="row">
 			<div class="large-12 column">
 				<article>
+					<p id="intro">I've created these travel guides to provide you with tips and advice on your upcoming holidays as well to inspire you about some incredible destinations that you may not have even considered visiting!</p>
 					<div class="row">
 						<img class="wide column" src="images/snow-covered-trees-mountains-banff-canada-wide.jpg" alt="Winter wonderland, snow topped mountains and trees in Banff - Alberta, Canada">
 						<div class="large-9 medium-10 column">
 							<h2><a href="/holiday-guides/banff">Banff National Park, Canada</a></h2>
 							<p>Part of the Rocky Mountains, you'll see the most amazing scenery; snowy mountains, fir trees and lakes.</p>
-							<a class="button small" href="/holiday-guides/banff">More About Banff</a>
+							<a class="button small" href="/holiday-guides/banff">View My Guide On Banff</a>
 						</div>
 					</div>
 					<hr>
@@ -30,7 +31,7 @@
 						<div class="large-9 column medium-10">
 							<h2><a href="/holiday-guides/whistler">Whistler Village, Canada</a></h2>
 							<p>A cool little village, 2 hours drive from Vancouver Airport with a focus on sports and outdoor activities.</p>
-							<a class="button small" href="/holiday-guides/whistler">Read About Whistler</a>
+							<a class="button small" href="/holiday-guides/whistler">Read On About Whistler</a>
 						</div>
 					</div>
 					<hr>
@@ -39,7 +40,7 @@
 						<div class="large-9 medium-10 column">
 							<h2><a href="/holiday-guides/vancouver">Downtown Vancouver, Canada</a></h2>
 							<p>A must for those who enjoy city breaks and plenty of walking! Downtown Van has loads to see and do.</p>
-							<a class="button small" href="/holiday-guides/vancouver">More On Vancouver</a>
+							<a class="button small" href="/holiday-guides/vancouver">My Vancouver Guide</a>
 						</div>
 					</div>	
 					

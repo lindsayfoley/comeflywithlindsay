@@ -15,8 +15,8 @@
 	<div id="featured-img-mobile" class="row"></div>
 	
 	<section>
-		<h1>Travel the world with me</h1>
-		<h2 class="text-center"><a href="destinations">My Recent Travels</a></h2>
+		<h1><a href="destinations">Travel Inspiration &amp; Guides</a></h1>
+		<h2 class="text-center"><a href="destinations">Travelling The World One Stop At A Time</a></h2>
 		<main class="row">
 			<div class="large-12 column">
 				<article>

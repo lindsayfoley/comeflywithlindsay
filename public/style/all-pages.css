@@ -25,6 +25,7 @@ article img { width:100%; display:block; margin:0 auto; }
 body:not(#blog-post) article img { max-width:637px; }
 article h2 + p { margin-top:0; }
 article p + .button { margin-top:5px; }
+#intro { text-align:center; font-size:18px; }
 section hr { border-bottom-color:#dfdfdf; }
 section h4 { margin:0; }
 section p, section ul { color:#7a7a7a; }
@@ -42,7 +43,7 @@ footer p, footer a { color:#9E9E9E; margin:0; }
 /*****************************************/
 
 /* Pages */
-#homepage section > h2 a { text-decoration:none; }
+#homepage section > h2 a { text-decoration:none; padding:0 5px; }
 #about article span { text-decoration:line-through; }
 #destinations article * { float:none; }
 #destinations article .large-9 { margin:0 auto; }
@@ -94,7 +95,8 @@ footer p, footer a { color:#9E9E9E; margin:0; }
 	/* Homepage only */
 	#homepage header { background:url("/images/snowy-mountains-trees-banff-canada.jpg") no-repeat; background-position:center 70px; background-size:cover; padding:320px 0; } 
 	#homepage #main-menu { position:absolute; top:0; left:0; width:100%; }
-	#homepage h1, #homepage h1:after { position:absolute; left:0; font-family:'Satisfy', cursive; color:white; text-align:center; width:100%; font-size:65px; }
+	#homepage h1, #homepage h1:after { position:absolute; left:0; font-family:'Satisfy', cursive; text-align:center; width:100%; font-size:65px; }
+	#homepage h1 a, #homepage h1:after { color:white; text-decoration:none; }
 	#homepage h1 { top:410px; }
 	#homepage h1:after { content:'—'; top:40px; }
 }

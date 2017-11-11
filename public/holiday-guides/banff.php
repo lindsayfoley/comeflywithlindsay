@@ -28,6 +28,12 @@
 						<img src="/images/banff/moose-hotel-and-suites-banff-canada.jpg" alt="Moose Hotel and Suites, Banff">
 						<figcaption>The exterior of Moose Hotel and Suites</figcaption>
 					</figure>
+	
+					<p>We had a lovely breakfast one morning at Pacini the onsite restaurant, it was excellent value and featured generous portions. Each breakfast came with a fruit salad and a Duo Mattino, which is a mini slice of fruity bread and a shot of yoghurt and granola. You could also visit the bread bar for free which had a variety of sliced bread and spreads - a great way to fuel up before heading out in the cold!</p>
+					<figure>
+						<img src="/images/banff/eggs-benedict-at-pacini-moose-hotel-and-suites.jpg" alt="Eggs Benedict at Pacini in Moose Hotel and Suites, Banff">
+						<figcaption>Eggs Benedict at Pacini, Moose Hotel and Suites</figcaption>
+					</figure>
 					
 					<p>I recommend spending some time walking around the cute little resort town of Banff and going on some easy walking trails, you'll be amazed at what you can see just by walking a short distance. The Bow River trail is a nice, easy, picturesque walk and leads to Bow Falls.</p>
 					<figure>
