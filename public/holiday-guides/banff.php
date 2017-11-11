@@ -3,7 +3,7 @@
   <head>
 	<title>Handy Travel Guide On Banff, Canada | Come Fly With Lindsay</title>
 	<?php include('../structure/meta.php'); ?>
-	<meta name="description" content="A handy travel guide on Banff in Alberta, Canada to help plan your holiday to the Canadian Rocky Mountains. Prepare by reading my tips on things to do and see.">
+	<meta name="description" content="A handy travel guide on Banff in Alberta, Canada to plan your holiday to the Canadian Rockies. Read my tips on things to do and see by Come Fly With Lindsay">
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>

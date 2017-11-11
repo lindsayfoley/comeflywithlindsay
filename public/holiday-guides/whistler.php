@@ -3,7 +3,7 @@
   <head>
 	<title>Travel Guide On Whistler, Canada | Come Fly With Lindsay</title>
 	<?php include('../structure/meta.php'); ?>
-	<meta name="description" content="A guide to Whistler, British Columbia in Canada detailing things to see and do in sporty Whistler and Whistler Village in fall, with tips and ideas.">
+	<meta name="description" content="A guide to Whistler, British Columbia in Canada with things to do and see in sporty Whistler in autumn, with tips and ideas by Come Fly With Lindsay">
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>

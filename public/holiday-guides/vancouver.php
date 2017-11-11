@@ -3,7 +3,7 @@
   <head>
 	<title>Travel Guide on Vancouver, Canada | Come Fly With Lindsay</title>
 	<?php include('../structure/meta.php'); ?>
-	<meta name="description" content="A travel guide on Downtown Vancouver with handy travel tips, top experiences, information about where to visit, where to stay and what to do in Vancouver city.">
+	<meta name="description" content="Travel guide on Downtown Vancouver with handy travel tips, experiences, info on where to visit, to stay and what to do in Vancouver by Come Fly With Lindsay">
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>

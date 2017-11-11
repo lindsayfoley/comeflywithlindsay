@@ -3,7 +3,7 @@
   <head>
 	<title>About Lindsay Foley Author Of Come Fly With Lindsay</title>
 	<?php include('structure/meta.php'); ?>
-	<meta name="description" content="New to travel blogging, I was inspired to write travel guides after sourcing information about upcoming holidays from tons of online resources and guide books.">
+	<meta name="description" content="I was inspired to start Come Fly With Lindsay after sourcing information about upcoming holidays from tons of online travel resources and guide books">
 	<?php include('structure/styles.php'); ?>
 	<?php include('structure/icons.php'); ?>
   </head>
