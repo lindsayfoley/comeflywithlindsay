@@ -103,7 +103,7 @@ footer p, footer a { color:#9E9E9E; margin:0; }
 
 /* Mobile */
 @media all and (max-width: 667px) {
-	div > nav, #homepage h1 { display:none; }
+	div > nav, #homepage h1, #homepage h2:before, #homepage h2:after { display:none; }
 	.hamburger-container { position:absolute; left:0; top:10px; width:75px; padding:15px 0; margin-top:10px; }
 	.hamburger-container div { width:22px; height:4px; background-color:#333; margin:4px 0 4px 20px; transition:0.4s; }
 	.hamburger-container div:first-of-type { margin-top:0; }	
