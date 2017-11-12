@@ -9,6 +9,7 @@
 
   gtag('config', 'UA-109147525-1');
 </script>
+<script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
 
 
