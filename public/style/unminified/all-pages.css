@@ -112,5 +112,6 @@ footer p, footer a { color:#9E9E9E; margin:0; }
 
 	/* Homepage only */
 	#homepage #featured-img-mobile { background:url("/images/snowy-mountains-trees-banff-canada.jpg") no-repeat; background-position:center center; background-size:cover; min-height:180px; }
+	#page-top { display:none; position:fixed; right:20px; top:73%; width:70px; height:70px; padding:10px; text-align:center; text-decoration:none; background-color:rgba(37,33,29, 0.6); color:white; font-weight:bold; border-radius:100%; box-shadow:0px 3px 15px rgba(0,0,0,0.2); }
 }
 
