@@ -49,8 +49,16 @@
 					</figure>	
 					
 					<p>We stayed in Whistler Village for 3 nights in October 2017 and I would say 3/5 nights is the perfect amount of time. When I return, I'd like to do the activities that were closed such as ride the <a target="_blank" href="https://www.whistler.com/activities/peak-to-peak-gondola/">Peak 2 Peak Gondola</a> to the top of Blackcomb Mountain and go on a glacier tour.</p>			
-					<hr>
 					
+					<hr>
+					<h2>Fav Restaurants</h2>
+					<ul>
+						<li>Breakfast - if you fancy a healthy-ish, filling savoury or sweet crepe, I highly recommend a visit to <a target="_blank" href="http://crepemontagne.com/">Crepe Montagne</a></li>
+						<li>Lunch/sweets - everything in <a href="https://www.purebread.ca/">Purebread</a> looks incredible! This is a great cafe but it's very tiny with limited seating</li>
+						<li>Dinner - if you're looking for a place for drinks, or perhaps a light dinner/small plates, <a target="_blank" href="http://labocca.ca/">La Bocca</a> is a great choice</li>
+					</ul>
+					
+					<hr>
 					<h2>My Top Tips</h2>
 					<ul>
 						<li>Check the schedule - October wasn't the best time to visit Whistler, you want to make sure it's not off-season and there is plenty to do</li>

@@ -49,8 +49,16 @@
 						<figcaption>Visiting the penguins at Vancouver Aquarium</figcaption>
 					</figure>		
 					<p>We stayed in Vancouver for 4 nights and I could have easily stayed another 2. It does rain a lot which may hinder your plans for outdoor activities. On my return, I'll visit <a target="_blank" href="https://www.capbridge.com/">Capilano Suspension Bridge</a>, Granville Island, VanDusen Botanical Garden and Queen Elizabeth Park.</p>					
+
 					<hr>
+					<h2>Fav Restaurants</h2>
+					<ul>
+						<li>Breakfast - we ended up going to <a target="_blank" href="http://www.chezcora.com">Cora</a> twice! You'll get an incredibly generous portion of lovely, reasonably priced food</li>
+						<li>Lunch/drinks - <a target="_blank" href="http://www.timbervancouver.com/">Timber</a> is good for drinks and lunch, it's not overly busy and serves nice comfort food like burgers and mac and cheese</li>
+						<li>Dinner - we had the best dinner in <a target="_blank" href="http://www.surakoreancuisine.com/#robson">Sura</a> located on Robson Street, every dish we tried in this Korean restaurant was 10/10!</li>
+					</ul>
 					
+					<hr>
 					<h2>My Top Tips</h2>
 					<ul>
 						<li>Pick the right hotel - I got this so very wrong, so please make sure you choose one rated highly which has consistent reviews</li>
