@@ -42,11 +42,6 @@
 							<p>A must for those who enjoy city breaks and plenty of walking! Downtown Van has loads to see and do.</p>
 							<a class="button small" href="/holiday-guides/vancouver">My Vancouver Guide</a>
 						</div>
-					</div>	
-					
-					<hr>
-					<div class="large-12 column">
-						<?php include('structure/sign-up-form.php'); ?>
 					</div>				
 				</article>
 			</div>

@@ -48,7 +48,10 @@
 					</figure>
 					
 					<p>After a chilly day out you have to visit the cosy <a target="_blank" href="http://banffgrizzlyhouse.com/">Grizzly House</a> in town and indulge in their delicious cheese fondue for two! This is hands down the best fondue I've ever had, it features the usual mix of Swiss cheese, wine and Kirsch, but it's not too boozy and is served with a generous basket of bread cubes. This restaurant gets very busy so I highly recommend making a reservation.</p>
-					<video controls><source src="/videos/cheese-fondue-grizzly-house.mp4">Your browser does not support the video tag.</video>						
+					
+					<div class="video-container">
+						<iframe src="https://www.youtube.com/embed/lA-W0DFlAbg?rel=0" gesture="media" allowfullscreen></iframe>
+					</div>
 					
 					<p>Lake Louise was the highlight for me, we booked a <a target="_blank" href="https://www.banfftours.com/">Discover Banff Tour</a> as we didn't have a car and it was just perfect. It snowed the day before and the snow settled, resulting in a stunning winter wonderland scene. It's  worth nipping into the impressive Fairmont Hotel to defrost and have a nose around this swanky hotel before heading back to the lake. On this tour we also visited the Fairmont Banff Springs Hotel, the Hoodoos, Bow River, Bow Falls, Surprise Corner and made a quick stop by the Vermillion Lakes to take some photos.</p>
 					<figure>
@@ -58,7 +61,7 @@
 					<p>We stayed in Banff for 3 nights in October 2017 and I recommend staying for at least 5 nights to see everything. When I return, I'd like to visit the hot springs, take a ride on the Banff gondola and see Moraine Lake, Lake Minnewanka, Peyto Lake and Jasper National Park.</p>			
 					<hr>
 					
-					<h2>My Top Restaurants</h2>
+					<h2>Fav Restaurants</h2>
 					<ul>
 						<li>Breakfast/Lunch - for a Southern/Tex Mex breakfast, I recommend the Breakfast Burrito at <a target="_blank" href="http://coyotesbanff.com/">Coyotes</a> and the Southwestern Club</li>
 						<li>Dinner - for steak fans, try <a target="_blank" href="http://www.saltlik.com/banff/">Saltlik</a> and order the 10oz Blue Cheese California Cut Striploin with Truffle Mushroom Mac and Cheese</li>
@@ -73,12 +76,9 @@
 						<li>So many lakes... so little time - Lake Louise is an absolute must! Make it a priority to visit this beauty otherwise you'll miss out</li>
 					</ul>
 					<hr>
-					<div class="large-3 medium-3 small-12 column">
-						<a class="button small" href="../holiday-guides/whistler">Read About Whistler</a>
-					</div>
-					<div class="large-9 medium-9 small-12 column">
-						<?php include('../structure/sign-up-form.php'); ?>
-					</div>
+					<div class="large-12 column text-right">
+						<a class="button small" href="../holiday-guides/whistler">View Whistler Guide</a>
+					</div>				
 				</article>
 			</div>
 		</main>

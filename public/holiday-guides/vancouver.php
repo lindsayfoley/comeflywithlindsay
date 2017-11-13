@@ -58,12 +58,9 @@
 						<li>These boots are made for walking - there are loads of lovely little districts to be explored, venture out to all/most of them</li>
 					</ul>
 					<hr>
-					<div class="large-3 medium-3 small-12 column">
+					<div class="large-12 column text-right">
 						<a class="button small" href="../holiday-guides/banff">Read About Banff</a>
-					</div>
-					<div class="large-9 medium-9 small-12 column">
-						<?php include('../structure/sign-up-form.php'); ?>
-					</div>
+					</div>	
 				</article>
 			</div>
 		</main>
