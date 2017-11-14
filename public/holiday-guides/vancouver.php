@@ -17,18 +17,23 @@
 			<div class="large-12 column">
 				<article class="large-12 column">
 					<h1>Downtown Vancouver, Canada</h1>
-					<p>I can see why Downtown Vancouver is such a popular destination, it's a city that has it all; mountains, ocean, forests, parks and beaches. The skyscraper buildings and business districts are reminiscent of New York but on a much smaller scale and nowhere near as busy. There's a lot to see and do in Van and if you're lucky you may even see something being filmed!</p>
+					<p>I can see why Downtown Vancouver is such a popular destination, it's a city that has it all; mountains, ocean, forests, parks and beaches. The skyscraper buildings and business districts are reminiscent of New York but on a much smaller scale and nowhere near as busy. There's a lot to see and do in Van city and if you're lucky you may even see something being filmed!</p>
 					<figure>
 						<img src="/images/vancouver/downtown-vancouver-at-night.jpg" alt="Robson Street in Downtown Vancouver at night, Canada">
 						<figcaption>Robson Street in Downtown Vancouver at night</figcaption>
 					</figure>
 					
-					<p>We had a nice, comfortable journey travelling from Whistler Village to Downtown Vancouver on the <a target="_blank" href="http://www.pacificcoach.com/">Pacific Coach</a>. We stayed at a 4-star hotel on Robson Street which location wise was perfect, however the hotel standards were pretty shocking so I won't be mentioning the name of it! You could stay in any of the districts in Downtown Vancouver and manage to walk to most places, so there really are no bad decisions you can make based on location. The Theatre district and historic districts of Gastown and Yaletown were my favourite spots.</p>
+					<p>We had a comfortable journey travelling from Whistler Village to Downtown Vancouver on the <a target="_blank" href="http://www.pacificcoach.com/">Pacific Coach</a>. We stayed at a 4-star hotel on Robson Street which location wise was perfect, however the hotel standards were pretty shocking so I won't be mentioning the name of it! You could stay in any of the districts in Downtown Vancouver and you'll be able to walk to most places, so there really are no bad decisions you can make based on location. The Theatre district and historic districts of Gastown and Yaletown were my favourite spots.</p>
 					<figure>
 						<img src="/images/vancouver/steam-clock-gastown-vancouver.jpg" alt="The steam clock in Gastown, Downtown Vancouver, Canada">
 						<figcaption>The steam clock in Gastown, Downtown Vancouver</figcaption>
 					</figure>	
-
+					
+					<p>We were spoilt for choice when it came to dining as there's an abundance of restaurants on Robson. We found <a target="_blank" href="http://www.chezcora.com">Cora</a> which at first I thought looked like IHOP, but to my delight it turned out to be way better! Cora has a vast menu and served up ample portions at a cheap price! Most breakfast dishes came with a jumbo portion of fruit on the side which was an added bonus as we were eating like pigs!</p>
+					<figure>
+						<img src="/images/vancouver/french-toast-with-fruit-cora-vancouver.jpg" alt="French toast with bacon, eggs and fruit at Cora, Downtown Vancouver, Canada">
+						<figcaption>Yummy breakfast at Cora on Robson in Downtown Vancouver</figcaption>
+					</figure>						
 					
 					<p>Coal Harbour and Stanley Park are exceptional, when the sun is out I recommend renting a bike for a few hours and cycling around these areas. We rented bikes from <a target="_blank" href="http://www.spokesbicyclerentals.com/">Spokes</a>, located near Stanley Park and cycled leisurely around Stanley Park in about an hour. We stopped frequently to take pictures of the scenery and occasionally I fell off my bike when other cyclists yelled 'coming through' and overtook me!</p>
 
@@ -53,7 +58,7 @@
 					<hr>
 					<h2>Fav Restaurants</h2>
 					<ul>
-						<li>Breakfast - we ended up going to <a target="_blank" href="http://www.chezcora.com">Cora</a> twice! You'll get an incredibly generous portion of lovely, reasonably priced food</li>
+						<li>Breakfast - I mentioned <a target="_blank" href="http://www.chezcora.com">Cora</a> above and I highly recommend going, especially if you are on a budget. Vancouver is pretty pricey</li>
 						<li>Lunch/drinks - <a target="_blank" href="http://www.timbervancouver.com/">Timber</a> is good for drinks and lunch, it's not overly busy and serves nice comfort food like burgers and mac and cheese</li>
 						<li>Dinner - we had the best dinner in <a target="_blank" href="http://www.surakoreancuisine.com/#robson">Sura</a> located on Robson Street, every dish we tried in this Korean restaurant was 10/10!</li>
 					</ul>
