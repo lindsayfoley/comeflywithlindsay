@@ -1,22 +1,15 @@
-var MobileNav = {
-
-	toggleNav: function() {
-		$('nav').slideToggle();
-	},
+var toggleHamburgerNav = function() {
 	
-	registerHamburgerIconForTaps: function() {
-		$('.hamburger-container').click(function(e){
-			MobileNav.toggleNav();
-			e.stopPropagation();
-		});
-	}
+	$('.hamburger-container').click(function(e){
+		$('nav').slideToggle();
+		e.stopPropagation();
+	});
 };
-
 
 /*
 var addBackToTopButton = function() {
 	
-	var windowVerticalPosition = $(window).scrollTop();
+	var windowVerticalPoesition = $(window).scrollTop();
 	
 	if(windowVerticalPosition > 800) {
 		$('article').after('<a id="page-top" href="#blog-post">Back To Top</a>').show();		
@@ -30,5 +23,5 @@ $(window).one('scroll', function() {
 
 
 $(document).ready(function() {
-	MobileNav.registerHamburgerIconForTaps()
+	toggleHamburgerNav();
 });
