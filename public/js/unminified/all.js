@@ -1,19 +1,13 @@
 var MobileNav = {
-	
-	windowWidth : function() {	
-		return $(window).width();
-	},
-	
-	maxMobileWidth: 667,
 
-	toggleNav: function(e) {
+	toggleNav: function() {
 		$('nav').slideToggle();
-		e.stopPropagation();
 	},
 	
 	registerHamburgerIconForTaps: function() {
-		$('.hamburger-container').click(function(){
+		$('.hamburger-container').click(function(e){
 			MobileNav.toggleNav();
+			e.stopPropagation();
 		});
 	}
 };
@@ -36,13 +30,5 @@ $(window).one('scroll', function() {
 
 
 $(document).ready(function() {
-	if(MobileNav.windowWidth() <= MobileNav.maxMobileWidth) {
-		MobileNav.registerHamburgerIconForTaps();
-	}
-});
-
-$(window).resize(function() {
-	if(MobileNav.windowWidth() <= MobileNav.maxMobileWidth) {
-		MobileNav.registerHamburgerIconForTaps();
-	}
+	MobileNav.registerHamburgerIconForTaps()
 });
