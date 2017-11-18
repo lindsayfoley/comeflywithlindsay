@@ -94,7 +94,7 @@ footer p, footer a { color:#9E9E9E; margin:0; }
 	footer #social { text-align:left; }
 
 	/* Homepage only */
-	#homepage header { background:url("/images/snowy-mountains-trees-banff-canada.jpg") no-repeat; background-position:center 70px; background-size:cover; padding:320px 0; } 
+	#homepage header { background:url("/images/homepage/snowy-mountains-trees-banff-canada.jpg") no-repeat; background-position:center 70px; background-size:cover; padding:320px 0; } 
 	#homepage #main-menu { position:absolute; top:0; left:0; width:100%; }
 	#homepage h1, #homepage h1:after { position:absolute; left:0; font-family:'Satisfy', cursive; text-align:center; width:100%; font-size:65px; }
 	#homepage h1 a, #homepage h1:after { color:white; text-decoration:none; }

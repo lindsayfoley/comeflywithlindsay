@@ -22,7 +22,7 @@
 				<article>
 					<div class="row">
 						<div class="large-6 column">
-							<img src="images/snow-covered-trees-mountains-banff-canada.jpg" alt="Winter wonderland, snow topped mountains and trees in Banff - Alberta, Canada">
+							<img src="images/homepage/snow-covered-trees-mountains-banff-canada.jpg" alt="Winter wonderland, snow topped mountains and trees in Banff - Alberta, Canada">
 						</div>
 						<div class="large-6 column">
 							<h2><a href="/holiday-guides/banff">Banff National Park, Canada</a></h2>
@@ -34,7 +34,7 @@
 					<hr>
 					<div class="row">
 						<div class="large-6 column">
-							<img src="images/port-view-stanley-park-vancouver.jpg" alt="A view of the port and boats taken in Stanley Park">
+							<img src="images/homepage/port-view-stanley-park-vancouver.jpg" alt="A view of the port and boats taken in Stanley Park">
 						</div>
 						<div class="large-6 column">
 							<h2><a href="/holiday-guides/vancouver">Downtown Vancouver, Canada</a></h2>
