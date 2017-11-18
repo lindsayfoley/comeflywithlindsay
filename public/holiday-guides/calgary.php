@@ -3,7 +3,7 @@
   <head>
 	<title>Travel Guide On Downtown Calgary, Canada | Come Fly With Lindsay</title>
 	<?php include('../structure/meta.php'); ?>
-	<meta name="description" content="My inside guide to spending a couple of nights in Downtown Calgary in Alberta, Canada. Blog post by Come Fly With Lindsay">
+	<meta name="description" content="My insiders guide to spending a couple of nights in Downtown Calgary in Alberta, Canada. Read Come Fly With Lindsay's blog post to prepare for your Calgary trip">
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>
@@ -38,7 +38,7 @@
 						<figcaption>Olympic Plaza in Downtown Calgary</figcaption>
 					</figure>
 										
-					<p>We went to <a target="_blank" href="http://www.calgarytower.com/">Calgary Tower</a> one evening for dinner and to checkout the panoramic views of the city from the observation deck. We chose to eat at the revolving restaurant, <a target="_blank" href="http://www.sky360.ca/">Sky 360</a> which was definitely a unique dining experience with pleasant food and excellent service. Top tip... don't leave your handbag on the window ledge, I learned the hard way that this doesn't rotate with you!</p>
+					<p>We went to <a target="_blank" href="http://www.calgarytower.com/">Calgary Tower</a> one evening for dinner and to checkout the 360-degree views of the city from the observation deck. We chose to eat at the revolving restaurant, <a target="_blank" href="http://www.sky360.ca/">Sky 360</a> which was definitely a unique dining experience with pleasant food and excellent service. Top tip... don't leave your handbag on the window ledge, I learned the hard way that this doesn't rotate with you!</p>
 					<figure>
 						<img src="/images/calgary/sky-360-restaurant-calgary-tower.jpg" alt="The observation deck in Calgary Tower">
 						<figcaption>Don't look down... the observation deck in Calgary Tower</figcaption>

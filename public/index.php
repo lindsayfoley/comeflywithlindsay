@@ -22,13 +22,25 @@
 				<article>
 					<div class="row">
 						<div class="large-6 column">
+						<img src="/images/homepage/olympic-plaza-calgary.jpg" alt="Olympic Plaza in Downtown Calgary">
+						</div>
+						<div class="large-6 column">
+							<h2><a href="/holiday-guides/banff">Downtown Calgary, Canada</a></h2>
+							<p>A walkable region in central Calgary in the province of Alberta</p>
+							<p><strong>NEW post!</strong> If you're planning a getaway to Calgary's city centre for a weekend break or a quick stopover before heading to the majestic Banff, have a look at my travel guide for hints and tips on what to do in preparation of your own travels.</p>
+							<a class="button small" href="/holiday-guides/calgary">Downtown Calgary Guide</a>
+						</div>
+					</div>					
+					<hr>
+					<div class="row">
+						<div class="large-6 column">
 							<img src="images/homepage/snow-covered-trees-mountains-banff-canada.jpg" alt="Winter wonderland, snow topped mountains and trees in Banff - Alberta, Canada">
 						</div>
 						<div class="large-6 column">
 							<h2><a href="/holiday-guides/banff">Banff National Park, Canada</a></h2>
 							<p>Definitely one of the most beautiful places, possibly in existence</p>
-							<p>Behold stunning mountain scenery in every direction that you look. Banff was my first stop on my recent 2 week holiday to the West coast of Canada. I visited in October to get a glimpse of the the autumnal colours in Canada in fall, and I was not disappointed!</p>
-							<a class="button small" href="/holiday-guides/banff">Banff Holiday Guide</a>
+							<p>Behold stunning mountain scenery in every direction that you look. Banff was my second stop on my recent 2 week holiday to the West coast of Canada. I visited in October to get a glimpse of the the autumnal colours in Canada in fall and I was not disappointed!</p>
+							<a class="button small" href="/holiday-guides/calgary">Banff Holiday Guide</a>
 						</div>
 					</div>
 					<hr>
@@ -39,7 +51,7 @@
 						<div class="large-6 column">
 							<h2><a href="/holiday-guides/vancouver">Downtown Vancouver, Canada</a></h2>
 							<p>Easily one of the best cities I have ever had the pleasure of visiting</p>
-							<p>Cycling around Stanley Park, roaming around Gastown and Yaletown, these are just a few of my favourite moments spent in downtown Vancouver. There's a lot to do in and see in Van, you may even see something being filmed! I'd recommend at least 5 nights here.</p>
+							<p>Cycling around Stanley Park, roaming around Gastown and Yaletown, these are just a few of my favourite moments spent in this vibrant city. There's an abundance of things to do and see in Vancouver and hopefully this guide will help you to prioritise and plan.</p>
 							<a class="button small" href="/holiday-guides/vancouver">Vancouver Holiday Guide</a>
 						</div>
 					</div>				
