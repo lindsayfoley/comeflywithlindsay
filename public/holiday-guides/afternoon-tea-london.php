@@ -51,19 +51,12 @@
 					<hr>
 
 <!--
-					<h3>4. Sparkling Afternoon Tea, Kingsway Hall Hotel - Covent Garden</h3>
+					<h3>Afternoon Tea, Kingsway Hall Hotel - Covent Garden</h3>
 					<p></p>
 					<figure>
-						<img src="/images/london/TBC.jpg" alt="TBC">
+						<img src="/images/london/afternoon-tea-kingsway-hall-hotel.jpg" alt="Afternoon Tea at the Kingsway Hall Hotel">
 						<figcaption>Afternoon tea at Kingsway Hall Hotel</figcaption>
-					</figure>
-
-					<h3>5.TBC</h3>
-					<p></p>
-					<figure>
-						<img src="/images/london/TBC.jpg" alt="TBC">
-						<figcaption>TBC</figcaption>
-					</figure>																			
+					</figure>																		
 					<hr>
 -->
 					<h2>My Top Tips</h2>
