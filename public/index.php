@@ -20,6 +20,20 @@
 		<main class="row">
 			<div class="large-12 column">
 				<article>
+
+					<div class="row">
+						<div class="large-6 column">
+						<img src="/images/homepage/afternoon-tea-london.jpg" alt="Afternoon tea at Fortnum and Mason in London, England">
+						</div>
+						<div class="large-6 column">
+							<h2><a href="/holiday-guides/afternoon-tea-london">Afternoon Tea, London</a></h2>
+							<p>A quintessential English custom introduced in Britain in 1840</p>
+							<p><strong>NEW post!</strong> With so many places to choose from including top hotels, tea rooms, upmarket department stores and even museums! Afternoon tea in London can be found almost anywhere - so here are my top picks to help you narrow things down!</p>
+							<a class="button small" href="/holiday-guides/afternoon-tea-london">London Afternoon Tea Guide</a>
+						</div>
+					</div>					
+					<hr>
+										
 					<div class="row">
 						<div class="large-6 column">
 						<img src="/images/homepage/olympic-plaza-calgary.jpg" alt="Olympic Plaza in Downtown Calgary">
@@ -32,6 +46,7 @@
 						</div>
 					</div>					
 					<hr>
+					
 					<div class="row">
 						<div class="large-6 column">
 							<img src="images/homepage/snow-covered-trees-mountains-banff-canada.jpg" alt="Winter wonderland, snow topped mountains and trees in Banff - Alberta, Canada">
@@ -43,6 +58,7 @@
 							<a class="button small" href="/holiday-guides/calgary">Banff Holiday Guide</a>
 						</div>
 					</div>
+<!--
 					<hr>
 					<div class="row">
 						<div class="large-6 column">
@@ -54,7 +70,8 @@
 							<p>Cycling around Stanley Park, roaming around Gastown and Yaletown, these are just a few of my favourite moments spent in this vibrant city. There's an abundance of things to do and see in Vancouver and hopefully this guide will help you to prioritise and plan.</p>
 							<a class="button small" href="/holiday-guides/vancouver">Vancouver Holiday Guide</a>
 						</div>
-					</div>				
+					</div>
+-->				
 				</article>
 			</div>
 		</main>

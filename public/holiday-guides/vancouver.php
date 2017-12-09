@@ -4,6 +4,12 @@
 	<title>Travel Guide on Vancouver, Canada | Come Fly With Lindsay</title>
 	<?php include('../structure/meta.php'); ?>
 	<meta name="description" content="Travel guide on Downtown Vancouver with handy travel tips, experiences, info on where to visit, to stay and what to do in Vancouver by Come Fly With Lindsay">
+	<meta property="og:url" content="http://comeflywithlindsay.com/holiday-guides/vancouver">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Travel Guide on Vancouver, Canada | Come Fly With Lindsay">
+	<meta property="og:description" content="Travel guide on Downtown Vancouver with handy travel tips, experiences, info on where to visit, to stay and what to do in Vancouver by Come Fly With Lindsay">
+	<meta property="og:image" content="http://comeflywithlindsay.com/images/vancouver/cycling-around-stanley-park-in-vancouver.jpg">
+	
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>
@@ -71,8 +77,12 @@
 						<li>These boots are made for walking - there are loads of lovely little districts to be explored, venture out to all/most of them</li>
 					</ul>
 					<hr>
-					<div class="large-12 column text-right">
+					
+					<div class="large-12 medium-12 small-12 column">
+						<?php include('../structure/social.php') ?>
+						<div class="large-6 medium-6 small-6 column text-right">
 						<a class="button small" href="../holiday-guides/banff">Read About Banff</a>
+						</div>
 					</div>	
 				</article>
 			</div>

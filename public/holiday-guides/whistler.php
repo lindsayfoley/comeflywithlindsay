@@ -4,6 +4,12 @@
 	<title>Travel Guide On Whistler, Canada | Come Fly With Lindsay</title>
 	<?php include('../structure/meta.php'); ?>
 	<meta name="description" content="A guide to Whistler, British Columbia in Canada with things to do and see in sporty Whistler in autumn, with tips and ideas by Come Fly With Lindsay">
+	<meta property="og:url" content="http://comeflywithlindsay.com/holiday-guides/whistler">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Travel Guide On Whistler, Canada | Come Fly With Lindsay">
+	<meta property="og:description" content="A guide to Whistler, British Columbia in Canada with things to do and see in sporty Whistler in autumn, with tips and ideas by Come Fly With Lindsay">
+	<meta property="og:image" content="http://comeflywithlindsay.com/images/whistler/whistler-village-autumnal-colours.jpg">	
+	
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>
@@ -65,11 +71,14 @@
 						<li>On your bike - there's a lot of bike rental places located	 in the village and at some hotels, ideal for some of the longer trails</li>
 						<li>To book or not to book  - if you're visiting during peak times I would advise you to book your restaurants in advance if possible</li>
 					</ul>
-					
 					<hr>
-					<div class="large-12 column text-right">
+					
+					<div class="large-12 medium-12 small-12 column">
+						<?php include('../structure/social.php') ?>
+						<div class="large-6 medium-6 small-6 column text-right">
 						<a class="button small" href="../holiday-guides/vancouver">Read About Vancouver</a>
-					</div>
+						</div>
+					</div>	
 				</article>
 			</div>
 		</main>

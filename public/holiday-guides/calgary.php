@@ -4,6 +4,12 @@
 	<title>Travel Guide On Downtown Calgary, Canada | Come Fly With Lindsay</title>
 	<?php include('../structure/meta.php'); ?>
 	<meta name="description" content="My insiders guide to spending a couple of nights in Downtown Calgary in Alberta, Canada. Read Come Fly With Lindsay's blog post to prepare for your Calgary trip">
+	<meta property="og:url" content="http://comeflywithlindsay.com/holiday-guides/calgary">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Travel Guide On Downtown Calgary, Canada | Come Fly With Lindsay">
+	<meta property="og:description" content="My insiders guide to spending a couple of nights in Downtown Calgary in Alberta, Canada. Read Come Fly With Lindsay's blog post to prepare for your Calgary trip">
+	<meta property="og:image" content="http://comeflywithlindsay.com/images/calgary/olympic-plaza-calgary.jpg">
+	
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>
@@ -56,9 +62,13 @@
 						<li>Time well spent - if you're heading to Banff, consider extending your stay to spend more time there and less time in Calgary</li>
 					</ul>
 					<hr>
-					<div class="large-12 column text-right">
+					
+					<div class="large-12 medium-12 small-12 column">
+						<?php include('../structure/social.php') ?>
+						<div class="large-6 medium-6 small-6 column text-right">
 						<a class="button small" href="../holiday-guides/banff">View Banff Guide</a>
-					</div>				
+						</div>
+					</div>					
 				</article>
 			</div>
 		</main>

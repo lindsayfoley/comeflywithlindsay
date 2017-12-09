@@ -55,6 +55,11 @@ footer p, footer a { color:#9E9E9E; margin:0; }
 
 /*****************************************/
 
+/* Social share buttons */
+.social-share span:last-of-type { vertical-align:top; }
+
+/*****************************************/
+
 /* Mailchimp form */
 #mc_embed_signup { text-align:center; }
 #mc-embedded-subscribe { margin-left:10px; font-weight:bold; }
@@ -117,3 +122,10 @@ footer p, footer a { color:#9E9E9E; margin:0; }
 	#page-top { display:none; position:fixed; right:20px; top:73%; width:70px; height:70px; padding:10px; text-align:center; text-decoration:none; background-color:rgba(37,33,29, 0.6); color:white; font-weight:bold; border-radius:100%; box-shadow:0px 3px 15px rgba(0,0,0,0.2); }
 }
 
+/* Social buttons and sibling div on portrait mobile */
+@media all and (max-width: 480px) {
+article { padding-bottom:10px; }
+.social-share, .social-share + div { width:100%!important; text-align:center; }
+.social-share { padding-bottom:20px; border-bottom:1px dashed #dfdfdf;  }
+.social-share + div { margin-top:20px; }
+}
