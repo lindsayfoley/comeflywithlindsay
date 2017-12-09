@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+Options +FollowSymLinks
+RewriteEngine on
+
+Redirect 301 /banff /holiday-guides/banff
+Redirect 301 /whistler /holiday-guides/whistler
+Redirect 301 /vancouver /holiday-guides/vancouver
+Redirect 301 /calgary /holiday-guides/calgary
+Redirect 301 /afternoon-tea /holiday-guides/afternoon-tea-london

@@ -11,6 +11,15 @@
 </script>
 <script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
+<!-- Social  -->
 
+<!-- Pinterest -->
+<script
+    type="text/javascript"
+    async defer
+    src="//assets.pinterest.com/js/pinit.js"
+></script>
 
+<script src="/js/social.js"></script>
+<!-- /Social  -->
 
