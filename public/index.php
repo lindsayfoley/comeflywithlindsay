@@ -28,7 +28,7 @@
 						<div class="large-6 column">
 							<h2><a href="/holiday-guides/afternoon-tea-london">Afternoon Tea, London</a></h2>
 							<p>A quintessential English custom introduced in Britain in 1840</p>
-							<p><strong>NEW post!</strong> With so many places to choose from including top hotels, tea rooms, upmarket department stores and even museums! Afternoon tea in London can be found almost anywhere - so here are my top picks to help you narrow things down!</p>
+							<p><strong>NEW post!</strong> With so many places to choose from including top hotels, tea rooms, upmarket department stores and even museums! Afternoon tea in London can be found almost anywhere - so here are my top picks to help narrow things down!</p>
 							<a class="button small" href="/holiday-guides/afternoon-tea-london">London Afternoon Tea Guide</a>
 						</div>
 					</div>					
@@ -41,7 +41,7 @@
 						<div class="large-6 column">
 							<h2><a href="/holiday-guides/banff">Downtown Calgary, Canada</a></h2>
 							<p>A walkable region in central Calgary in the province of Alberta</p>
-							<p><strong>NEW post!</strong> If you're planning a getaway to Calgary's city centre for a weekend break or a quick stopover before heading to the majestic Banff, have a look at my travel guide for hints and tips on what to do in preparation of your own travels.</p>
+							<p><strong>NEW post!</strong> If you're planning a getaway to Calgary's city centre for a weekend break or a quick stopover before heading to the majestic Banff, have a look at my travel guide for hints and tips on what to do in preparation of your travels.</p>
 							<a class="button small" href="/holiday-guides/calgary">Downtown Calgary Guide</a>
 						</div>
 					</div>					
