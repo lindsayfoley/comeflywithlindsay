@@ -57,22 +57,26 @@
 					</figure>
 					<hr>
 
-<!--
+
 					<h3>Afternoon Tea, Kingsway Hall Hotel - Covent Garden</h3>
-					<p></p>
+					<p>Kingsway Hall Hotel is a great choice if you are looking for a reasonably priced afternoon tea in central London. This 4-star hotel is located in an impressive, historic building just a 10 minute walk from Covent Garden station or 5 minutes from Holborn tube station. </p>
+					<p>The tea takes place in the Harlequin Restaurant - not the most glamorous setting but the room was modern, spacious and quiet, making it perfect for spending time with friends. I had the traditional afternoon tea which featured the usual line up of neatly cut sandwiches, scones and attractive baked goods on the top tier. The sandwiches were nice and went down well, the scones could have been better, they were luke warm, dense and crumbled when cut. I enjoyed the cakes on the top tier though, the chocolate eclairs and macaroons were my favourites. The servers were also very friendly and attentive and really made the tea most enjoyable.</p>
+					<p>Afternoon tea at <a target="_blank" href="http://www.kingswayhall.co.uk/en/afternoon-tea-covent-garden.html">Kingsway Hall Hotel</a> is reasonably priced at &pound;23.95 per person and is a great option to for those wanting to dine in the West End without paying excessive London prices.</p>
 					<figure>
 						<img src="/images/london/afternoon-tea-kingsway-hall-hotel.jpg" alt="Afternoon Tea at the Kingsway Hall Hotel">
 						<figcaption>Afternoon tea at Kingsway Hall Hotel</figcaption>
 					</figure>																		
 					<hr>
--->
+
 					<h2>My Top Tips</h2>
 					<ul>
 						<li>Food glorious food - book the last seating if you can (usually around 7pm) you'll normally get extra sandwiches and cakes!</li>
+						<li>Don't ask don't get - if you have the room, ask for more. After all you are paying a ton for some sandwiches and sweets</li>
+
 						<li>All about ambience - there's nothing quite like afternoon tea during Christmas and most venues add a festive twist to their menus</li>
 					</ul>
 					<hr>
-					
+			
 					<div class="large-12 medium-12 small-12 column">
 						<?php include('../structure/social.php') ?>
 						<div class="large-6 medium-6 small-6 column text-right">
