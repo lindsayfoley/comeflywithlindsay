@@ -7,7 +7,7 @@
 	<meta property="og:url" content="http://comeflywithlindsay.com/holiday-guides/carvoeiro">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Travel Guide on Carvoeiro in Portugal | Come Fly With Lindsay">
-	<meta property="og:description" content="Travel guide on Carvoeiro in Portugal featuring travel advice and details on where to stay, what to eat and things to see, written by Come Fly With Lindsay">
+	<meta property="og:description" content="View my travel guide on the lovely Carvoeiro in Faro, Portugal for travel advice and info on where to stay, what to eat and things to see and do, written by Come Fly With Lindsay">
 	<meta property="og:image" content="http://comeflywithlindsay.com/images/carvoeiro/tivoli-carvoeiro-at-sunset.jpg">
 	
 	<?php include('../structure/styles.php'); ?>
@@ -23,25 +23,25 @@
 			<div class="large-12 column">
 				<article class="large-12 column">
 					<h1>Carvoeiro, Portugal</h1>
-					<p>We booked a return journey with <a target="_blank" href="http://www.yellowfishtransfers.com/en/">Yellowfish Transfers</a> to collect us from Faro airport and take us to the Tivoli Carvoeiro Hotel, where we booked a 4 night stay. It was &euro;87 for the roundtrip and was highly worth it! Yellowfish provided an excellent service, we had free WiFi in the cars and friendly, knowledgeable drivers.</p>
+					<p>We flew into Faro Aiport and booked a return journey with <a target="_blank" href="http://www.yellowfishtransfers.com/en/">Yellowfish Transfers</a> to take us to our hotel, where we booked a 4 night stay. It was &euro;87 for the roundtrip and was highly worth it! Yellowfish provided an excellent service, with free WiFi and knowledgeable drivers.</p>
 					<figure>
 						<img src="/images/carvoeiro/tivoli-carvoeiro-at-sunset.jpg" alt="The stunning Tivoli Carvoeiro at sunset">
 						<figcaption>The stunning Tivoli Carvoeiro at sunset</figcaption>
 					</figure>
 					
-					<p>The <a target="_blank" href="https://www.minorhotels.com/en/tivoli/tivoli-carvoeiro">Tivoli Carvoeiro</a> is not your average 5* Hotel, it’s location is unbeatable; nested up high within the most stunning golden cliffs, with a private sandy beach, surrounded by turquoise and blue ocean waters.</p>
+					<p>The <a target="_blank" href="https://www.minorhotels.com/en/tivoli/tivoli-carvoeiro">Tivoli Carvoeiro</a> is not your average 5-star Hotel, it’s location is just unbeatable; nested up high within the most stunning golden cliffs, with a private sandy beach, surrounded by turquoise and blue ocean waters.</p>
 					<figure>
 						<img src="/images/carvoeiro/caves-scenery-at-tivoli-carvoeiro.jpg" alt="The impressive cliffs of Tivoli Carvoeiro">
 						<figcaption>The impressive cliffs of Tivoli Carvoeiro</figcaption>
 					</figure>	
 					
-					<p>We were very impressed with the presentation of the hotel, the simplistic and modern room decor and the outstanding service we received made it a truly excellent place to stay. Walking into the lobby and looking unimpeded to the sea and the horizon beyond let’s you know you somewhere truly special.</p>
+					<p>We were very impressed with the hotel; the simplistic room decor and outstanding service received made it a truly excellent place to stay. Walking into the lobby and looking unimpeded to the sea and the horizon beyond let’s you know you somewhere truly special.</p>
 					<figure>
 						<img src="/images/carvoeiro/sea-view-room-tivoli-carvoeiro.jpg" alt="Sea View room at Tivoli Carvoeiro">
 						<figcaption>Sea View room at Tivoli Carvoeiro</figcaption>
 					</figure>
 
-					<p>The grounds are beautiful and well maintained, it’s worth spending time wandering around and exploring them. There are rough pathways in both sets of surrounding cliffs which you can hike/climb up to see some epic views. The cliff farthest from the pool was our favourite and a good spot to take in the sunset.</p>
+					<p>The grounds are breathtaking and very well maintained so it’s worth exploring the area. There are rough pathways in both surrounding cliffs which you can climb up to see some epic views. The cliff farthest from the pool was our favourite spot to take in the sunset.</p>
 					<figure>
 						<img src="/images/carvoeiro/caves-and-scenery-at-tivoli-carvoeiro.jpg" alt="Cliffs and beautiful scenery">
 						<figcaption>Cliffs and beautiful scenery</figcaption>
@@ -61,7 +61,7 @@
 
 					<p>We visited 2 main beaches on our trip. Both were fairly small but nice, gold sandy beaches, surrounded by picturesque cliffs and caves.</p>
 					<figure>
-						<img src="/images/carvoeiro/carvoeiro-town-and-beach.jpg" alt="Carvoeiro beach">
+						<img src="/images/carvoeiro/carvoeiro-beach.jpg" alt="Carvoeiro beach">
 						<figcaption>Carvoeiro beach</figcaption>
 					</figure>	
 
@@ -71,7 +71,7 @@
 						<figcaption>Carvoeiro boardwalk</figcaption>
 					</figure>	
 
-					<p>About mid-way through on the boardwalk you’ll notice some stairs tailing off, follow this to find the caves. There are steps cut into the cliffs that are perfectly fine to use but be warned it does look a bit scary and is unsuitable for small children and those wobbly on their feet. Once you get down to the caves, you can have a good wander and you may choose to climb up higher or follow the pathways cut into the rocks. It’s the perfect place to watch the sunset but make sure to get back up to the boardwalk before it gets dark as there are no lights!</p>
+					<p>About mid-way through on the boardwalk you’ll notice some stairs tailing off, follow this to find the caves. There are steps cut into the cliffs that are perfectly fine to use but be warned it does look a bit scary and is unsuitable for small children and those wobbly on their feet. Once you get down to the caves, you can have a good wander and you may choose to climb up higher or follow the pathways cut into the rocks. It’s the perfect place to watch the sunset but make sure to get back to the boardwalk before its dark as there are no lights!</p>
 					<figure>
 						<img src="/images/carvoeiro/views-at-carvoeiro-caves.jpg" alt="The amazing Carvoeiro Caves">
 						<figcaption>The amazing Carvoeiro Caves</figcaption>
@@ -88,9 +88,9 @@
 					<hr>
 					<h2>My Top Tips</h2>
 					<ul>
-						<li>Venture out - if you get bored in Carvoeiro you may be tempted to visit Portimão... don’t! It’s run down and we did not enjoy our time there</li>
-						<li>Sunset viewing - the caves and the boardwalk are definitely the prime spots to watch the sun go down and to get some spectacular pictures</li>
-						<li>Watch your step - there are stairs carved into the rocks at the caves but some steps have eroded away, so take care when making your way down!</li>
+						<li>Venture out - if you get bored in Carvoeiro you may be tempted to visit Portimão... don’t! It’s very rundown and we didn't enjoy it there</li>
+						<li>Sunset sky - the caves and boardwalk are definitely the prime spots to watch the sun go down and to get some spectacular pictures</li>
+						<li>Watch your step - stairs are carved into the rocks at the caves but some have eroded away, so take care when making your way down!</li>
 					</ul>
 					<hr>
 					
