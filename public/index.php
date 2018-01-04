@@ -23,12 +23,25 @@
 
 					<div class="row">
 						<div class="large-6 column">
+						<img src="/images/homepage/caves-scenery-at-tivoli-carvoeiro.jpg" alt="Cliffs and beautiful scenery around the Tivoli Carvoeiro Resort, Portugal">
+						</div>
+						<div class="large-6 column">
+							<h2><a href="/holiday-guides/carvoeiro">Carvoeiro, Portugal</a></h2>
+							<p>A lovely quaint town located in the popular Algarve in Portugal</p>
+							<p>Many of you are probably not familiar with Carvoeiro; it's an idyllic town in the Algarve and one of the most beautiful places I have visited in Europe. Carvoeiro was our winter escape and we didn't expect it to be so peaceful or to have so much stunning scenery!</p>
+							<a class="button small" href="/holiday-guides/carvoeiro">Carvoeiro Holiday Guide</a>
+						</div>
+					</div>					
+					<hr>
+					
+					<div class="row">
+						<div class="large-6 column">
 						<img src="/images/homepage/afternoon-tea-london.jpg" alt="Afternoon tea at Fortnum and Mason in London, England">
 						</div>
 						<div class="large-6 column">
 							<h2><a href="/holiday-guides/afternoon-tea-london">Afternoon Tea, London</a></h2>
 							<p>A quintessential English custom introduced in Britain in 1840</p>
-							<p><strong>NEW post!</strong> With so many places to choose from including top hotels, tea rooms, upmarket department stores and even museums! Afternoon tea in London can be found almost anywhere - so here are my top picks to help narrow things down!</p>
+							<p>With so many places to choose from including top hotels, tea rooms, upmarket department stores and even museums! Afternoon tea in London can be found almost anywhere - so here are my top picks to help narrow things down!</p>
 							<a class="button small" href="/holiday-guides/afternoon-tea-london">London Afternoon Tea Guide</a>
 						</div>
 					</div>					
@@ -39,14 +52,15 @@
 						<img src="/images/homepage/olympic-plaza-calgary.jpg" alt="Olympic Plaza in Downtown Calgary">
 						</div>
 						<div class="large-6 column">
-							<h2><a href="/holiday-guides/banff">Downtown Calgary, Canada</a></h2>
+							<h2><a href="/holiday-guides/calgary">Downtown Calgary, Canada</a></h2>
 							<p>A walkable region in central Calgary in the province of Alberta</p>
-							<p><strong>NEW post!</strong> If you're planning a getaway to Calgary's city centre for a weekend break or a quick stopover before heading to the majestic Banff, have a look at my travel guide for hints and tips on what to do in preparation of your travels.</p>
+							<p>If you're planning a getaway to Calgary's city centre for a weekend break or a quick stopover before heading to the majestic Banff, have a look at my travel guide for hints and tips on what to do in preparation of your travels.</p>
 							<a class="button small" href="/holiday-guides/calgary">Downtown Calgary Guide</a>
 						</div>
 					</div>					
 					<hr>
 					
+<!--
 					<div class="row">
 						<div class="large-6 column">
 							<img src="images/homepage/snow-covered-trees-mountains-banff-canada.jpg" alt="Winter wonderland, snow topped mountains and trees in Banff - Alberta, Canada">
@@ -55,9 +69,10 @@
 							<h2><a href="/holiday-guides/banff">Banff National Park, Canada</a></h2>
 							<p>Definitely one of the most beautiful places, possibly in existence</p>
 							<p>Behold stunning mountain scenery in every direction that you look. Banff was my second stop on my recent 2 week holiday to the West coast of Canada. I visited in October to get a glimpse of the the autumnal colours in Canada in fall and I was not disappointed!</p>
-							<a class="button small" href="/holiday-guides/calgary">Banff Holiday Guide</a>
+							<a class="button small" href="/holiday-guides/banff">Banff Holiday Guide</a>
 						</div>
 					</div>
+-->
 <!--
 					<hr>
 					<div class="row">
