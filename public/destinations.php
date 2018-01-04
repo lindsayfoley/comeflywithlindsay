@@ -16,8 +16,10 @@
 		<main class="row">
 			<div class="large-12 column">
 				<article>
-					<p id="intro">I've created these travel guides to provide you with tips and advice on your upcoming holidays as well to inspire you about some incredible destinations that you may not have even considered visiting!</p>
-
+					<div id="intro">
+						<p>I'm making my way through my travel bucket list and I'm taking you all with me!</p>
+						<p>These travel guides will provide you with tips and advice on your upcoming holidays as well inspire you about some incredible destinations that you may not have even considered visiting.</p>		
+					</div>
 					<div class="row">
 						<a href="/holiday-guides/carvoeiro"><img class="wide column" src="images/destinations/carvoeiro-town-and-beach.jpg" alt="The quaint town of Carvoeiro"></a>
 						<div class="large-9 medium-10 column">

@@ -36,7 +36,7 @@
 						<figcaption>The stunning Tivoli Carvoeiro Algarve Resort at sunset</figcaption>
 					</figure>	 
 					
-					<p>We were very impressed with the hotel; the simplistic room decor and outstanding service received made it a truly excellent place to stay.</p>
+					<p>We were extremely impressed with the hotel; the simplistic room decor and outstanding service received made it a truly excellent place to stay.</p>
 					<figure>
 						<img src="/images/carvoeiro/sea-view-room-tivoli-carvoeiro.jpg" alt="Our room at Tivoli Carvoeiro">
 						<figcaption>Our room at Tivoli Carvoeiro</figcaption>
@@ -48,7 +48,7 @@
 						<figcaption>Cliffs and beautiful scenery around the Tivoli Carvoeiro Resort</figcaption>
 					</figure>
 
-					<p>Breakfast was just perfect, it was an impressive spread, some may say a feast! We were treated to fresh fruits, cured meats, cheese, smoked salmon, eggs made to order, hot buffet options, cereals, pastries, cakes and much more. The waiters were highly attentive, they even remembered our food choices from the previous day and were on hand to provide anything we requested.</p>
+					<p>Breakfast was flawless, it was an impressive spread, some may say a feast! We were treated to fresh fruits, cured meats, cheese, smoked salmon, eggs made to order, hot buffet options, cereals, pastries, cakes and much more. The waiters were highly attentive, they even remembered our food choices from the previous day and were on hand to provide anything we requested.</p>
 					<figure>
 						<img src="/images/carvoeiro/breakfast-at-tivoli-carvoeiro.jpg" alt="The mighty breakfast at the Tivoli Carvoeiro Resort">
 						<figcaption>The mighty breakfast at the Tivoli Carvoeiro Resort</figcaption>
@@ -66,25 +66,25 @@
 						<figcaption>Carvoeiro boardwalk</figcaption>
 					</figure>	
 
-					<p>About mid-way through the boardwalk you’ll notice some stairs tailing off, follow this and you'll find the caves. There are steps cut into the rock formations that are perfectly fine to use, but be warned it does look scary and is unsuitable for small children and those wobbly on their feet. When you reach the caves, you'll see it's the perfect place to watch the sunset... just make sure to get back up to the boardwalk before its dark as there are no lights!</p>
+					<p>About mid-way through the boardwalk you’ll notice some stairs tailing off, follow this and you'll find the caves. There are steps cut into the rock formations that are perfectly fine to use, but be warned it does look scary and is unsuitable for small children and those wobbly on their feet. When you reach the caves, you'll see it's the optimal place to watch the sunset... just make sure to get back up to the boardwalk before its dark as there are no lights!</p>
 					<figure>
 						<img src="/images/carvoeiro/views-at-carvoeiro-caves.jpg" alt="Neil at the amazing Carvoeiro Caves at sunset">
 						<figcaption>Neil at the amazing Carvoeiro Caves at sunset</figcaption>
 					</figure>		
 
-					<p>We ate out in the town every day for dinner and Villa Medici was our favourite restaurant, they served up delicious Italian cuisine and generous portions (just look at that pizza!). We also ate at The Wolf Bar &amp; Grill which was a nice option with a small menu, I highly recommend the tempura prawns to start with. On our last day we visited Case Algarvia to try some authentic Portuguese dishes. We tried the pork and clam Cataplana which was like a cross between a stew and a paella, it was tasty but a bit gritty due to the clams. Drinks were very cheap here, with a glass of wine costing only &euro;3.50 so a very good option for those on a budget.</p>
+					<p>We ate out in the town every day for dinner and Villa Medici was our favourite restaurant, they served up delicious Italian cuisine and generous portions (just look at that pizza!). We also ate at The Wolf Bar &amp; Grill which was a nice option with a small menu, I highly recommend the tempura prawns to start with. On our last day we visited Case Algarvia to try some authentic Portuguese dishes. We tried the pork and clam Cataplana which was like a cross between a stew and a paella, it was tasty but a bit gritty due to the clams. Drinks were especially cheap here, with a glass of wine costing only &euro;3.50 so a very good option for those on a budget.</p>
 					<figure>
 						<img src="/images/carvoeiro/pizza-villa-medici-carvoeiro.jpg" alt="Pizza at Villa Medici, Carvoeiro">
 						<figcaption>Pizza at Villa Medici, Carvoeiro</figcaption>
 					</figure>
 
-					<p>I recommend a trip to Carvoeiro if you’re in need of a rest or just love to be surrounded by natural beauty. It offers cliffs, caves and scenic oceanic views and is the perfect place to visit in the off-peak season. We visited in December 2017 and the weather was lovely in the day with highs of 18 degrees (pretty hot in the sun) and chilly in the evening. The hotels, town, restaurants and beaches are quiet and peaceful so you can have a truly relaxing experience.</p>
+					<p>I recommend a trip to Carvoeiro if you’re in need of a rest or just love to be surrounded by natural beauty. It offers cliffs, caves and scenic oceanic views and is the best place to visit in the off-peak season. We visited in December 2017 and the weather was lovely in the day with highs of 18 degrees (surprisingly hot in the sun) and chilly in the evening. The hotels, town, restaurants and beaches are pretty vacant so you can have a truly relaxing experience.</p>
 					
 					<hr>
 					<h2>My Top Tips</h2>
 					<ul>
 						<li>Buy now, save later - book transfers in advance to avoid being ripped off! Ask your hotel what companies they recommend</li>
-						<li>Venture out - if you get bored in Carvoeiro you may be tempted to visit Portimão... don’t! It’s very rundown and we didn't enjoy it there</li>
+						<li>Venture out - if you get bored in Carvoeiro you may be tempted to visit Portimão... don’t! It’s rundown and we didn't enjoy it there</li>
 						<li>Sunset sky - the caves and boardwalk are definitely the prime spots to watch the sun go down and to get some spectacular pictures</li>
 						<li>Watch your step - stairs are carved into the rocks at the caves but some have eroded away, so take care when making your way down!</li>
 					</ul>

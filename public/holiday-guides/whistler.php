@@ -24,7 +24,7 @@
 				<article class="large-12 column">
 					<h1>Whistler Village, Canada</h1>
 					<p>Hiking, biking, skiing... definitely a must stop destination for all thrill-seekers. Whistler is located north of Vancouver and is where the 2010 Vancouver Winter Olympics were hosted, it's also home to Whistler Blackcomb which is an incredibly popular ski resort.</p>
-					<p>We travelled to Whistler from Vancouver International Airport on the <a target="_blank" href="https://www.whistler.com/getting-here/road/shuttle/">Whistler Shuttle</a> bus which took around 2.5 hours. Shuttles depart from the airport every hour (it did when we visited) so it's a great, convenient choice if you don't have a car. The views on the drive are just beautiful, you pass through Downtown Vancouver, Stanley Park and then have the ocean, trees and glacier covered mountains beside you. Whistler village is a pedestrianised, quaint, little town and has the most amazing red and autumnal coloured trees in October.</p>
+					<p>We travelled to Whistler from Vancouver International Airport on the <a target="_blank" href="https://www.whistler.com/getting-here/road/shuttle/">Whistler Shuttle</a> bus which took around 2.5 hours. Shuttles depart from the airport every hour (it did when we visited) so it's an excellent, convenient choice if you don't have a car. The views on the drive are just beautiful, you pass through Downtown Vancouver, Stanley Park and then have the ocean, trees and glacier covered mountains beside you. Whistler village is a pedestrianised, quaint, little town and has the most amazing red and autumnal coloured trees in October.</p>
 					<figure>
 						<img src="/images/whistler/whistler-village-autumnal-colours.jpg" alt="Autumnal coloured trees in Whistler Village, Canada">
 						<figcaption>Autumnal coloured trees in Whistler Village</figcaption>
@@ -60,8 +60,8 @@
 					<h2>Fav Restaurants</h2>
 					<ul>
 						<li>Breakfast - if you fancy a healthy-ish, filling savoury or sweet crepe, I highly recommend a visit to <a target="_blank" href="http://crepemontagne.com/">Crepe Montagne</a></li>
-						<li>Lunch/sweets - everything in <a href="https://www.purebread.ca/">Purebread</a> looks incredible! This is a great cafe but it's very tiny with limited seating</li>
-						<li>Dinner - if you're looking for a place for drinks, or perhaps a light dinner/small plates, <a target="_blank" href="http://labocca.ca/">La Bocca</a> is a great choice</li>
+						<li>Lunch/sweets - everything in <a href="https://www.purebread.ca/">Purebread</a> looks incredible! This is a super cafe but it's very tiny with limited seating</li>
+						<li>Dinner - if you're looking for a place for drinks, or perhaps a light dinner/small plates, <a target="_blank" href="http://labocca.ca/">La Bocca</a> is a fine choice</li>
 					</ul>
 					
 					<hr>
