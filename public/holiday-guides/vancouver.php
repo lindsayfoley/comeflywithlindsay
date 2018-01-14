@@ -20,7 +20,7 @@
 	
 	<section>
 		<main class="row">
-			<div class="large-12 column">
+			<div class="large-12">
 				<article class="large-12 column">
 					<h1>Downtown Vancouver, Canada</h1>
 					<p>I can see why Downtown Vancouver is such a popular destination, it's a city that has it all; mountains, ocean, forests, parks and beaches. The skyscraper buildings and business districts are reminiscent of New York but on a much smaller scale and nowhere near as busy. There's a lot to see and do in Van city and if you're lucky you may even see something being filmed!</p>
@@ -78,7 +78,7 @@
 					</ul>
 					<hr>
 					
-					<div class="large-12 medium-12 small-12 column">
+					<div class="large-12 medium-12 small-12">
 						<?php include('../structure/social.php') ?>
 						<div class="large-6 medium-6 small-6 column text-right">
 						<a class="button small" href="../holiday-guides/banff">Read About Banff</a>

@@ -20,7 +20,7 @@
 	
 	<section>
 		<main class="row">
-			<div class="large-12 column">
+			<div class="large-12">
 				<article class="large-12 column">
 					<h1>Banff National Park, Canada</h1>
 					<p>If you've ever wanted to visit the Canadian Rocky Mountains then Banff is definitely the destination for you. It's located in the rockies, west of Calgary in the province of Alberta. The nearest airport is Calgary Airport and then it's a couple of hours drive to Banff.</p>
@@ -83,7 +83,7 @@
 					</ul>
 					<hr>
 
-					<div class="large-12 medium-12 small-12 column">
+					<div class="large-12 medium-12 small-12">
 						<?php include('../structure/social.php') ?>
 						<div class="large-6 medium-6 small-6 column text-right">
 						<a class="button small" href="../holiday-guides/whistler">View Whistler Guide</a>

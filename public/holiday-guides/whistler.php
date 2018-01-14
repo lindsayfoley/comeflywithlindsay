@@ -20,7 +20,7 @@
 	
 	<section>
 		<main class="row">
-			<div class="large-12 column">
+			<div class="large-12">
 				<article class="large-12 column">
 					<h1>Whistler Village, Canada</h1>
 					<p>Hiking, biking, skiing... definitely a must stop destination for all thrill-seekers. Whistler is located north of Vancouver and is where the 2010 Vancouver Winter Olympics were hosted, it's also home to Whistler Blackcomb which is an incredibly popular ski resort.</p>
@@ -73,7 +73,7 @@
 					</ul>
 					<hr>
 					
-					<div class="large-12 medium-12 small-12 column">
+					<div class="large-12 medium-12 small-12">
 						<?php include('../structure/social.php') ?>
 						<div class="large-6 medium-6 small-6 column text-right">
 						<a class="button small" href="../holiday-guides/vancouver">Read About Vancouver</a>

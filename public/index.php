@@ -17,9 +17,9 @@
 	<section>
 		<a href="destinations"><h1>Travel Inspiration &amp; Guides</h1></a>
 		<div id="purpose" class="text-center">
-			<h2><a href="destinations">Travelling The World One Stop At A Time</a></h2>
+			<h2>Travelling The World One Stop At A Time</h2>
 			<p>With so many spectacular places to visit, I find the web inundated with travel information, resources, reviews, etc. that can make the whole planning/booking process really stressful and pressurising with the fear of not picking the prime location or the right hotel!</p>
-			<p>To make things simple and convenient for those like me who become confused and indecisive the more I read, I wanted to document my travels to give you insight into areas that I visit and advise on the good, the bad and the ugly.</p>
+			<p>To make things simple and convenient for those like me, I wanted to document my travels to give you an honest insight into areas that I visit and advise on the good, the bad and the ugly.</p>
 			<p>So let me be your travel <span class="crossed-out">guinea pig</span> guru and I'll tell you where I think is best to stay, what to see and what activities I recommend doing.</p>
 		</div>
 		<main class="row">
@@ -33,7 +33,7 @@
 						<div class="large-6 column">
 							<h2><a href="/holiday-guides/carvoeiro">Carvoeiro, Portugal</a></h2>
 							<p>A lovely quaint town located in the popular Algarve in Portugal</p>
-							<p>Many of you are probably not familiar with Carvoeiro; it's an idyllic town in the Algarve and one of the most beautiful places I have visited in Europe. Carvoeiro was our winter escape and we didn't expect it to be so peaceful or to have so much stunning scenery!</p>
+							<p>Many of you may be unfamiliar with the little town of Carvoeiro; an idyllic area in the Algarve and one of the most beautiful places I've visited in Europe. Carvoeiro was our winter escape and we didn't expect it to be so peaceful or to have so much stunning scenery!</p>
 							<a class="button small" href="/holiday-guides/carvoeiro">Carvoeiro Holiday Guide</a>
 						</div>
 					</div>					
@@ -50,21 +50,8 @@
 							<a class="button small" href="/holiday-guides/afternoon-tea-london">London Afternoon Tea Guide</a>
 						</div>
 					</div>					
-					<hr>
-										
-					<div class="row">
-						<div class="large-6 column">
-						<img src="/images/homepage/olympic-plaza-calgary.jpg" alt="Olympic Plaza in Downtown Calgary">
-						</div>
-						<div class="large-6 column">
-							<h2><a href="/holiday-guides/calgary">Downtown Calgary, Canada</a></h2>
-							<p>A walkable region in central Calgary in the province of Alberta</p>
-							<p>If you're planning a getaway to Calgary's city centre for a weekend break or a quick stopover before heading to the majestic Banff, have a look at my travel guide for hints and tips on what to do in preparation of your travels.</p>
-							<a class="button small" href="/holiday-guides/calgary">Downtown Calgary Guide</a>
-						</div>
-					</div>					
+					<hr>				
 					
-<!--
 					<div class="row">
 						<div class="large-6 column">
 							<img src="images/homepage/snow-covered-trees-mountains-banff-canada.jpg" alt="Winter wonderland, snow topped mountains and trees in Banff - Alberta, Canada">
@@ -76,7 +63,7 @@
 							<a class="button small" href="/holiday-guides/banff">Banff Holiday Guide</a>
 						</div>
 					</div>
--->
+
 <!--
 					<hr>
 					<div class="row">

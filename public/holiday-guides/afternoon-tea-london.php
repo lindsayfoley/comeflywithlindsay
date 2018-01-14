@@ -21,7 +21,7 @@
 	
 	<section>
 		<main class="row">
-			<div class="large-12 column">
+			<div class="large-12">
 				<article class="large-12 column">
 					<h1>Afternoon Tea in London, England</h1>
 					<p>I've been fortunate to experience traditional afternoon tea in some of London's most special venues. With so many options available today, I've put together this little guide to showcase my top picks, listed in order of my favourites to provide you with a helping hand!</p>
@@ -77,7 +77,7 @@
 					</ul>
 					<hr>
 			
-					<div class="large-12 medium-12 small-12 column">
+					<div class="large-12 medium-12 small-12">
 						<?php include('../structure/social.php') ?>
 						<div class="large-6 medium-6 small-6 column text-right">
 							<a class="button small" href="../destinations">View My Holiday Guides</a>

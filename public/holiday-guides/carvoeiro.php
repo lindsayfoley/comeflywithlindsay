@@ -20,7 +20,7 @@
 	
 	<section>
 		<main class="row">
-			<div class="large-12 column">
+			<div class="large-12">
 				<article class="large-12 column">
 					<h1>Carvoeiro, Portugal</h1>
 					<p>I was ready to travel again and this time I wanted a destination which offered winter sun without being too far from the UK. Portugal looked promising with highs of 19&deg;C and plenty of sunshine hours, so I began researching areas to spend a few nights. I stumbled upon Carvoeiro which looked idyllic and as we were travelling in December I thought it would be quiet and peaceful - and boy was I right! Carvoeiro is a small town in the Algarve, formerly popular for fishing, it's close to Logao and about 50 minutes drive from Faro Airport.</p>
@@ -90,7 +90,7 @@
 					</ul>
 					<hr>
 					
-					<div class="large-12 medium-12 small-12 column">
+					<div class="large-12 medium-12 small-12">
 						<?php include('../structure/social.php') ?>
 						<div class="large-6 medium-6 small-6 column text-right">
 						<a class="button small" href="../holiday-guides/banff">Read About Banff</a>

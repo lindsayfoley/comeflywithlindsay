@@ -19,7 +19,7 @@
 			</div>
 		</div>
 		<div class="large-3 medium-3 small-12 column text-right">
-			<p>Copyright &copy; <a target="_blank" href="http://www.lindsayfoley.co.uk">Lindsay Foley</a></p>
+			<p>&copy; <a target="_blank" href="http://www.lindsayfoley.co.uk">Lindsay Foley</a></p>
 		</div>
 	</div>
 </footer>

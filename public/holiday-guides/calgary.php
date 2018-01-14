@@ -20,7 +20,7 @@
 	
 	<section>
 		<main class="row">
-			<div class="large-12 column">
+			<div class="large-12">
 				<article class="large-12 column">
 					<h1>Downtown Calgary, Canada</h1>
 					<p>There's not a whole lot to do in Downtown Calgary, it seems to be more of a town that people pass through on their way to visit <a href="holiday-guides/banff">Banff</a> to see the Canadian Rocky mountains. I've put together a concise guide on what to do if you're there for a day or two.</p>
@@ -63,7 +63,7 @@
 					</ul>
 					<hr>
 					
-					<div class="large-12 medium-12 small-12 column">
+					<div class="large-12 medium-12 small-12">
 						<?php include('../structure/social.php') ?>
 						<div class="large-6 medium-6 small-6 column text-right">
 						<a class="button small" href="../holiday-guides/banff">View Banff Guide</a>
