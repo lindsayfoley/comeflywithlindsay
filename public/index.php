@@ -4,7 +4,11 @@
 	<title>My Travel Blog With Holiday Guides | Come Fly With Lindsay</title>
 	<?php include('structure/meta.php'); ?>
 	<meta name="description" content="Welcome to Come Fly With Lindsay, a travel blog with travel guides to help you plan your holiday/vacation with handy travel tips detailing things to see and do">
-	<?php include('structure/styles.php'); ?>
+	<meta property="og:url" content="http://comeflywithlindsay.com">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="My Travel Blog Featuring Handy Holiday Guides | Come Fly With Lindsay">
+	<meta property="og:description" content="Welcome to Come Fly With Lindsay, a travel blog with travel guides to help you plan your holiday/vacation with handy travel tips detailing things to see and do">
+	<meta property="og:image" content="http://comeflywithlindsay.com/images/carvoeiro/tivoli-carvoeiro-at-sunset.jpg">	<?php include('structure/styles.php'); ?>
 	<?php include('structure/icons.php'); ?>
 	<link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
   </head>
