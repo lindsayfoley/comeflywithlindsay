@@ -6,9 +6,10 @@
 	<meta name="description" content="Welcome to Come Fly With Lindsay, a travel blog with travel guides to help you plan your holiday/vacation with handy travel tips detailing things to see and do">
 	<meta property="og:url" content="http://comeflywithlindsay.com">
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="My Travel Blog Featuring Handy Holiday Guides | Come Fly With Lindsay">
-	<meta property="og:description" content="Welcome to Come Fly With Lindsay, a travel blog with travel guides to help you plan your holiday/vacation with handy travel tips detailing things to see and do">
-	<meta property="og:image" content="http://comeflywithlindsay.com/images/carvoeiro/tivoli-carvoeiro-at-sunset.jpg">	<?php include('structure/styles.php'); ?>
+	<meta property="og:title" content="Welcome to my Travel Blog | Come Fly With Lindsay">
+	<meta property="og:description" content="Thanks for popping by! I've been documenting my travels to give you an honest insight into locations that I visit and advise on the good, the bad and the ugly.">
+	<meta property="og:image" content="http://comeflywithlindsay.com/images/vancouver/cycling-around-stanley-park-in-vancouver.jpg">	
+	<?php include('structure/styles.php'); ?>
 	<?php include('structure/icons.php'); ?>
 	<link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
   </head>
@@ -43,6 +44,7 @@
 					</div>					
 					<hr>
 					
+<!--
 					<div class="row">
 						<div class="large-6 column">
 						<img src="/images/homepage/afternoon-tea-london.jpg" alt="Afternoon tea at Fortnum and Mason in London, England">
@@ -54,7 +56,8 @@
 							<a class="button small" href="/holiday-guides/afternoon-tea-london">London Afternoon Tea Guide</a>
 						</div>
 					</div>					
-					<hr>				
+					<hr>	
+-->			
 					
 					<div class="row">
 						<div class="large-6 column">
@@ -63,12 +66,12 @@
 						<div class="large-6 column">
 							<h2><a href="/holiday-guides/banff">Banff National Park, Canada</a></h2>
 							<p>Definitely one of the most beautiful places, possibly in existence</p>
-							<p>Behold stunning mountain scenery in every direction that you look. Banff was my second stop on my recent 2 week holiday to the West coast of Canada. I visited in October to get a glimpse of the the autumnal colours in Canada in fall and I was not disappointed!</p>
+							<p>Behold stunning mountain scenery in every direction that you look. Banff was my second stop on my two week holiday to the West coast of Canada. I visited in October to get a glimpse of the the autumnal colours in Canada in fall and I was not disappointed!</p>
 							<a class="button small" href="/holiday-guides/banff">Banff Holiday Guide</a>
 						</div>
 					</div>
 
-<!--
+
 					<hr>
 					<div class="row">
 						<div class="large-6 column">
@@ -81,7 +84,7 @@
 							<a class="button small" href="/holiday-guides/vancouver">Vancouver Holiday Guide</a>
 						</div>
 					</div>
--->				
+				
 				</article>
 			</div>
 		</main>

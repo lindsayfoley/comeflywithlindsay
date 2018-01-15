@@ -64,7 +64,7 @@
 						<a href="/holiday-guides/whistler"><img class="wide column" src="images/destinations/autumnal-colours-whistler-british-columbia-wide.jpg" alt="Stunning autumnal coloured trees in Whistler - British Columbia, Canada"></a>
 						<div class="large-9 column medium-10">
 							<h2><a href="/holiday-guides/whistler">Whistler Village, Canada</a></h2>
-							<p>A cool little village, 2 hours drive from Vancouver Airport with a focus on sports and outdoor activities.</p>
+							<p>A cool little village, 2 hours drive from Vancouver with a focus on sports and outdoor activities.</p>
 							<a class="button small" href="/holiday-guides/whistler">Read On About Whistler</a>
 						</div>
 					</div>
