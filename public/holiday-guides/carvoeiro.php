@@ -42,7 +42,7 @@
 						<figcaption>Our room at Tivoli Carvoeiro</figcaption>
 					</figure>
 
-					<p>Walking into the lobby and looking unimpeded to the sea and the horizon beyond let’s you know you somewhere truly special. The grounds are breathtaking and very well maintained so it’s worth exploring the area. There are rough pathways in both surrounding cliffs which you can climb up to see some epic views. The cliff opposite the pool was our favourite spot and perfect to take in the sunset.</p>
+					<p>Walking into the lobby and looking unimpeded to the sea and the horizon beyond lets you know you somewhere truly special. The grounds are breathtaking and very well maintained so it’s worth exploring the area. There are rough pathways in both surrounding cliffs which you can climb up to see some epic views. The cliff opposite the pool was our favourite spot and perfect to take in the sunset.</p>
 					<figure>
 						<img src="/images/carvoeiro/caves-and-scenery-at-tivoli-carvoeiro.jpg" alt="Cliffs and beautiful scenery around the Tivoli Carvoeiro Resort">
 						<figcaption>Cliffs and beautiful scenery around the Tivoli Carvoeiro Resort</figcaption>
