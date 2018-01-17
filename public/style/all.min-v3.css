@@ -36,8 +36,7 @@ figcaption { margin-top:10px; color:#c98f38; }
 footer { font-size:13px; background:#222222; border-top:5px solid black; }
 footer div:nth-of-type(2) a { color:white; border-bottom:1px solid #AB7D38; }
 footer #social { pointer-events:cursor; vertical-align:top; }
-footer #social a:first-of-type { font-size:25px; font-weight:bold; color:white; }
-footer #social a:last-of-type { padding-left:10px; fill:white; vertical-align:sub; }
+footer #social svg { width:24px; height:24px; margin-left:10px; fill:white; vertical-align:sub; }
 footer p { padding-top:10px; }
 footer p, footer a { color:#9E9E9E; margin:0; }
 
