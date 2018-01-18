@@ -1,15 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-	<title>Afternoon Tea in London, England Guide | Come Fly With Lindsay</title>
-	<?php include('../structure/meta.php'); ?>
-	<meta name="description" content="A guide to my top traditional afternoon tea venues in London, England featuring reviews of afternoon tea at Fortnum and Mason,The Ritz and more">
-	<meta property="og:url" content="http://comeflywithlindsay.com/holiday-guides/afternoon-tea-london">
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Afternoon Tea in London | A Guide by Come Fly With Lindsay">
-	<meta property="og:description" content="A guide to my top traditional afternoon tea venues in London, England featuring reviews of afternoon tea at Fortnum and Mason,The Ritz and more">
+  	<?php 
+		$metaTitle = 'Afternoon tea in London, England guide';
+		$metaDescription = 'A guide to my top traditional afternoon tea venues in London, England with tea reviews of Fortnum and Mason, The Ritz & more, written by Come Fly With Lindsay.';
+		include('../structure/meta.php');
+	?>		  
 	<meta property="og:image" content="http://comeflywithlindsay.com/images/london/traditional-afternoon-tea-fortnum-and-mason.jpg">
-	
 	<?php include('../php/opengraph.php'); ?>
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>

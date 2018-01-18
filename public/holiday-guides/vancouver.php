@@ -1,15 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-	<title>Travel Guide on Vancouver, Canada | Come Fly With Lindsay</title>
-	<?php include('../structure/meta.php'); ?>
-	<meta name="description" content="Travel guide on Downtown Vancouver with handy travel tips, experiences, info on where to visit, to stay and what to do in Vancouver by Come Fly With Lindsay">
-	<meta property="og:url" content="http://comeflywithlindsay.com/holiday-guides/vancouver">
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Travel Guide on Vancouver, Canada | Come Fly With Lindsay">
-	<meta property="og:description" content="Travel guide on Downtown Vancouver with handy travel tips, experiences, info on where to visit, to stay and what to do in Vancouver by Come Fly With Lindsay">
+  	<?php 
+		$metaTitle = 'Vancouver travel guide';
+		$metaDescription = 'Travel guide on Downtown Vancouver with handy travel tips, experiences, information on where to visit and where to stay by Come Fly With Lindsay.';
+		include('../structure/meta.php');
+	?>		  
 	<meta property="og:image" content="http://comeflywithlindsay.com/images/vancouver/cycling-around-stanley-park-in-vancouver.jpg">
-	
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>

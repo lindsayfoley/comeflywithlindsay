@@ -1,9 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-	<title>About Lindsay Foley Author Of Come Fly With Lindsay</title>
-	<?php include('structure/meta.php'); ?>
-	<meta name="description" content="I was inspired to start Come Fly With Lindsay after sourcing information about upcoming holidays from tons of online travel resources and guide books">
+  	<?php 
+		$metaTitle = 'About the author Lindsay Foley';
+		$metaDescription = 'I try to escape my hometown of London a few times a year to see what wondrous sites are out there for me to see and discover.';
+		include('structure/meta.php');
+	?>
+	<meta property="og:image" content="http://comeflywithlindsay.com/images/lindsay-foley-at-lake-louise-banff-canada.jpg">	
 	<?php include('structure/styles.php'); ?>
 	<?php include('structure/icons.php'); ?>
   </head>

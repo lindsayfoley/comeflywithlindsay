@@ -1,9 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-	<title>Contact Lindsay From Come Fly With Lindsay</title>
-	<?php include('structure/meta.php'); ?>
-	<meta name="description" content="Got a travel related question or want to find out more about Come Fly With Lindsay? Follow me on Instagram or send me an email">
+  	<?php 
+		$metaTitle = 'Contact Lindsay';
+		$metaDescription = 'Got a travel related question or want to find out more about Come Fly With Lindsay? Follow me on Instagram, Facebook or send me an email.';
+		include('structure/meta.php');
+	?>	
+	<meta property="og:image" content="http://comeflywithlindsay.com/images/me-at-rainbow-falls-in-whistler-canada.jpg">	
 	<?php include('structure/styles.php'); ?>
 	<?php include('structure/icons.php'); ?>
   </head>
@@ -23,8 +26,12 @@
 						<div class="large-6 column">
 							<h2>Track Me Down</h2>
 							<p>I'm always happy to receive feedback or questions and talk/write/message about my travels or websites that I build - so feel free to get in contact in the various ways below!</p>
-							<p><a href="mailto:me@lindsayfoley.co.uk">Send me an email</a> or follow me on <a target="_blank" href="https://www.instagram.com/comeflywithlindsay/">Instagram</a>.</p>
-							
+							<ul>
+								<li>Follow me on <a target="_blank" href="https://www.instagram.com/comeflywithlindsay/">Instagram</a></li>
+								<li>Follow me on <a target="_blank" href="https://www.facebook.com/comeflywithlindsay/">Facebook</a></li>
+								<li>Send me an <a href="mailto:me@lindsayfoley.co.uk"> email</a></li>
+								<li>View my <a target="_blank" href="http://www.lindsayfoley.co.uk">portfolio</a></li>
+							</ul>
 							<a class="button small" href="destinations">Browse Destinations</a>
 						</div>
 					</div>

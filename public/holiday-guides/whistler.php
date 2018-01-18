@@ -1,15 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-	<title>Travel Guide On Whistler, Canada | Come Fly With Lindsay</title>
-	<?php include('../structure/meta.php'); ?>
-	<meta name="description" content="A guide to Whistler, British Columbia in Canada with things to do and see in sporty Whistler in autumn, with tips and ideas by Come Fly With Lindsay">
-	<meta property="og:url" content="http://comeflywithlindsay.com/holiday-guides/whistler">
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Travel Guide On Whistler, Canada | Come Fly With Lindsay">
-	<meta property="og:description" content="A guide to Whistler, British Columbia in Canada with things to do and see in sporty Whistler in autumn, with tips and ideas by Come Fly With Lindsay">
+  	<?php 
+		$metaTitle = 'Travel guide on Whistler, Canada';
+		$metaDescription = 'A guide to Whistler, British Columbia in Canada with things to do and see in sporty Whistler in autumn, with tips and ideas by Come Fly With Lindsay.';
+		include('../structure/meta.php');
+	?>	
 	<meta property="og:image" content="http://comeflywithlindsay.com/images/whistler/whistler-village-autumnal-colours.jpg">	
-	
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>

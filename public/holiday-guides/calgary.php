@@ -1,15 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-	<title>Travel Guide On Downtown Calgary, Canada | Come Fly With Lindsay</title>
-	<?php include('../structure/meta.php'); ?>
-	<meta name="description" content="My insiders guide to spending a couple of nights in Downtown Calgary in Alberta, Canada. Read Come Fly With Lindsay's blog post to prepare for your Calgary trip">
-	<meta property="og:url" content="http://comeflywithlindsay.com/holiday-guides/calgary">
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Travel Guide On Downtown Calgary, Canada | Come Fly With Lindsay">
-	<meta property="og:description" content="My insiders guide to spending a couple of nights in Downtown Calgary in Alberta, Canada. Read Come Fly With Lindsay's blog post to prepare for your Calgary trip">
+  	<?php 
+		$metaTitle = 'Travel guide on Downtown Calgary, Canada';
+		$metaDescription = 'My insiders guide to spending a couple of nights in Downtown Calgary in Alberta, Canada. Read my blog post to prepare for your short stay in Calgary.';
+		include('../structure/meta.php');
+	?>	
 	<meta property="og:image" content="http://comeflywithlindsay.com/images/calgary/olympic-plaza-calgary.jpg">
-	
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>

@@ -1,15 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-	<title>Carvoeiro Travel Guide, Portugal | Come Fly With Lindsay</title>
-	<?php include('../structure/meta.php'); ?>
-	<meta name="description" content="Travel guide on Carvoeiro in Portugal featuring travel advice and details on where to stay, what to eat and things to see, written by Come Fly With Lindsay">
-	<meta property="og:url" content="http://comeflywithlindsay.com/holiday-guides/carvoeiro">
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Travel Guide on Carvoeiro in Portugal | Come Fly With Lindsay">
-	<meta property="og:description" content="View my travel guide on the lovely Carvoeiro in Faro, Portugal for travel advice and info on where to stay, what to eat and things to see and do, written by Come Fly With Lindsay">
+  	<?php 
+		$metaTitle = 'Carvoeiro travel guide, Portugal';
+		$metaDescription = 'Travel guide on Carvoeiro in Portugal featuring travel advice and details on where to stay, what to eat and things to see, written by Come Fly With Lindsay.';
+		include('../structure/meta.php');
+	?>	
 	<meta property="og:image" content="http://comeflywithlindsay.com/images/carvoeiro/tivoli-carvoeiro-at-sunset.jpg">
-	
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>

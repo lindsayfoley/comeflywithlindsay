@@ -1,9 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-	<title>Travel Guides On Many Destinations | Come Fly With Lindsay</title>
-	<?php include('structure/meta.php'); ?>
-	<meta name="description" content="Travel guides on Banff, Whistler, Vancouver and other holiday destinations on Come Fly With Lindsay; a travel blog with handy guides to help plan your holidays">
+  	<?php 
+		$metaTitle = 'Travel Guides for a variety of destinations';
+		$metaDescription = 'Travel guides on Portugal, Banff, Whistler and other holiday destinations on Come Fly With Lindsay; a travel blog with handy guides to help plan your holidays.';
+		include('structure/meta.php');
+	?>
+	<meta property="og:image" content="http://comeflywithlindsay.com/images/destinations/carvoeiro-town-and-beach.jpg">	
 	<?php include('structure/styles.php'); ?>
 	<?php include('structure/icons.php'); ?>
   </head>

@@ -1,15 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-	<title>Handy Travel Guide On Banff, Canada | Come Fly With Lindsay</title>
-	<?php include('../structure/meta.php'); ?>
-	<meta name="description" content="A handy travel guide on Banff in Alberta, Canada to plan your holiday to the Canadian Rockies. Read my tips on things to do and see by Come Fly With Lindsay">
-	<meta property="og:url" content="http://comeflywithlindsay.com/holiday-guides/banff">
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Handy Travel Guide On Banff, Canada | Come Fly With Lindsay">
-	<meta property="og:description" content="A handy travel guide on Banff in Alberta, Canada to plan your holiday to the Canadian Rockies. Read my tips on things to do and see by Come Fly With Lindsay">
+  	<?php 
+		$metaTitle = 'Handy travel guide on Banff, Canada, Portugal';
+		$metaDescription = 'A handy travel guide on Banff in Alberta, Canada to plan your holiday to the Canadian Rockies. Read my tips on things to do and see by Come Fly With Lindsay.';
+		include('../structure/meta.php');
+	?>		  
 	<meta property="og:image" content="http://comeflywithlindsay.com/images/banff/banff-town-alberta-canada.jpg">
-
 	<?php include('../structure/styles.php'); ?>
 	<?php include('../structure/icons.php'); ?>
   </head>
