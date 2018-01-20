@@ -2,8 +2,8 @@
 <html class="no-js" lang="en" dir="ltr">
   <head>
   	<?php 
-		$metaTitle = 'Travel guide on Downtown Calgary, Canada';
-		$metaDescription = 'My insiders guide to spending a couple of nights in Downtown Calgary in Alberta, Canada. Read my blog post to prepare for your short stay in Calgary.';
+		$metaTitle = "Downtown Calgary Travel Guide";
+		$metaDescription = "My insiders guide to spending a couple of nights in Downtown Calgary in Alberta, Canada. Read my blog post to prepare for your short stay in Calgary.";
 		include('../structure/meta.php');
 	?>	
 	<meta property="og:image" content="http://comeflywithlindsay.com/images/calgary/olympic-plaza-calgary.jpg">

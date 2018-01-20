@@ -2,8 +2,8 @@
 <html class="no-js" lang="en" dir="ltr">
   <head>
   	<?php 
-		$metaTitle = 'Contact Lindsay';
-		$metaDescription = 'Got a travel related question or want to find out more about Come Fly With Lindsay? Follow me on Instagram, Facebook or send me an email.';
+		$metaTitle = "Contact me";
+		$metaDescription = "Got a travel related question or want to find out more about Come Fly With Lindsay? Follow me on Instagram, Facebook or send me an email.";
 		include('structure/meta.php');
 	?>	
 	<meta property="og:image" content="http://comeflywithlindsay.com/images/me-at-rainbow-falls-in-whistler-canada.jpg">	

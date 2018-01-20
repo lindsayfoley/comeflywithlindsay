@@ -2,8 +2,8 @@
 <html class="no-js" lang="en" dir="ltr">
   <head>
   	<?php 
-		$metaTitle = 'About the author Lindsay Foley';
-		$metaDescription = 'I try to escape my hometown of London a few times a year to see what wondrous sites are out there for me to see and discover.';
+		$metaTitle = "About the Author";
+		$metaDescription = "I try to escape my hometown of London a few times a year to see what wondrous sites are out there for me to see and discover.";
 		include('structure/meta.php');
 	?>
 	<meta property="og:image" content="http://comeflywithlindsay.com/images/lindsay-foley-at-lake-louise-banff-canada.jpg">	

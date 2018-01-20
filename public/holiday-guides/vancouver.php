@@ -2,8 +2,8 @@
 <html class="no-js" lang="en" dir="ltr">
   <head>
   	<?php 
-		$metaTitle = 'Vancouver travel guide';
-		$metaDescription = 'Travel guide on Downtown Vancouver with handy travel tips, experiences, information on where to visit and where to stay by Come Fly With Lindsay.';
+		$metaTitle = "Vancouver Travel Guide";
+		$metaDescription = "Travel guide on Downtown Vancouver with handy travel tips, experiences, information on where to visit and where to stay by Come Fly With Lindsay.";
 		include('../structure/meta.php');
 	?>		  
 	<meta property="og:image" content="http://comeflywithlindsay.com/images/vancouver/cycling-around-stanley-park-in-vancouver.jpg">

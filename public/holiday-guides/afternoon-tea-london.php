@@ -2,8 +2,8 @@
 <html class="no-js" lang="en" dir="ltr">
   <head>
   	<?php 
-		$metaTitle = 'Afternoon tea in London, England guide';
-		$metaDescription = 'A guide to my top traditional afternoon tea venues in London, England with tea reviews of Fortnum and Mason, The Ritz & more, written by Come Fly With Lindsay.';
+		$metaTitle = "London Afternoon Tea Guide";
+		$metaDescription = "A guide to my top traditional afternoon tea venues in London, England with tea reviews of Fortnum and Mason, The Ritz & more, written by Come Fly With Lindsay.";
 		include('../structure/meta.php');
 	?>		  
 	<meta property="og:image" content="http://comeflywithlindsay.com/images/london/traditional-afternoon-tea-fortnum-and-mason.jpg">

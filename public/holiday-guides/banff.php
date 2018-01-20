@@ -2,8 +2,8 @@
 <html class="no-js" lang="en" dir="ltr">
   <head>
   	<?php 
-		$metaTitle = 'Handy travel guide on Banff, Canada, Portugal';
-		$metaDescription = 'A handy travel guide on Banff in Alberta, Canada to plan your holiday to the Canadian Rockies. Read my tips on things to do and see by Come Fly With Lindsay.';
+		$metaTitle = "Banff, Canada Travel Guide";
+		$metaDescription = "A handy travel guide on Banff in Alberta, Canada to plan your holiday to the Canadian Rockies. Read my tips on things to do and see by Come Fly With Lindsay.";
 		include('../structure/meta.php');
 	?>		  
 	<meta property="og:image" content="http://comeflywithlindsay.com/images/banff/banff-town-alberta-canada.jpg">

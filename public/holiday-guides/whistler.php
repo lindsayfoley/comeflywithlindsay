@@ -2,8 +2,8 @@
 <html class="no-js" lang="en" dir="ltr">
   <head>
   	<?php 
-		$metaTitle = 'Travel guide on Whistler, Canada';
-		$metaDescription = 'A guide to Whistler, British Columbia in Canada with things to do and see in sporty Whistler in autumn, with tips and ideas by Come Fly With Lindsay.';
+		$metaTitle = "Travel Guide to Whistler, Canada";
+		$metaDescription = "A guide to Whistler, British Columbia in Canada with things to do and see in sporty Whistler in autumn, with tips and ideas by Come Fly With Lindsay.";
 		include('../structure/meta.php');
 	?>	
 	<meta property="og:image" content="http://comeflywithlindsay.com/images/whistler/whistler-village-autumnal-colours.jpg">	

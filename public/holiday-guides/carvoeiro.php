@@ -2,8 +2,8 @@
 <html class="no-js" lang="en" dir="ltr">
   <head>
   	<?php 
-		$metaTitle = 'Carvoeiro travel guide, Portugal';
-		$metaDescription = 'Travel guide on Carvoeiro in Portugal featuring travel advice and details on where to stay, what to eat and things to see, written by Come Fly With Lindsay.';
+		$metaTitle = "Carvoeiro, Portugal Travel Guide";
+		$metaDescription = "Travel guide on Carvoeiro in Portugal featuring travel advice and details on where to stay, what to eat and things to see, written by Come Fly With Lindsay.";
 		include('../structure/meta.php');
 	?>	
 	<meta property="og:image" content="http://comeflywithlindsay.com/images/carvoeiro/tivoli-carvoeiro-at-sunset.jpg">
