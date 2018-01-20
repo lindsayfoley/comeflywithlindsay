@@ -22,7 +22,6 @@ article .row:last-of-type { padding-bottom:40px; }
 article img { width:100%; display:block; margin:0 auto; }
 body:not(#blog-post) article img { max-width:637px; }
 article h2 + p { margin-top:0; }
-article p + .button { margin-top:5px; }
 #intro { text-align:center; font-size:18px; }
 section hr { border-bottom-color:#dfdfdf; }
 section h4 { margin:0; }
@@ -35,9 +34,10 @@ figcaption { margin-top:10px; color:#c98f38; }
 /* Footer */
 footer { font-size:13px; background:#222222; border-top:5px solid black; }
 footer div:nth-of-type(2) a { color:white; border-bottom:1px solid #AB7D38; }
-footer #social { pointer-events:cursor; vertical-align:top; }
-footer #social svg { width:24px; height:24px; margin-left:10px; fill:white; vertical-align:sub; }
-footer p { padding-top:10px; }
+footer #social { pointer-events:cursor; padding-top:4px; }
+footer #social svg { width:24px; height:24px; fill:white; vertical-align:text-bottom; }
+footer #social svg:first-child { margin-right:10px; }
+footer p { padding-top:10px; font-size:15px; }
 footer p, footer a { color:#9E9E9E; margin:0; }
 
 /*****************************************/
@@ -50,6 +50,7 @@ footer p, footer a { color:#9E9E9E; margin:0; }
 #purpose > h2:before, #purpose > h2:after { content:'—'; padding:0 5px; }
 #purpose p:last-of-type { margin-bottom:0; }
 #homepage article > h2 a { text-decoration:none; }
+#homepage article p + .button { margin-top:14px; }
 /* /Homepage */
 #destinations article * { float:none; }
 #destinations article .large-9 { margin:0 auto; }

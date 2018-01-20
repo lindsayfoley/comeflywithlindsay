@@ -32,19 +32,19 @@
 						<figcaption>The exterior of Moose Hotel and Suites</figcaption>
 					</figure>
 	
-					<p>We had a lovely breakfast one morning at Pacini the onsite restaurant, it was excellent value and featured generous portions. Each breakfast came with a fruit salad and a Duo Mattino, which is a mini slice of fruity bread and a shot of yoghurt and granola. You could also visit the bread bar for free which had a variety of sliced bread and spreads - a great way to fuel up before heading out in the cold!</p>
+					<p>We had a lovely breakfast one morning at Pacini the onsite restaurant, it was excellent value and featured generous portions. Each breakfast came with a fruit salad and a Duo Mattino, which is a mini slice of fruity bread and a shot of yoghurt and granola. You could also visit the bread bar for free which had a variety of breads and spreads - a great way to fuel up before heading out in the cold!</p>
 					<figure>
 						<img src="/images/banff/eggs-benedict-at-pacini-moose-hotel-and-suites.jpg" alt="Eggs Benedict at Pacini in Moose Hotel and Suites, Banff">
 						<figcaption>Eggs Benedict at Pacini, Moose Hotel and Suites</figcaption>
 					</figure>
 					
-					<p>I recommend spending some time walking around the cute little resort town of Banff and going on some easy walking trails, you'll be amazed at what you can see just by walking a short distance. The Bow River trail is a nice, easy, picturesque walk and leads to Bow Falls.</p>
+					<p>I recommend spending some time walking around the cute little resort town of Banff and going on some easy walking trails, you'll be amazed at what you can see just by walking a short distance. The Bow River trail is a nice, picturesque walk and leads to Bow Falls.</p>
 					<figure>
 						<img src="/images/banff/bow-river-trail-banff-canada.jpg" alt="Bow River trail in Banff, Canada">
 						<figcaption>Walking the Bow River trail in Banff</figcaption>
 					</figure>					
 					
-					<p>If you're after something a bit more challenging and adventurous, the Tunnel Mountain trail is ideal. The elevation gain is 300 m and the roundtrip from Banff town took about 2.5 hours, mostly because it started snowing half way up. Unfortunately the snow meant we couldn't see amazing views when we got to the top, but the experience was incredible and the trees looked like a dream covered in snow.</p>
+					<p>If you're after something a bit more challenging and adventurous, the Tunnel Mountain trail is ideal. The elevation gain is 300 m and the roundtrip from Banff town took about 2.5 hours, mostly because it started snowing half way up. Unfortunately the snow meant we couldn't see much when we got to the top, but the experience was incredible and the trees looked dreamy covered in snow.</p>
 					<figure>
 						<img src="/images/banff/tunnel-mountain-trail-in-snow-banff-canada.jpg" alt="Hiking in Tunnel Mountain in the snow, Banff - Alberta, Canada">
 						<figcaption>Hiking up Tunnel Mountain in the snow</figcaption>	
@@ -56,12 +56,12 @@
 						<iframe src="https://www.youtube.com/embed/lA-W0DFlAbg?rel=0" gesture="media" allowfullscreen></iframe>
 					</div>
 					
-					<p>Lake Louise was the highlight for me, we booked a <a target="_blank" href="https://www.banfftours.com/">Discover Banff Tour</a> as we didn't have a car and it was just perfect. It snowed the day before and the snow settled, resulting in a stunning winter wonderland scene. It's  worth nipping into the impressive Fairmont Hotel to defrost and have a nose around this swanky hotel before heading back to the lake. On this tour we also visited the Fairmont Banff Springs Hotel, the Hoodoos, Bow River, Bow Falls, Surprise Corner and made a quick stop by the Vermillion Lakes to take some photos.</p>
+					<p>Lake Louise was the highlight for me, we booked a <a target="_blank" href="https://www.banfftours.com/">Discover Banff Tour</a> as we didn't have a car and it was just perfect. It snowed the day before and the snow settled, resulting in a stunning winter wonderland scene. It's  worth nipping into the impressive Fairmont Hotel to defrost and have a nose around this swanky hotel before heading back to the lake. On this tour we also visited the Fairmont Banff Springs Hotel, the Hoodoos, Bow River, Bow Falls, Surprise Corner and made a quick stop to the Vermillion Lakes for photos.</p>
 					<figure>
 						<img src="/images/banff/lake-louise-in-banff-canada.jpg" alt="Lake Louise surrounded by snowy trees in Banff - Alberta, Canada">
 						<figcaption>The incredible Lake Louise surrounded by snowy trees in Banff</figcaption>
 					</figure>		
-					<p>We stayed in Banff for 3 nights in October 2017 and I recommend staying for at least 5 nights to see everything. When I return, I'd like to visit the hot springs, take a ride on the Banff gondola and see Moraine Lake, Lake Minnewanka, Peyto Lake and Jasper National Park.</p>			
+					<p>We stayed in Banff for 3 nights in October 2017 and I recommend staying for at least 5 to see everything. When I return, I'd like to visit the hot springs, take a ride on the Banff gondola and see Moraine Lake, Lake Minnewanka, Peyto Lake and Jasper National Park.</p>			
 					<hr>
 					
 					<h2>Fav Restaurants</h2>

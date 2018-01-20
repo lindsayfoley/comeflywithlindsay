@@ -29,13 +29,13 @@
 						<figcaption>The lobby at the Fairmont Palliser in Downtown Calgary</figcaption>
 					</figure>
 	
-					<p>Our room was generous in size, especially for a standard, and to my delight it was recently refurbished. It was pretty quiet so we slept fairly well, apart from hearing the odd few trains passing through. We ordered room service a few times when suffering from jet-lag and I have to say the the food was consistently outstanding, it was pricey but well worth it! The facilities include an indoor pool, spa and a Starbucks located on the lower ground floor which was useful when we needed water, snacks and of course hot drinks to warm us up.</p>
+					<p>Our room was generous in size, especially for a standard, and to my delight it was recently refurbished. It was pretty quiet so we slept fairly well, apart from hearing the odd few trains passing through. We ordered room service a few times when suffering from jet-lag and I have to say the the food was consistently outstanding, it was pricey but well worth it! The facilities include an indoor pool, spa and a Starbucks located on the lower ground floor which was useful for water, snacks and of course hot drinks to warm us up.</p>
 					<figure>
 						<img src="/images/calgary/fairmont-queen-room-fairmont-palliser.jpg" alt="The Fairmont Queen room at the Fairmont Palliser">
 						<figcaption>The Fairmont Queen room at the Fairmont Palliser</figcaption>
 					</figure>					
 					
-					<p>We walked down to the Olympic Plaza on Stephen Avenue, where medals were presented in the 1988 Winter Olympics. There were no events on when we visited, but it was still a nice place for a stroll on a sunny day. The plaza is well maintained and has a water feature in the center with the Canadian Maple leaf, surrounded by small fountains. Definitely worth a pit-stop, but don't go out of your way to visit.</p>
+					<p>We walked down to the Olympic Plaza on Stephen Avenue, where medals were presented in the 1988 Winter Olympics. There were no events on when we visited, but it was still a nice place for a stroll on a sunny day. The plaza is well maintained and has a water feature in the center with the Canadian Maple leaf, surrounded by fountains. Worth a pit-stop, but don't go out of your way to visit.</p>
 					<figure>
 						<img src="/images/calgary/olympic-plaza-calgary.jpg" alt="Olympic Plaza in Downtown Calgary">
 						<figcaption>Olympic Plaza in Downtown Calgary</figcaption>
@@ -49,7 +49,7 @@
 					
 					<p>If you fancy going shopping, catch an Uber for &dollar;15 to the <a href=""https://www.cfshops.com/chinook-centre.html>Chinook Centre</a> which is a 15 minute drive south. It's a large shopping centre with a vast selection of fashion, beauty and homeware stores including a Nordstrom, a food court, cinema and bowling alley.</p>				
 					
-					<p>We stayed in Calgary for 2 nights in October 2017, over the Canadian Thanksgiving period (second Monday in October) which may be the reason why it was tremendously quiet. That said, I wouldn't plan to stay here for an extended period of time, a weekend would do fine!</p>			
+					<p>We stayed in Calgary for 2 nights in October 2017, over the Canadian Thanksgiving period (second Monday in October) which may be the reason why it was tremendously quiet. That said, I wouldn't plan to stay here for an extended period of time, a weekend is fine!</p>			
 					<hr>
 					
 					<h2>My Top Tips</h2>

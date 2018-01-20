@@ -32,7 +32,7 @@
 						<figcaption>The steam clock in Gastown, Downtown Vancouver</figcaption>
 					</figure>	
 					
-					<p>We were spoilt for choice when it came to dining as there's an abundance of restaurants on Robson. We found <a target="_blank" href="http://www.chezcora.com">Cora</a> which at first I thought looked like IHOP, but to my delight it turned out to be way better! Cora has a vast menu and served up ample portions at a cheap price! Most breakfast dishes came with a jumbo portion of fruit on the side which was an added bonus as we were eating like pigs!</p>
+					<p>We were spoilt for choice when it came to dining as there's an abundance of restaurants on Robson. We found <a target="_blank" href="http://www.chezcora.com">Cora</a> which I thought looked suspiciously like IHOP, but it turned out to be way better! Cora has a vast menu and served up ample portions at a cheap price! Most breakfast dishes came with a jumbo portion of fruit on the side which was an added bonus as we were eating like pigs!</p>
 					<figure>
 						<img src="/images/vancouver/french-toast-with-fruit-cora-vancouver.jpg" alt="French toast with bacon, eggs and fruit at Cora, Downtown Vancouver, Canada">
 						<figcaption>Yummy breakfast at Cora on Robson in Downtown Vancouver</figcaption>

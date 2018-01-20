@@ -51,7 +51,7 @@
 						<figcaption>Lost Lake behind the trees in Whistler</figcaption>	
 					</figure>	
 					
-					<p>We stayed in Whistler Village for 3 nights in October 2017 and I would say 3/5 nights is the perfect amount of time. When I return, I'd like to do the activities that were closed such as ride the <a target="_blank" href="https://www.whistler.com/activities/peak-to-peak-gondola/">Peak 2 Peak Gondola</a> to the top of Blackcomb Mountain and go on a glacier tour.</p>			
+					<p>We stayed in Whistler Village for 3 nights in October 2017 and I would say 3/5 nights is the perfect amount of time. When I return, I'd like to do the activities that were closed such as ride the <a target="_blank" href="https://www.whistler.com/activities/peak-to-peak-gondola/">Peak 2 Peak Gondola</a> to Blackcomb Mountain and go on a glacier tour.</p>			
 					
 					<hr>
 					<h2>Fav Restaurants</h2>

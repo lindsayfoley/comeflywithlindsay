@@ -37,7 +37,7 @@
 						<a href="/holiday-guides/afternoon-tea-london"><img class="wide column" src="images/destinations/tale-as-old-as-time-tea-town-house-at-the-kensington.jpg" alt="Afternoon tea at the Townhouse Hotel in Kensington"></a>
 						<div class="large-9 medium-10 column">
 							<h2><a href="/holiday-guides/afternoon-tea-london">Afternoon Tea, London</a></h2>
-							<p>With vast options to choose from, let me help you to select the perfect London afternoon tea experience.</p>
+							<p>With vast options to choose from, let me help you to select the perfect afternoon tea experience.</p>
 							<a class="button small" href="/holiday-guides/afternoon-tea-london">London Afternoon Tea Guide</a>
 						</div>
 					</div>
@@ -77,7 +77,7 @@
 						<a href="/holiday-guides/vancouver"><img class="wide column" src="images/destinations/port-view-stanley-park-vancouver-wide.jpg" alt="A view of the port and boats taken in Stanley Park"></a>
 						<div class="large-9 medium-10 column">
 							<h2><a href="/holiday-guides/vancouver">Downtown Vancouver, Canada</a></h2>
-							<p>A must for those who enjoy city breaks and plenty of walking! Downtown Van has a lot for explorers.</p>
+							<p>A must for those who enjoy city breaks and plenty of walking! Vancouver has a lot for explorers.</p>
 							<a class="button small" href="/holiday-guides/vancouver">My Vancouver Guide</a>
 						</div>
 					</div>	
