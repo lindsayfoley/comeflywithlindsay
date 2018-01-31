@@ -23,3 +23,6 @@
 		</div>
 	</div>
 </footer>
+</body>
+  <?php include('../structure/scripts.php'); ?>
+</html>

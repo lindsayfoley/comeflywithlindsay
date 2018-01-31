@@ -1,19 +1,13 @@
-<!doctype html>
-<html class="no-js" lang="en" dir="ltr">
-  <head>
-  	<?php 
-		$metaTitle = "Contact me";
-		$metaDescription = "Got a travel related question or want to find out more about Come Fly With Lindsay? Follow me on Instagram, Facebook or send me an email.";
-		include('structure/meta.php');
-	?>	
-	<meta property="og:image" content="http://comeflywithlindsay.com/images/me-at-rainbow-falls-in-whistler-canada.jpg">	
-	<?php include('structure/styles.php'); ?>
-	<?php include('structure/icons.php'); ?>
-  </head>
-  
+<?php 
+	$metaTitle = "Contact me";
+	$metaDescription = "Got a travel related question or want to find out more about Come Fly With Lindsay? Follow me on Instagram, Facebook or send me an email.";
+	$ogImageUrl = "/images/me-at-rainbow-falls-in-whistler-canada";		  
+	include($_SERVER['DOCUMENT_ROOT'] . "/structure/head.php");
+?>
+
   <body>
 	  	  
-	<?php include('structure/header.php'); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/header.php"); ?>
 	
 	<section>
 		<main class="row">
@@ -41,8 +35,5 @@
 		</main>
 	</section>
 	
-	<?php include('structure/footer.php'); ?>
-	
-  </body>
-  <?php include('structure/scripts.php'); ?>
-</html>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/footer.php"); ?>
+

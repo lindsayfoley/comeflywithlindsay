@@ -1,19 +1,13 @@
-<!doctype html>
-<html class="no-js" lang="en" dir="ltr">
-  <head>
-  	<?php 
-		$metaTitle = "Travel Guides for a Variety of Destination";
-		$metaDescription = "Travel guides on Portugal, Banff, Whistler and other holiday destinations on Come Fly With Lindsay; a travel blog with handy guides to help plan your holidays.";
-		include('structure/meta.php');
-	?>
-	<meta property="og:image" content="http://comeflywithlindsay.com/images/destinations/carvoeiro-town-and-beach.jpg">	
-	<?php include('structure/styles.php'); ?>
-	<?php include('structure/icons.php'); ?>
-  </head>
+<?php 
+	$metaTitle = "Travel Guides for a Variety of Destination";
+	$metaDescription = "Travel guides on Portugal, Banff, Whistler and other holiday destinations on Come Fly With Lindsay; a travel blog with handy guides to help plan your holidays.";
+	$ogImageUrl = "/images/destinations/carvoeiro-town-and-beach.jpg";		  
+	include($_SERVER['DOCUMENT_ROOT'] . "/structure/head.php");
+?>
   
   <body id="destinations">
 	  	  
-	<?php include('structure/header.php'); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/header.php"); ?>
 	
 	<section>
 		<main class="row">
@@ -87,8 +81,4 @@
 		</main>
 	</section>
 	
-	<?php include('structure/footer.php'); ?>
-	
-  </body>
-  <?php include('structure/scripts.php'); ?>
-</html>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/footer.php"); ?>

@@ -1,20 +1,14 @@
-<!doctype html>
-<html class="no-js" lang="en" dir="ltr">
-  <head>
-	<?php 
-		$metaTitle = "Welcome to my Travel Blog";
-		$metaDescription = "I have been documenting my travel adventures to give you an insight into the destinations I visit, covering where to stay, where to eat and what to see.";
-		include('structure/meta.php');
-	?>
-	<meta property="og:image" content="http://comeflywithlindsay.com/images/vancouver/cycling-around-stanley-park-in-vancouver.jpg">	
-	<?php include('structure/styles.php'); ?>
-	<?php include('structure/icons.php'); ?>
-	<link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
-  </head>
+<?php 
+	$metaTitle = "Welcome to my Travel Blog";
+	$metaDescription = "I have been documenting my travel adventures to give you an insight into the destinations I visit, covering where to stay, where to eat and what to see.";
+	$ogImageUrl = "/images/vancouver/cycling-around-stanley-park-in-vancouver.jpg";		  
+	include($_SERVER['DOCUMENT_ROOT'] . "/structure/head.php");
+?>
   
   <body id="homepage">
 	  
-	<?php include('structure/header.php'); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/header.php"); ?>
+
 	<div id="featured-img-mobile" class="row"></div>
 	
 	<section>
@@ -67,8 +61,4 @@
 		</main>
 	</section>
 	
-	<?php include('structure/footer.php'); ?>
-	
-  </body>
-  <?php include('structure/scripts.php'); ?>
-</html>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/footer.php"); ?>

@@ -1,19 +1,13 @@
-<!doctype html>
-<html class="no-js" lang="en" dir="ltr">
-  <head>
-  	<?php 
-		$metaTitle = "About the Author";
-		$metaDescription = "I try to escape my hometown of London a few times a year to see what wondrous sites are out there for me to see and discover.";
-		include('structure/meta.php');
-	?>
-	<meta property="og:image" content="http://comeflywithlindsay.com/images/lindsay-foley-at-lake-louise-banff-canada.jpg">	
-	<?php include('structure/styles.php'); ?>
-	<?php include('structure/icons.php'); ?>
-  </head>
-  
+<?php 
+	$metaTitle = "About the Author";
+	$metaDescription = "I try to escape my hometown of London a few times a year to see what wondrous sites are out there for me to see and discover.";
+	$ogImageUrl = "/images/lindsay-foley-at-lake-louise-banff-canada.jpg";		  
+	include($_SERVER['DOCUMENT_ROOT'] . "/structure/head.php");
+?>
+
   <body id="about">
 	  
-	<?php include('structure/header.php'); ?>
+	<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/header.php"); ?>
 	
 	<section>
 		<main class="row">
@@ -37,8 +31,4 @@
 		</main>
 	</section>
 	
-	<?php include('structure/footer.php'); ?>
-	
-  </body>
-  <?php include('structure/scripts.php'); ?>
-</html>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/footer.php"); ?>

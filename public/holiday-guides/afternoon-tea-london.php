@@ -1,21 +1,13 @@
-<!doctype html>
-<html class="no-js" lang="en" dir="ltr">
-  <head>
-  	<?php 
-		$metaTitle = "London Afternoon Tea Guide";
-		$metaDescription = "A guide to my top traditional afternoon tea venues in London, England with tea reviews of Fortnum and Mason, The Ritz & more, written by Come Fly With Lindsay.";
-		include('../structure/meta.php');
-	?>		  
-	<meta property="og:image" content="http://comeflywithlindsay.com/images/london/traditional-afternoon-tea-fortnum-and-mason.jpg">
-	<?php include('../php/opengraph.php'); ?>
-	<?php include('../structure/styles.php'); ?>
-	<?php include('../structure/icons.php'); ?>
-  </head>
+<?php 
+	$metaTitle = "London Afternoon Tea Guide";
+	$metaDescription = "A guide to my top traditional afternoon tea venues in London, England with tea reviews of Fortnum and Mason, The Ritz & more, written by Come Fly With Lindsay.";
+	$ogImageUrl = "/images/london/traditional-afternoon-tea-fortnum-and-mason.jpg";		  
+	include($_SERVER['DOCUMENT_ROOT'] . "/structure/head.php");
+?>
   
   <body id="blog-post">
-	  
-	<?php include('../structure/header.php'); ?>
-	
+	<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/header.php"); ?>
+
 	<section>
 		<main class="row">
 			<div class="large-12">
@@ -84,9 +76,6 @@
 			</div>
 		</main>
 	</section>
-	
-	<?php include('../structure/footer.php'); ?>
-	
-  </body>
-  <?php include('../structure/scripts.php'); ?>
-</html>
+
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/footer.php"); ?>
+
