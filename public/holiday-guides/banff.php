@@ -67,7 +67,8 @@
 </ul>
 <hr>
 <?php 
-	$viewMoreLinkAndText = "'../whistler'>View Whistler Guide</a>\n";
+	$viewMoreLink = "../whistler";
+	$viewMoreText = "View Whistler Guide";
 	include($_SERVER['DOCUMENT_ROOT'] . "/structure/blog-post-end.php"); 
 ?>
 

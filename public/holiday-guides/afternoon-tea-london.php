@@ -60,6 +60,7 @@
 </ul>
 <hr>
 <?php 
-	$viewMoreLinkAndText = "'../destinations'>View My Holiday Guides</a>\n";
+	$viewMoreLink = "../destinations";
+	$viewMoreText = "View My Holiday Guides";
 	include($_SERVER['DOCUMENT_ROOT'] . "/structure/blog-post-end.php"); 
 ?>

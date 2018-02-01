@@ -74,7 +74,8 @@
 </ul>
 <hr>
 <?php 
-	$viewMoreLinkAndText = "'../banff'>Read About Banff</a>\n";
+	$viewMoreLink = "../banff";
+	$viewMoreText = "Read About Banff";	
 	include($_SERVER['DOCUMENT_ROOT'] . "/structure/blog-post-end.php"); 
 ?>
 
