@@ -1,5 +1,5 @@
 <?php 
-	$metaTitle = "Travel Guides for a Variety of Destination";
+	$metaTitle = "Travel Guides for a Variety of Destinations";
 	$metaDescription = "Travel guides on Portugal, Banff, Whistler and other holiday destinations on Come Fly With Lindsay; a travel blog with handy guides to help plan your holidays.";
 	$ogImageUrl = "/images/destinations/carvoeiro-town-and-beach.jpg";		  
 	include($_SERVER['DOCUMENT_ROOT'] . "/structure/head.php");

@@ -24,5 +24,5 @@
 	</div>
 </footer>
 </body>
-  <?php include('../structure/scripts.php'); ?>
+  <?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/scripts.php"); ?>
 </html>

@@ -18,6 +18,7 @@
 <link rel="apple-touch-icon" sizes="72x72" href="icon.png">  
 <link rel="apple-touch-icon" sizes="114x114" href="icon.png">  
 <link rel="apple-touch-icon" sizes="144x144" href="icon.png">	
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/styles.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/styles.php") ?>
 
 </head>
+

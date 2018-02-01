@@ -1,7 +1,7 @@
 <?php 
 	$metaTitle = "Contact me";
 	$metaDescription = "Got a travel related question or want to find out more about Come Fly With Lindsay? Follow me on Instagram, Facebook or send me an email.";
-	$ogImageUrl = "/images/me-at-rainbow-falls-in-whistler-canada";		  
+	$ogImageUrl = "/images/me-at-rainbow-falls-in-whistler-canada.jpg";		  
 	include($_SERVER['DOCUMENT_ROOT'] . "/structure/head.php");
 ?>
 
