@@ -12,14 +12,8 @@ We were given a special selection of teas and the usual finger sandwiches which 
 
 The [Fortnum &amp; Mason](https://www.fortnumandmason.com/restaurants/afternoon-tea) tea is &pound;44 per person and is more laid back than tea at The Ritz or The Dorchester, especially as you don't have to be suited and booted here! The service is top notch and the setting is beautiful, making it the perfect choice for all occasions.
 
-```<figure>
-
-
-![test](../images/london/traditional-afternoon-tea-fortnum-and-mason.jpg)
-
+![Traditional afternoon tea at Fortnum &amp; Mason](../images/london/traditional-afternoon-tea-fortnum-and-mason.jpg)
 <figcaption>Traditional afternoon tea at Fortnum &amp; Mason</figcaption>
-
-</figure>
 
 ---
 
@@ -28,13 +22,9 @@ The Ritz oozes elegance; when you first enter the hotel and walk into The Palm C
 	
 Afternoon tea at [The Ritz](https://www.theritzlondon.com/dine-with-us/afternoon-tea/) is priced at &pound;54 per person and is an ideal venue for celebrating special occasions. If you choose to dine here, you'll have to adhere to a dress code, even for afternoon tea - so no jeans allowed and men must wear a jacket and a tie.
 
-<figure>
-
 ![Traditional Afternoon Tea at The Ritz](/images/london/traditional-afternoon-tea-the-ritz.jpg)
 
 <figcaption>Traditional Afternoon Tea at The Ritz</figcaption>
-
-</figure>
 
 ---
 
@@ -46,14 +36,10 @@ The afternoon tea includes a first course of savoury foods - I won't ruin it and
 
 The Tale As Old As Time Tea at [Town House at The Kensington](href="http://townhousekensington.com/tale-as-old-as-time/) is &pound;38.50 per person and is ideal for Disney enthusiasts of all ages.
 
-<figure>
-
 ![Beauty and The Beast themed afternoon tea at Town House At The Kensington](/images/london/tale-as-old-as-time-tea-town-house-at-the-kensington.jpg)
 
 <figcaption>Beauty and The Beast themed afternoon tea at Town House At The Kensington</figcaption>
 	
-</figure>
-
 ---
 
 ### Afternoon Tea, Kingsway Hall Hotel - Covent Garden
@@ -64,14 +50,10 @@ The tea takes place in the Harlequin Restaurant - not the most glamorous spot bu
 
 Afternoon tea at [Kingsway Hall Hotel](http://www.kingswayhall.co.uk/en/afternoon-tea-covent-garden.html) is reasonably priced at &pound;23.95 per person and is a brilliant option to for those wanting to dine in the West End without paying excessive London prices.
 
-<figure>
-
 ![Afternoon Tea at the Kingsway Hall Hotel](/images/london/afternoon-tea-kingsway-hall-hotel.jpg)
 
 <figcaption>Afternoon tea at Kingsway Hall Hotel</figcaption>
 	
-</figure>				
-														
 ---
 
 ## My Top Tips
