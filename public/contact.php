@@ -18,7 +18,7 @@
 							<img src="images/me-at-rainbow-falls-in-whistler-canada.jpg" alt="Me looking at Rainbow Falls in Whistler - British Columbia, Canada">
 						</div>
 						<div class="large-6 column">
-							<h2>Track Me Down</h2>
+							<h1>Track Me Down</h1>
 							<p>I'm always happy to receive feedback or questions and chat about my travels, or websites that I've designed and built - so feel free to get in contact in the various ways below!</p>
 							<ul>
 								<li>Follow me on <a target="_blank" href="https://www.instagram.com/comeflywithlindsay/">Instagram</a></li>
