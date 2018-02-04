@@ -40,7 +40,7 @@
 						</div>
 						<div class="large-6 column">
 							<h2><a href="/holiday-guides/banff">Banff National Park, Canada</a></h2>
-							<p>Filled with incredible snow tipped mountains in every direction you look, Banff was my second stop on my two week holiday to the West coast of Canada. I visited Banff National Park in October to see the famous Rocky Mountains and picturesque lakes and it was truly one of the best holidays I've ever had.</p>
+							<p>Filled with incredible snow tipped mountains in every direction you look, Banff was my second stop on my 2 week holiday to the West coast of Canada. I visited Banff National Park in October to see the famous Rocky Mountains and picturesque lakes and it was truly one of the best holidays ever.</p>
 							<a class="button small" href="/holiday-guides/banff">Banff Holiday Guide</a>
 						</div>
 					</div>
