@@ -6,7 +6,7 @@
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/blog-post-start.php');
 	
 	// Blog post body
-	require_once '../vendor/ autoload.php';
+	require_once '../vendor/autoload.php';
 	$Parsedown = new Parsedown();
 	$text = file_get_contents('../holiday-guides/md/paris.txt');
 	echo $Parsedown->text($text);
