@@ -92,7 +92,7 @@ footer p, footer a { color:#9E9E9E; margin:0; }
 
 /* When article img and text stack */
 @media all and (max-width: 1023px) { 
-	body:not(#destinations) article .row > div:nth-of-type(odd) { padding-bottom:20px; }
+	body article .row > div:nth-of-type(odd) { padding-bottom:20px; }
 	article .row > div:nth-of-type(even) { max-width:670px; float:none!important; margin:0 auto; }
 }
 
