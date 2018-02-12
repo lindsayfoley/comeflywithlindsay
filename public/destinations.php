@@ -18,64 +18,92 @@
 						<p>I'm making my way through my travel bucket list and I'm taking you all with me!</p>
 						<p>These travel guides will provide you with tips and advice on your upcoming holidays, as well as inspire you about some incredible destinations you may not have considered visiting.</p>		
 					</div>
+					<hr>
+
+<!--
 					<div class="row">
-						<a href="/holiday-guides/carvoeiro"><img class="wide column" src="images/destinations/carvoeiro-town-and-beach.jpg" alt="The quaint town of Carvoeiro"></a>
-						<div class="large-9 medium-10 column">
-							<h2><a href="/holiday-guides/carvoeiro">Carvoeiro, Portugal</a></h2>
-							<p>If you're after a destination with beaches and a wealth of natural beauty, pick Carvoeiro!</p>
-							<a class="button small" href="/holiday-guides/carvoeiro">Learn About Carvoeiro</a>
+						<div class="large-6 column">
+							<a href="/holiday-guides/paris"><img src="/images/homepage/eiffel-tower-paris-at-sunset.jpg" alt="The Eiffel Tower at Sunset in Paris, France"></a>
 						</div>
-					</div>
+						<div class="large-6 column">
+							<h2><a href="/holiday-guides/carvoeiro">Paris, France</a></h2>
+							<p>Many of you may be unfamiliar with this little town in Lagao. Carvoeiro is an idyllic area in the Algarve and one of the most beautiful places I've visited in Europe. Carvoeiro was our winter escape in December 2017 and we didn't expect it to be so peaceful or to have so much stunning scenery!</p>
+							<a class="button small" href="/holiday-guides/paris">A Guide to Paris</a>
+						</div>
+					</div>					
+					<hr>
+-->
+
+					<div class="row">
+						<div class="large-6 column">
+							<a href="/holiday-guides/carvoeiro"><img src="/images/homepage/caves-scenery-at-tivoli-carvoeiro.jpg" alt="Cliffs and beautiful scenery around the Tivoli Carvoeiro Resort, Portugal"></a>
+						</div>
+						<div class="large-6 column">
+							<h2><a href="/holiday-guides/carvoeiro">Carvoeiro, Portugal</a></h2>
+							<p>Many of you may be unfamiliar with this little town in Lagao. Carvoeiro is an idyllic area in the Algarve and one of the most beautiful places I've visited in Europe. Carvoeiro was our winter escape in December 2017 and we didn't expect it to be so peaceful or to have so much stunning scenery!</p>
+							<a class="button small" href="/holiday-guides/carvoeiro">Carvoeiro Holiday Guide</a>
+						</div>
+					</div>					
 					<hr>
 
 					<div class="row">
-						<a href="/holiday-guides/afternoon-tea-london"><img class="wide column" src="images/destinations/tale-as-old-as-time-tea-town-house-at-the-kensington.jpg" alt="Afternoon tea at the Townhouse Hotel in Kensington"></a>
-						<div class="large-9 medium-10 column">
+						<div class="large-6 column">
+						<img src="/images/homepage/afternoon-tea-london.jpg" alt="Afternoon tea at Fortnum and Mason in London, England">
+						</div>
+						<div class="large-6 column">
 							<h2><a href="/holiday-guides/afternoon-tea-london">Afternoon Tea, London</a></h2>
-							<p>With vast options available, I can help narrow down the perfect afternoon tea experience.</p>
+							<p>With so many places to choose from including top hotels, tea rooms, upmarket department stores and even museums! Afternoon tea in London can be found almost anywhere - so here are a few of my top picks, which have been vigorously tried and tested (of course!) to help narrow things down.</p>
 							<a class="button small" href="/holiday-guides/afternoon-tea-london">London Afternoon Tea Guide</a>
 						</div>
-					</div>
+					</div>					
 					<hr>
 
 					<div class="row">
-						<a href="/holiday-guides/calgary"><img class="wide column" src="images/destinations/olympic-plaza-calgary-wide.jpg" alt="Olympic Plaza in Downtown Calgary - Alberta, Canada"></a>
-						<div class="large-9 medium-10 column">
+						<div class="large-6 column">
+						<img src="/images/homepage/olympic-plaza-calgary.jpg" alt="Olympic Plaza in Downtown Calgary">
+						</div>
+						<div class="large-6 column">
 							<h2><a href="/holiday-guides/calgary">Downtown Calgary, Canada</a></h2>
-							<p>Spending time in Downtown Calgary before heading to Banff? This is the guide for you!</p>
-							<a class="button small" href="/holiday-guides/calgary">Read More About Calgary</a>
+							<p>Typically used a base before heading to the Canadian Rockies in Banff, Calgary's city centre is good for a quick getaway or a weekend break if you're looking for a quiet destination. It's divided into several neighbourhoods with good shopping centres, dining options, museums, as well as spas.</p>
+							<a class="button small" href="/holiday-guides/calgary">A Guide to Downtown Calgary</a>
 						</div>
-					</div>
+					</div>					
 					<hr>
 					
 					<div class="row">
-						<a href="/holiday-guides/banff"><img class="wide column" src="images/destinations/snow-covered-trees-mountains-banff-canada-wide.jpg" alt="Winter wonderland, snow topped mountains and trees in Banff - Alberta, Canada"></a>
-						<div class="large-9 medium-10 column">
+						<div class="large-6 column">
+							<a href="/holiday-guides/banff"><img src="images/homepage/snow-covered-trees-mountains-banff-canada.jpg" alt="Winter wonderland, snow topped mountains and trees in Banff - Alberta, Canada"></a>
+						</div>
+						<div class="large-6 column">
 							<h2><a href="/holiday-guides/banff">Banff National Park, Canada</a></h2>
-							<p>Part of the Rocky Mountains, you'll see amazing views of mountains, trees and lakes.</p>
-							<a class="button small" href="/holiday-guides/banff">View My Guide On Banff</a>
+							<p>Filled with incredible snow tipped mountains in every direction you look, Banff was my second stop on my 2 week holiday to the West coast of Canada. I visited Banff National Park in October to see the famous Rocky Mountains and picturesque lakes and it was truly one of the best experiences ever.</p>
+							<a class="button small" href="/holiday-guides/banff">Banff Holiday Guide</a>
 						</div>
 					</div>
 					<hr>
 					
 					<div class="row">
-						<a href="/holiday-guides/whistler"><img class="wide column" src="images/destinations/autumnal-colours-whistler-british-columbia-wide.jpg" alt="Stunning autumnal coloured trees in Whistler - British Columbia, Canada"></a>
-						<div class="large-9 column medium-10">
-							<h2><a href="/holiday-guides/whistler">Whistler Village, Canada</a></h2>
-							<p>A cool village, 2 hours drive from Vancouver with a focus on sports and outdoor activities.</p>
-							<a class="button small" href="/holiday-guides/whistler">Read On About Whistler</a>
+						<div class="large-6 column">
+							<img src="images/homepage/autumnal-colours-whistler-british-columbia.jpg" alt="Stunning autumnal coloured trees in Whistler - British Columbia, Canada">
+						</div>
+						<div class="large-6 column">
+							<h5><a href="whistler.php">Whistler Village, Canada</a></h5>
+							<p>Hiking, biking, skiing... definitely a must stop destination for all adventure seekers! Whistler is located in the Coast Mountains of British Columbia and is home to one of the largest ski resorts in America. It has a cute village with shops, restaurants and bars, making it the perfect location to visit at any time of the year.</p>
+							<a class="button small" href="whistler.php">A Guide to Whistler</a>
 						</div>
 					</div>
 					<hr>
 					
 					<div class="row">
-						<a href="/holiday-guides/vancouver"><img class="wide column" src="images/destinations/port-view-stanley-park-vancouver-wide.jpg" alt="A view of the port and boats taken in Stanley Park"></a>
-						<div class="large-9 medium-10 column">
+						<div class="large-6 column">
+							<a href="/holiday-guides/vancouver"><img src="images/homepage/port-view-stanley-park-vancouver.jpg" alt="A view of the port and boats taken in Stanley Park"></a>
+						</div>
+						<div class="large-6 column">
 							<h2><a href="/holiday-guides/vancouver">Downtown Vancouver, Canada</a></h2>
-							<p>A must for city break lovers who enjoy walking! Vancouver has a lot for explorers.</p>
-							<a class="button small" href="/holiday-guides/vancouver">My Vancouver Guide</a>
+							<p>Cycling around the famous Stanley Park, roaming around Gastown and strolling through the historical Yaletown - these are just a few of my favourite moments spent in this vibrant city. Vancouver really has it all, it's a cosmopolitan city surrounded by the ocean, mountain ranges and exquisite parks.</p>
+							<a class="button small" href="/holiday-guides/vancouver">Vancouver Holiday Guide</a>
 						</div>
-					</div>	
+					</div>
 								
 				</article>
 			</div>

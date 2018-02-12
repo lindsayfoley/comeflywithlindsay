@@ -22,6 +22,7 @@
 			<div class="large-12 column">
 				<article>
 					<h2 class="text-center"><a href="destinations">Recent Holiday Guides</a></h2>
+					
 					<div class="row">
 						<div class="large-6 column">
 							<a href="/holiday-guides/carvoeiro"><img src="/images/homepage/caves-scenery-at-tivoli-carvoeiro.jpg" alt="Cliffs and beautiful scenery around the Tivoli Carvoeiro Resort, Portugal"></a>
@@ -56,6 +57,7 @@
 							<a class="button small" href="/holiday-guides/vancouver">Vancouver Holiday Guide</a>
 						</div>
 					</div>
+					
 				</article>
 			</div>
 		</main>

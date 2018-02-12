@@ -53,7 +53,6 @@ footer p, footer a { color:#9E9E9E; margin:0; }
 #homepage article > h2 a { text-decoration:none; }
 #homepage article p + .button { margin-top:14px; }
 /* /Homepage */
-#destinations article * { float:none; }
 #destinations article .large-9 { margin:0 auto; }
 #destinations .wide { max-width:750px; padding-bottom:20px; }
 #blog-post main { padding-bottom:20px; }
