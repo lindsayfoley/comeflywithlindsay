@@ -20,19 +20,17 @@
 					</div>
 					<hr>
 
-<!--
 					<div class="row">
 						<div class="large-6 column">
-							<a href="paris"><img src="/images/homepage/eiffel-tower-paris-at-sunset.jpg" alt="The Eiffel Tower at Sunset in Paris, France"></a>
+							<a href="paris"><img src="/images/homepage/eiffel-tower-paris-france-at-sunset.jpg" alt="The Eiffel Tower at sunset, France"></a>
 						</div>
 						<div class="large-6 column">
 							<h2><a href="paris">Paris, France</a></h2>
-							<p>Many of you may be unfamiliar with this little town in Lagao. Carvoeiro is an idyllic area in the Algarve and one of the most beautiful places I've visited in Europe. Carvoeiro was our winter escape in December 2017 and we didn't expect it to be so peaceful or to have so much stunning scenery!</p>
+							<p>Paris undoubtedly offers the largest concentration of tourist attractions in France. This wonderful city is filled with remarkable, historical monuments and the some of the most iconic complex structures such as the world renowned Eiffel Tower or the glass and steel pyramids of the Louvre.</p>
 							<a class="button small" href="/holiday-guides/paris">A Guide to Paris</a>
 						</div>
 					</div>					
 					<hr>
--->
 
 					<div class="row">
 						<div class="large-6 column">
@@ -84,7 +82,7 @@
 					
 					<div class="row">
 						<div class="large-6 column">
-							<a href="whistler"><img src="images/homepage/autumnal-colours-whistler-british-columbia.jpg" alt="Stunning autumnal coloured trees in Whistler - British Columbia, Canada"></a>
+							<a href="whistler"><img src="images/homepage/autumnal-colours-whistler-village-british-columbia.jpg" alt="Stunning autumnal coloured trees in Whistler - British Columbia, Canada"></a>
 						</div>
 						<div class="large-6 column">
 							<h5><a href="whistler">Whistler Village, Canada</a></h5>

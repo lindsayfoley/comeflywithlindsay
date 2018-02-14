@@ -1,4 +1,4 @@
-<?php 
+<?php
 	$metaTitle = 'A Travel Guide to Paris, France';
 	$metaDescription = 'Your travel guide to France\'s capital city, Paris! Including where to stay, top attractions to visit and places to eat and drink by Come Fly With Lindsay.';
 	$ogImageUrl = '/images/paris/eiffel-tower-paris-at-sunset.jpg';

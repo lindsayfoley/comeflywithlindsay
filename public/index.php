@@ -23,13 +23,27 @@
 				<article>
 					<h2 class="text-center"><a href="destinations">Recent Holiday Guides</a></h2>
 					
+
+					<div class="row">
+						<div class="large-6 column">
+							<a href="paris"><img src="/images/homepage/eiffel-tower-paris-france-at-sunset.jpg" alt="The Eiffel Tower at sunset, France"></a>
+						</div>
+						<div class="large-6 column">
+							<h2><a href="paris">Paris, France</a></h2>
+							<p></p>
+							<p>Paris is an extremely popular European destination for tourists, in fact it's one of the world's most visited cities! Renowned for fashion, gastronomy, art, culture, majestic monuments and much more, I was eager to see if much had changed since my first trip to this charming destination in 2003!</p>
+							<a class="button small" href="/holiday-guides/paris">A Guide to Paris</a>
+						</div>
+					</div>					
+					<hr>
+					
 					<div class="row">
 						<div class="large-6 column">
 							<a href="/holiday-guides/carvoeiro"><img src="/images/homepage/caves-scenery-at-tivoli-carvoeiro.jpg" alt="Cliffs and beautiful scenery around the Tivoli Carvoeiro Resort, Portugal"></a>
 						</div>
 						<div class="large-6 column">
 							<h2><a href="/holiday-guides/carvoeiro">Carvoeiro, Portugal</a></h2>
-							<p>Many of you may be unfamiliar with this little town in Lagao. Carvoeiro is an idyllic area in the Algarve and one of the most beautiful places I've visited in Europe. Carvoeiro was our winter escape in December 2017 and we didn't expect it to be so peaceful or to have so much stunning scenery!</p>
+							<p>Portugal is a sublime choice to visit in winter as the weather can reach highs of 19&deg;C with a decent amount of sunshine hours too. After researching areas to spend a few nights, I stumbled upon Carvoeiro which looked ideal!</p>
 							<a class="button small" href="/holiday-guides/carvoeiro">Carvoeiro Holiday Guide</a>
 						</div>
 					</div>					
@@ -41,20 +55,8 @@
 						</div>
 						<div class="large-6 column">
 							<h2><a href="/holiday-guides/banff">Banff National Park, Canada</a></h2>
-							<p>Filled with incredible snow tipped mountains in every direction you look, Banff was my second stop on my 2 week holiday to the West coast of Canada. I visited Banff National Park in October to see the famous Rocky Mountains and picturesque lakes and it was truly one of the best holidays ever.</p>
+							<p>If you've ever wanted to visit the Canadian Rocky Mountains then Banff is the destination for you. It's located in the rockies, west of Calgary in the province of Alberta. The nearest airport is Calgary Airport and then it's a couple of hours drive to Banff.</p>
 							<a class="button small" href="/holiday-guides/banff">Banff Holiday Guide</a>
-						</div>
-					</div>
-
-					<hr>
-					<div class="row">
-						<div class="large-6 column">
-							<a href="/holiday-guides/vancouver"><img src="images/homepage/port-view-stanley-park-vancouver.jpg" alt="A view of the port and boats taken in Stanley Park"></a>
-						</div>
-						<div class="large-6 column">
-							<h2><a href="/holiday-guides/vancouver">Downtown Vancouver, Canada</a></h2>
-							<p>Cycling around the famous Stanley Park, roaming around Gastown and the historical Yaletown - these are just a few of my favourite moments spent in this vibrant city. There's an abundance of things to do in Downtown Vancouver and hopefully this guide will help to inform and inspire you.</p>
-							<a class="button small" href="/holiday-guides/vancouver">Vancouver Holiday Guide</a>
 						</div>
 					</div>
 					
