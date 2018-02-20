@@ -19,8 +19,8 @@
 						</div>
 						<div class="large-6 column">
 							<h1>The Obligatory About Page</h1>
-							<p>Thanks for popping by, I'm Lindsay Foley and I love to travel. I try to escape my hometown of London a few times a year to see what wondrous sites are out there for me to see and discover.</p>
-							<p>Hopefully my travel guides will help you plan upcoming holidays and reduce the need to visit tons of resources to gather info. Come Fly With Lindsay will give you tips on where to stay/where to go/where not to go, advice, and provide cool photography <span class="crossed-out">mainly of food I eat, mostly burgers</span> along the way.</p>
+							<p>I'm Lindsay and I love to travel! I try to escape London when I can to see what wondrous sites are out there for me to discover.</p>
+							<p>Hopefully my travel guides will help you to plan upcoming holidays and reduce the need to visit tons of resources to gather information. Come Fly With Lindsay will give you tips on where to stay/where to go/where not to go, and provide cool photography <span class="crossed-out">mainly of food I eat, mostly burgers</span> along the way.</p>
 							<p>Shout-out to the lovely <a target="_blank" href="https://travelthroughlife.co.uk/">Hannah Denton</a> for inspiring me to start this site (blame her for my ramblings)! So take a look around and get in touch if you have any questions about my travels/me!</p>
 							<a class="button small" href="destinations">Browse Destinations</a>
 						</div>
