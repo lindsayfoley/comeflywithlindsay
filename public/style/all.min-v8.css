@@ -55,9 +55,9 @@ footer .row > div { display:table-cell!important; }
 /* /Homepage */
 #destinations article .large-9 { margin:0 auto; }
 #destinations .wide { max-width:750px; padding-bottom:20px; }
-#destinations article img { border:10px solid white; box-shadow:0 4px 8px 0 rgba(0,0,0,0.1); }
 #blog-post main { padding-bottom:20px; }
 #blog-post article > .column { padding-left:0; padding-right:0; }
+#homepage article img, #destinations article img  { border:10px solid white; box-shadow:0 4px 8px 0 rgba(0,0,0,0.1); }
 
 /*****************************************/
 

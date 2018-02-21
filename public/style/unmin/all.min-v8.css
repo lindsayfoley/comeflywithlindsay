@@ -57,6 +57,7 @@ footer .row > div { display:table-cell!important; }
 #destinations .wide { max-width:750px; padding-bottom:20px; }
 #blog-post main { padding-bottom:20px; }
 #blog-post article > .column { padding-left:0; padding-right:0; }
+#homepage article img, #destinations article img  { border:10px solid white; box-shadow:0 4px 8px 0 rgba(0,0,0,0.1); }
 
 /*****************************************/
 
