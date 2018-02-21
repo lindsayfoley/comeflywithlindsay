@@ -2,6 +2,9 @@
 
 Paris is an extremely popular European destination for tourists, in fact it's one of the world's most visited cities! Renowned for fashion, gastronomy, art, culture, majestic monuments and much more, I was eager to see if much had changed since my first trip to this charming destination in 2003! 
 
+![The river Seine at sunset](/images/paris/river-seine-at-sunset-paris-france.jpg)
+<figcaption>The river Seine at sunset</figcaption>
+
 ---
 
 ## Getting to Paris

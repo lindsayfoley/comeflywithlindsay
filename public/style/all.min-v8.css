@@ -50,6 +50,7 @@ footer .row > div { display:table-cell!important; }
 #purpose * { max-width:1000px; margin-left:auto; margin-right:auto; }
 #purpose > h2:before, #purpose > h2:after { content:'—'; padding:0 5px; }
 #purpose p:last-of-type { margin-bottom:0; }
+#purpose .button { margin-top:20px; }
 #homepage article > h2 a { text-decoration:none; }
 #homepage article p + .button { margin-top:14px; }
 /* /Homepage */
