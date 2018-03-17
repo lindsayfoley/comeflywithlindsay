@@ -1,6 +1,6 @@
 <?php 
 	$metaTitle = 'Carvoeiro, Portugal Travel Guide';
-	$metaDescription = 'Travel guide on Carvoeiro in Portugal featuring travel advice and details on where to stay, what to eat and things to see, written by Come Fly With Lindsay.';
+	$metaDescription = 'Travel guide on Carvoeiro in Portugal featuring travel advice and details on where to stay, what to eat and where to visit by Come Fly With Lindsay.';
 	$ogImageUrl = '/images/carvoeiro/tivoli-carvoeiro-at-sunset.jpg';	 
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/blog-post-start.php');
