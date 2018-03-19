@@ -14,7 +14,7 @@
 	<section>
 		<a href="destinations"><h1>Travel Inspiration &amp; Guides</h1></a>
 		<div id="purpose" class="text-center">
-			<h2>I'm Travelling The World One Stop At A Time</h2>
+			<h2>I'm Travelling The Globe One Step At A Time</h2>
 			<p>With so many spectacular places to visit, I find the web inundated with travel advice websites, resources, reviews, etc. that can make the whole planning/booking process really stressful - especially with the fear of not picking the prime location or the right hotel!</p>
 			<p>I decided to document my travels to give you an honest insight into where to go on holiday, advising on the good, the bad and the ugly. Let me be your travel <span class="crossed-out">guinea pig</span> guru and I'll tell you where I think is best to stay, what to see and what activities I recommend doing.</p>
 			<a class="button small" href="destinations">View All Holiday Guides</a>
