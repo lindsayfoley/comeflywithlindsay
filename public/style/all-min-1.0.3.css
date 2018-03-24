@@ -133,13 +133,13 @@ input { font-family:'PT Sans', sans-serif; }
 	#page-top { display:none; position:fixed; right:20px; top:73%; width:70px; height:70px; padding:10px; text-align:center; text-decoration:none; background-color:rgba(37,33,29, 0.6); color:white; font-weight:bold; border-radius:100%; box-shadow:0px 3px 15px rgba(0,0,0,0.2); }
 	#purpose { padding:30px 15px; }
 	
-	#blog-post li { padding-bottom:15px; }
+	#blog-post.article li { padding-bottom:15px; }
 }
 
 /* Social buttons and sibling div on portrait mobile */
 @media all and (max-width: 480px) {
 article { padding-bottom:10px; }
 .social-share, .social-share + div { width:100%!important; text-align:center; }
-.social-share { padding-bottom:20px!important; border-bottom:1px dashed #dfdfdf;  }
+.social-share { padding-bottom:20px!important; border-bottom:1px dotted #dfdfdf;  }
 .social-share + div { margin-top:20px; }
 }

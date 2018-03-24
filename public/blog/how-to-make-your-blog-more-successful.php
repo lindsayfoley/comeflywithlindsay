@@ -2,7 +2,6 @@
 	$fileName = 'how-to-make-your-blog-more-successful';
 	$metaTitle = 'How to Make Your Blog Successful';
 	$metaDescription = 'Every blogger wants to make their blog popular and overall a success. Here are my recommendations from my background as Web Developer to improve your blog.';
-	$ogImageUrl = '/images/skills/tbc.jpg';		  
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/blog-post-start.php');
 	

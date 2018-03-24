@@ -2,7 +2,6 @@
 	$fileName = 'how-to-be-successful-on-instagram';
 	$metaTitle = 'How to be successful on Instagram and see the best results';
 	$metaDescription = 'Being successful on Instagram wont happen over night, but I can give you tips on getting the most engagement from posts and  help you increase your followers';
-	$ogImageUrl = '/images/instagram/tbc.jpg';		  
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/blog-post-start.php');
 	
