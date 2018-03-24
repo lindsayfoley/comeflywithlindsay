@@ -25,7 +25,7 @@ article h2 + p { margin-top:0; }
 #intro { text-align:center; font-size:18px; }
 section hr { border-bottom-color:#dfdfdf; }
 section h4 { margin:0; }
-section p, section ul { color:#7a7a7a; }
+section p, section ul { color:#6b6a6a; }
 body:not(#blog-post) figcaption { margin-top:10px; }
 figcaption { color:#c98f38; }
 .crossed-out { text-decoration:line-through; }
@@ -65,6 +65,7 @@ footer .row > div { display:table-cell!important; }
 /* Blog posts */
 #post-footer > div { padding:0; }
 .social-share span:last-of-type { vertical-align:top; }
+#blog-post h5 { color:#878585; }
 
 /*****************************************/
 
@@ -131,12 +132,14 @@ input { font-family:'PT Sans', sans-serif; }
 	#homepage #featured-img-mobile { background:url("/images/homepage/snowy-mountains-trees-banff-canada.jpg") no-repeat; background-position:center center; background-size:cover; min-height:180px; }
 	#page-top { display:none; position:fixed; right:20px; top:73%; width:70px; height:70px; padding:10px; text-align:center; text-decoration:none; background-color:rgba(37,33,29, 0.6); color:white; font-weight:bold; border-radius:100%; box-shadow:0px 3px 15px rgba(0,0,0,0.2); }
 	#purpose { padding:30px 15px; }
+	
+	#blog-post li { padding-bottom:15px; }
 }
 
 /* Social buttons and sibling div on portrait mobile */
 @media all and (max-width: 480px) {
 article { padding-bottom:10px; }
 .social-share, .social-share + div { width:100%!important; text-align:center; }
-.social-share { padding-bottom:20px; border-bottom:1px dashed #dfdfdf;  }
+.social-share { padding-bottom:20px!important; border-bottom:1px dashed #dfdfdf;  }
 .social-share + div { margin-top:20px; }
 }

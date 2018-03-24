@@ -13,4 +13,8 @@ Redirect 301 /afternoon-tea /holiday-guides/afternoon-tea-london
 Redirect 301 /carvoeiro /holiday-guides/carvoeiro
 Redirect 301 /paris /holiday-guides/paris
 
+Redirect 301 /how-to-make-your-blog-more-successful /blog/how-to-make-your-blog-more-successful
+Redirect 301 /how-to-be-successful-on-instagram /blog/how-to-be-successful-on-instagram
+
+
 ErrorDocument 404 /page-not-found

@@ -1,0 +1,33 @@
+# How to Make Your Blog Successful
+##### March 24, 2018
+
+I launched Come Fly With Lindsay in November 2017 and luckily for me I was armed with a wealth of knowledge, being a Web Developer in my day job. I'm going to share my expertise and experience with you so you can create a better blog which will perform greater than ever - bold statement I know!
+
+My list consists of what I’ve learnt about blogging and what I know about websites. It's for everyone, so it's not overly tech heavy!
+
+---
+
+### Website Tips
+* **Web Analytics** install Google Analytics or some kind of analytics platform and look at the data. Use the date to see if you are seeing an increase in page views month on month, see what sources are driving traffic to your website, see what pages are the most viewed. It's really important to pay attention to this data and to try and understand it, you need to monitor your activity in order to measure the sites performance and to gauge if your hard work is paying off!
+* **Metadata** what the heck is metadata I hear you say? So each web page has metadata, unless you are a developer/techie, you're only really going to be concerned with something called a meta title and a meta description. These elements play a key role in describing what your webpage is about to search engines. All pages require a bespoke meta title and description so spend some time crafting this for each page on your site.
+* **Viewing metadata** perform a search on  Google in incognito/private browsing to see what comes up for your site, e.g. If I use the search term (words you are googling) 'Come Fly With Lindsay' in Google, the search results show me what Google thinks is relevant to satisfy my search needs, I expect to see my meta title and meta description returned in the search results, ideally ranking at the top position. This will be true for uniquely named blogs, e.g. if my site was just called 'Come Fly With Me' I wouldn't expect searching for 'Come Fly With Me' to return my site as I expect there are thousands of pages on the web that are named this or that have references to this!
+* **Meta title** you have a recommended length of 60 characters, so really utilize this when summing up what your page is about.
+* **Meta description** this has a recommended length of 160 characters, if you go over this you'll see your description truncated in search results. Aim to place important keywords/phrases that you are targeting in your metadata.
+* **Links** open external links in a new window so you don’t lose users from your site. 
+* **SEO** don’t ignore it – if you are not familiar with [SEO](https://support.google.com/webmasters/answer/7451184?hl=en), then it’s time to get acquainted with it! Don't get carried away with it either, just do what you can to make sure you webpage is written in a way to help bots index it easily, a lot of it is actually common sense so if you find yourself jumping through hoops to achieve something for SEO, stop!
+* **Mobile friendly** your website must be mobile optimised, and i'm not just talking about having a mobile version of your site. You should be checking how your blog renders on mobile and make sure that you text is a comfortable size for users to read, that your text colours are legible, that your buttons and links are big enough to be tapped, etc. Everyone’s on mobile and I'm sure over half of your web traffic is mobile, so take the time to ensure the mobile experience is as good as (or better) than the desktop one.
+* **Image compression** always compress large images, today webpages feature huge retina images which are pretty weighty. You can use websites like [Tiny png](https://tinypng.com/) to handle the compression before you upload the pics to your server or CMS. Compressing images makes the files size smaller, which results in faster loading pages for your visitors.
+* **Text in images** - if you have a lot of text on banners and overlaid on images and these are part of the images - stop this! You will not receive any SEO value from this, bots cannot read images so this text will not get indexed. 
+* **Image copyrights** if you are using imagery from Google on your site, make sure these are referred to as public domain images otherwise you could find yourself in trouble! If using [Google Images](https://support.google.com/websearch/answer/29508?hl=en) to find pictures for your site, make sure to click 'Tools' - 'Usage rights - 'Labeled for reuse' as these don't require usage rights.  
+
+---
+
+### Blog Recommendations
+* **Social media** having social media accounts is a necessity! You need at least one social media account and if you are only prepared to run one I would advise creating an account on Instagram and I have a guide on [how to be successful](../how-to-be-successful-on-instagram) which you might find handy. When you first start out, the majority of your site traffic will be referral traffic from social channels and that's expected.
+* **Good content** focus on producing good quality content and really analyse your work and think what would a reader gain from this article and how will it be beneficial to them
+* **Presentation** you want your page to be as visually appealing as possible so add in high resolution images to break up large chunks of text, clear headers to separate your content and useful links for readers to find out more about topics
+* **Time** finally you must have perseverance! Sadly you won’t turn into a superstar overnight!
+
+If you have any questions about the above I'm always happy to help so please feel free to [ask me](/contact)! 
+    
+---    
