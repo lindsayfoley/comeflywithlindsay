@@ -23,42 +23,12 @@
 			<div class="large-12 column">
 				<article>
 					<h2 class="text-center"><a href="destinations">Recent Holiday Guides</a></h2>
-					
-					<div class="row">
-						<div class="large-6 column">
-							<a href="paris"><img src="/images/homepage/eiffel-tower-paris-france-at-sunset.jpg" alt="The Eiffel Tower at sunset, France"></a>
-						</div>
-						<div class="large-6 column">
-							<h2><a href="paris">Paris, France</a></h2>
-							<p></p>
-							<p>Paris is an extremely popular European destination for tourists, in fact it's one of the world's most visited cities! Renowned for fashion, gastronomy, art, culture, majestic monuments and much more, I was eager to see if much had changed since my first trip to this charming destination in 2003!</p>
-							<a class="button small" href="paris">A Guide to Paris</a>
-						</div>
-					</div>					
-					<hr>
-					
-					<div class="row">
-						<div class="large-6 column">
-							<a href="carvoeiro"><img src="/images/homepage/caves-scenery-at-tivoli-carvoeiro.jpg" alt="Cliffs and beautiful scenery around the Tivoli Carvoeiro Resort, Portugal"></a>
-						</div>
-						<div class="large-6 column">
-							<h2><a href="carvoeiro">Carvoeiro, Portugal</a></h2>
-							<p>Portugal is a sublime choice to visit in winter as the weather can reach highs of 19&deg;C with a decent amount of sunshine hours too. After researching areas to spend a few nights, I stumbled upon Carvoeiro which looked ideal!</p>
-							<a class="button small" href="carvoeiro">Holiday Guide Portugal</a>
-						</div>
-					</div>					
-					<hr>
-					
-					<div class="row">
-						<div class="large-6 column">
-							<a href="banff"><img src="images/homepage/snow-covered-trees-mountains-banff-canada.jpg" alt="Winter wonderland, snow topped mountains and trees in Banff - Alberta, Canada"></a>
-						</div>
-						<div class="large-6 column">
-							<h2><a href="banff">Banff National Park, Canada</a></h2>
-							<p>If you've ever wanted to visit the Canadian Rocky Mountains then Banff is the destination for you. It's located in the rockies, west of Calgary in the province of Alberta. The nearest airport is Calgary Airport and then it's a couple of hours drive to Banff.</p>
-							<a class="button small" href="banff">Banff Holiday Guide</a>
-						</div>
-					</div>
+
+					<?php include($_SERVER['DOCUMENT_ROOT'] . "/holiday-guides/destinations.php"); 
+					foreach( array_slice($allDestinations, 0, 3) as $el) {
+						echo $el;
+					}
+					?>
 					
 				</article>
 			</div>
