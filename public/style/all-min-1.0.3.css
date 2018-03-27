@@ -53,6 +53,7 @@ footer .row > div { display:table-cell!important; }
 #purpose .button { margin-top:20px; }
 #homepage article > h2 a { text-decoration:none; }
 #homepage article p + .button { margin-top:14px; }
+#homepage article hr:first-of-type { display:none; }
 /* /Homepage */
 #destinations article .large-9 { margin:0 auto; }
 #destinations .wide { max-width:750px; padding-bottom:20px; }
