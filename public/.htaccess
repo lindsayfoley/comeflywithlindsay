@@ -15,6 +15,6 @@ Redirect 301 /paris /holiday-guides/paris
 
 Redirect 301 /how-to-make-your-blog-more-successful /blog/how-to-make-your-blog-more-successful
 Redirect 301 /how-to-be-successful-on-instagram /blog/how-to-be-successful-on-instagram
-
+Redirect 301 /how-to-run-an-instagram-competition /blog/how-to-run-an-instagram-competition
 
 ErrorDocument 404 /page-not-found
