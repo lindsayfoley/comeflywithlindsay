@@ -1,7 +1,7 @@
 <?php
 	$metaTitle = 'The Cotswolds Travel Guide, England';
 	$metaDescription = 'Travel guide to the Cotswolds, England with information on top attractions to visit for tourists, where to stay and how to get there, by Come Fly With Lindsay.';
-	$ogImageUrl = '/images/cotswolds/TBC.jpg';
+	$ogImageUrl = '/images/cotswolds/sudeley-castle-cotswolds.jpg';
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/blog-post-start.php');
 	
