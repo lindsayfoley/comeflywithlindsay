@@ -1,6 +1,6 @@
 <?php
 	$metaTitle = 'The Cotswolds Travel Guide, England';
-	$metaDescription = 'Travel guide to the Cotswolds, England with information on top attractions to visit for tourists, where to stay and how to get there, by Come Fly With Lindsay.';
+	$metaDescription = 'The Cotswolds is an area in England containing the Cotswold Hills. You\'ll see historic buildings made from honey-coloured Cotswold stone and English countryside';
 	$ogImageUrl = '/images/cotswolds/sudeley-castle-cotswolds.jpg';
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/blog-post-start.php');
