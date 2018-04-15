@@ -8,7 +8,7 @@
 	// Blog post body
 	require_once '../vendor/autoload.php';
 	$Parsedown = new Parsedown();
-	$text = file_get_contents('../blog/md/' . $fileName . '.txt');
+	$text = file_get_contents('../articles/md/' . $fileName . '.txt');
 	echo $Parsedown->text($text);
 	// /Blog post body
 	
