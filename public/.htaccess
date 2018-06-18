@@ -17,5 +17,6 @@ Redirect 301 /cotswolds /holiday-guides/cotswolds
 Redirect 301 /how-to-make-your-blog-more-successful /articles/how-to-make-your-blog-more-successful
 Redirect 301 /how-to-be-successful-on-instagram /articles/how-to-be-successful-on-instagram
 Redirect 301 /how-to-run-an-instagram-competition /articles/how-to-run-an-instagram-competition
+Redirect 301 /how-to-get-thousands-of-pinterest-viewers /articles/how-to-get-thousands-of-pinterest-viewers
 
 ErrorDocument 404 /page-not-found
