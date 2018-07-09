@@ -32,6 +32,8 @@
 		}
 	}
 	
+	$cornwall = new Destination('cornwall', 'beach-newquay-cornwall', 'The magnificent beach at Watergate Bay', 'Cornwall, England', 'Mawgan Porth is a small town located in Newquay, Cornwall and it has some of the most heavenly, sandy beaches complete with ombre blue waters in England. It\'s a great destination for an England staycation or a quick trip out of the city as you can easily be fooled into thinking you are somewhere exotic! ', 'A Guide to Cornwall');
+
 	$cotswolds = new Destination('cotswolds', 'sudeley-castle-cotswolds', 'Sudeley Castle in the Cotswolds', 'Cotswolds, England', 'The Cotswolds is the ideal destination for a quick getaway! It\'s one of the country’s most beautiful landscapes with traditional villages and buildings made from warm, honey-coloured Cotswold stone. Prepare to swap the hustle and bustle of city life for the peaceful English countryside and medieval towns.', 'Cotswolds Travel Guide');
 		
 	$paris = new Destination('paris', 'eiffel-tower-paris-france-at-sunset', 'The Eiffel Tower at sunset, France', 'Paris, France', 'Paris undoubtedly offers the largest concentration of tourist attractions in France. This wonderful city is filled with remarkable, historical monuments and the some of the most iconic complex structures such as the world renowned Eiffel Tower or the glass and steel pyramids of the Louvre.', 'A Guide to Paris');
@@ -50,6 +52,6 @@
 	
 	$allDestinations = array();
 	
-	array_push($allDestinations, $cotswolds->createDestinationSection(), $paris->createDestinationSection(), $carvoeiro->createDestinationSection(), $afternoonTea->createDestinationSection(), $calgary->createDestinationSection(), $banff->createDestinationSection(), $whistler->createDestinationSection(), $vancouver->createDestinationSection());
+	array_push($allDestinations, $cornwall->createDestinationSection(), $cotswolds->createDestinationSection(), $paris->createDestinationSection(), $carvoeiro->createDestinationSection(), $afternoonTea->createDestinationSection(), $calgary->createDestinationSection(), $banff->createDestinationSection(), $whistler->createDestinationSection(), $vancouver->createDestinationSection());
 
 ?>

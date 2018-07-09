@@ -1,5 +1,5 @@
 <?php
-	$metaTitle = '2 Days Visiting Mawgan Porth In Cornwall, England';
+	$metaTitle = 'Mawgan Porth in Newquay, Cornwall';
 	$metaDescription = 'I stayed at Mawgan Porth in Newquay, North Cornwall and had no idea that England had such heavenly, sandy beaches with ombre blue waters!';
 	$ogImageUrl = '/images/cornwall/mawgan-porth-beach.jpg';
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');
