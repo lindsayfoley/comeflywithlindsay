@@ -3,7 +3,7 @@ body { min-width:320px; font-family:'PT Sans', sans-serif; }
 h1, h2, h3, h4, h5 { color:black; }
 
 /* Header */
-header { border-top:20px solid #262626; text-align:center; position:relative; }
+header { text-align:center; position:relative; }
 #main-menu { padding:15px 0; background-color:white; font-family:'Roboto Condensed', sans-serif; }
 main > div { margin-top:30px; }
 #logo { max-width:125px; max-height:125px; }
@@ -45,7 +45,6 @@ footer .row > div { display:table-cell!important; }
 
 /* Pages */
 /* Homepage */
-#homepage #main-menu { box-shadow:0px 3px 15px rgba(0,0,0,0.2); }
 #purpose { background:white; }
 #purpose * { max-width:1000px; margin-left:auto; margin-right:auto; }
 #purpose > h2:before, #purpose > h2:after { content:'—'; padding:0 5px; }
@@ -94,7 +93,7 @@ input { font-family:'PT Sans', sans-serif; }
 
 /* When article img and text stack */
 @media all and (max-width: 1023px) { 
-	body article .row > div:nth-of-type(odd) { padding-bottom:20px; }
+	body:not(#blog-landing) article .row > div:nth-of-type(odd) { padding-bottom:20px; }
 	article .row > div:nth-of-type(even) { max-width:670px; float:none!important; margin:0 auto; }
 }
 
@@ -109,8 +108,9 @@ input { font-family:'PT Sans', sans-serif; }
 	footer .row > div:last-child a { text-align:right; display:block; line-height:10px; } 
 	/* Homepage only */
 	#purpose { padding:30px; }
+	header { border-top:20px solid #262626; }
 	#homepage header { background:url("/images/homepage/snowy-mountains-trees-banff-canada.jpg") no-repeat; background-position:center 70px; background-size:cover; padding:320px 0; } 
-	#homepage #main-menu { position:absolute; top:0; left:0; width:100%; }
+	#homepage #main-menu { position:absolute; top:0; left:0; width:100%; box-shadow:0px 3px 15px rgba(0,0,0,0.2); }
 	#homepage h1, #homepage h1:after { position:absolute; left:0; font-family:'Satisfy', cursive; text-align:center; width:100%; font-size:65px; }
 	#homepage a h1, #homepage h1:after { color:white; text-decoration:none; }
 	#homepage h1 { top:410px; }
@@ -122,15 +122,19 @@ input { font-family:'PT Sans', sans-serif; }
 
 /* Mobile */
 @media all and (max-width: 667px) {
+	header { border-top:5px solid #262626; }
 	#logo { max-width:100px; }
 	div > nav, #homepage h1, #homepage h2:before, #homepage h2:after { display:none; }
 	.hamburger-container { position:absolute; left:0; top:10px; width:75px; padding:15px 0; margin-top:10px; }
-	.hamburger-container div { width:22px; height:4px; background-color:#333; margin:4px 0 4px 20px; transition:0.4s; }
+	.hamburger-container div { width:22px; height:4px; background-color:black; margin:4px 0 4px 20px; transition:0.4s; }
 	.hamburger-container div:first-of-type { margin-top:0; }	
 	footer * { text-align:center; }
 
 	/* Homepage only */
-	#homepage #featured-img-mobile { background:url("/images/homepage/snowy-mountains-trees-banff-canada.jpg") no-repeat; background-position:center center; background-size:cover; min-height:180px; }
+	#homepage #main-menu { position:absolute; top:0; left:0; width:100%; background:transparent; transition:background-color 0.5s linear; }
+	#homepage.nav-open #main-menu { background-color:white; }
+	#homepage #logo { background:white; border-radius:50px; }
+	#homepage #featured-img-mobile { background:url("/images/homepage/snowy-mountains-trees-banff-canada.jpg") no-repeat; background-size:cover; min-height:180px; padding-top:300px; }
 	#page-top { display:none; position:fixed; right:20px; top:73%; width:70px; height:70px; padding:10px; text-align:center; text-decoration:none; background-color:rgba(37,33,29, 0.6); color:white; font-weight:bold; border-radius:100%; box-shadow:0px 3px 15px rgba(0,0,0,0.2); }
 	#purpose { padding:30px 15px; }
 	
