@@ -19,9 +19,10 @@
 						</div>
 						<div class="large-6 column">
 							<h1>Track Me Down</h1>
-							<p>I'm always happy to receive feedback or questions and chat about my travels, or websites that I've designed and built - so feel free to get in contact in the various ways below!</p>
+							<p>I'm always happy to receive feedback or have a chat about travelling so get in touch via any of the ways below!</p>
 							<ul>
 								<li>Follow me on <a target="_blank" href="https://www.instagram.com/comeflywithlindsay/">Instagram</a></li>
+								<li>Follow me on <a target="_blank" href="https://www.pinterest.co.uk/comeflywithlindsay/">Pinterest</a></li>
 								<li>Follow me on <a target="_blank" href="https://www.facebook.com/comeflywithlindsay/">Facebook</a></li>
 								<li>Send me an <a href="mailto:me@lindsayfoley.co.uk"> email</a></li>
 								<li>View my <a target="_blank" href="http://www.lindsayfoley.co.uk">portfolio</a></li>
