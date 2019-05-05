@@ -15,6 +15,7 @@ Redirect 301 /paris /holiday-guides/paris
 Redirect 301 /cotswolds /holiday-guides/cotswolds
 Redirect 301 /cornwall /holiday-guides/cornwall
 Redirect 301 /las-vegas /holiday-guides/las-vegas
+Redirect 301 /croatia /holiday-guides/croatia
 
 Redirect 301 /how-to-make-your-blog-more-successful /articles/how-to-make-your-blog-more-successful
 Redirect 301 /how-to-be-successful-on-instagram /articles/how-to-be-successful-on-instagram
