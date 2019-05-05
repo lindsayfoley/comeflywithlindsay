@@ -12,7 +12,7 @@
 	echo $Parsedown->text($text);
 	// /Blog post body
 	
-	$viewMoreLink = '../carvoeira';
+	$viewMoreLink = '../carvoeiro';
 	$viewMoreText = 'View Portugal Guide';	
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/blog-post-end.php'); 
 ?>
