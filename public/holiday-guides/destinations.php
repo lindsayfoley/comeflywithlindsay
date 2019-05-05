@@ -32,6 +32,10 @@
 		}
 	}
 	
+		$croatia = new Destination('croatia', 'trogir-town-croatia', 'Views of the town of Trogir, Croatia', 'Dalmatia Region, Croatia', 'I heard a lot of great things about Croatia and its many islands, so I was super excited when we were invited to a wedding in the stunning region of Dalmatia. We spent a week in Croatia visiting Split, Hvar, Brac and Trogir in September and the weather was excellent, it was hot and sunny like summer for us in London.', 'A Guide to Croatia');
+	
+		$lasVegas = new Destination('las-vegas', 'las-vegas-strip-at-night', 'Las Vegas strip sparkling at night', 'Las Vegas, U.S.A', 'If you\'re looking for a sunny and lively destination to spend a few nights, Las Vegas is definitely the place to go. There\'s a vast amount of excellent bars and restaurants, world famous shows, endless casinos and extremely creative hotels - you certainly won\'t run out of things to do in Las Vegas!', 'My Guide to Las Vegas');
+	
 	$cornwall = new Destination('cornwall', 'beach-newquay-cornwall', 'The magnificent beach at Watergate Bay', 'Cornwall, England', 'Mawgan Porth is a small town located in Newquay, Cornwall and it has some of the most heavenly, sandy beaches complete with ombre blue waters in England. It\'s a great destination for an England staycation or a quick trip out of the city as you can easily be fooled into thinking you are somewhere exotic! ', 'A Guide to Cornwall');
 
 	$cotswolds = new Destination('cotswolds', 'sudeley-castle-cotswolds', 'Sudeley Castle in the Cotswolds', 'Cotswolds, England', 'The Cotswolds is the ideal destination for a quick getaway! It\'s one of the country’s most beautiful landscapes with traditional villages and buildings made from warm, honey-coloured Cotswold stone. Prepare to swap the hustle and bustle of city life for the peaceful English countryside and medieval towns.', 'Cotswolds Travel Guide');
@@ -52,6 +56,6 @@
 	
 	$allDestinations = array();
 	
-	array_push($allDestinations, $cornwall->createDestinationSection(), $cotswolds->createDestinationSection(), $paris->createDestinationSection(), $carvoeiro->createDestinationSection(), $afternoonTea->createDestinationSection(), $calgary->createDestinationSection(), $banff->createDestinationSection(), $whistler->createDestinationSection(), $vancouver->createDestinationSection());
+	array_push($allDestinations, $croatia->createDestinationSection(), $lasVegas->createDestinationSection(), $cornwall->createDestinationSection(), $cotswolds->createDestinationSection(), $paris->createDestinationSection(), $carvoeiro->createDestinationSection(), $afternoonTea->createDestinationSection(), $calgary->createDestinationSection(), $banff->createDestinationSection(), $whistler->createDestinationSection(), $vancouver->createDestinationSection());
 
 ?>
