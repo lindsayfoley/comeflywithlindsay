@@ -32,7 +32,7 @@
 		}
 	}
 	
-		$croatia = new Destination('croatia', 'trogir-town-croatia', 'Views of the town of Trogir, Croatia', 'Dalmatia Region, Croatia', 'I heard a lot of great things about Croatia and its many islands, so I was super excited when we were invited to a wedding in the stunning region of Dalmatia. We spent a week in Croatia visiting Split, Hvar, Brac and Trogir in September and the weather was excellent, it was hot and sunny like summer for us in London.', 'A Guide to Croatia');
+		$croatia = new Destination('croatia', 'trogir-town-croatia', 'Views of the town of Trogir, Croatia', 'Dalmatia Region, Croatia', 'I heard a lot of great things about Croatia and its many islands, so I was super excited when we were invited to a wedding in the stunning region of Dalmatia. We spent a week in Croatia visiting Split, Hvar, Brac and Trogir in September and the weather was excellent, it was hot and sunny like summer for us in London.', 'Croatia Holiday Guide');
 	
 		$lasVegas = new Destination('las-vegas', 'las-vegas-strip-at-night', 'Las Vegas strip sparkling at night', 'Las Vegas, U.S.A', 'If you\'re looking for a sunny and lively destination to spend a few nights, Las Vegas is definitely the place to go. There\'s a vast amount of excellent bars and restaurants, world famous shows, endless casinos and extremely creative hotels - you certainly won\'t run out of things to do in Las Vegas!', 'My Guide to Las Vegas');
 	
