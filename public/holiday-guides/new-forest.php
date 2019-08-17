@@ -1,6 +1,6 @@
 <?php
 	$metaTitle = 'New Forest, England';
-	$metaDescription = 'The New Forest is a tranquil place with lush woodland, wildlife and even has beautiful coastal towns! Read my guide on where to stay, eat and where to visit.';
+	$metaDescription = 'The New Forest is the epitome of natural beauty from lush woodland, to a plethora of wildlife and even beautiful coastal towns! Read my guide to learn more.';
 	$ogImageUrl = '/images/new-forest/ponies-new-forest.jpg';
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/blog-post-start.php');
