@@ -5,7 +5,7 @@
 	include($_SERVER['DOCUMENT_ROOT'] . "/structure/head.php");
 ?>
   
-  <body id="destinations">
+  <body id="destinations" class="content-page">
 	  	  
 	<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/header.php"); ?>
 	
@@ -14,7 +14,7 @@
 			<div class="large-12 column">
 				<article>
 					<div id="intro">
-						<h1>Travel Guides</h1>
+						<h1 class="text-center">Travel Guides</h1>
 						<p>I'm making my way through my travel bucket list and I'm taking you all with me!</p>
 						<p>These travel guides will provide you with tips and advice on your upcoming holidays, as well as inspire you about some incredible destinations you may not have considered visiting.</p>		
 					</div>
