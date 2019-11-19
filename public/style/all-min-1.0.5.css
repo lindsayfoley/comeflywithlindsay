@@ -14,7 +14,6 @@ nav li a { color:#F7B044; }
 /* Main content */
 section { background:#F3F3F3; }
 section a { color:#4e4d4d; }
-section a:not(.button) { text-decoration:underline; }
 section a:hover { color:#FFB647; }
 article h1, article h2, article h3 { margin-bottom:10px; width:fit-content; width:-moz-fit-content; } 
 article h1, article h2 { border-bottom:2px solid #F7B044; }
@@ -61,12 +60,16 @@ footer .row > div { display:table-cell!important; }
 #blog-post main { padding-bottom:20px; }
 #blog-post article > .column { padding-left:0; padding-right:0; }
 #homepage article img, #destinations article img  { border:10px solid white; box-shadow:0 4px 8px 0 rgba(0,0,0,0.1); }
+/* Content pages (not a blog post) */
+.content-page main { padding-bottom:20px; }
 
 /*****************************************/
 
-/* Blog posts */
+/* Blog posts footer */
 #post-footer > div { padding:0; }
-.social-share > span { vertical-align:top; margin-left:10px; }
+.social-share { line-height:40px; }
+.social-share > div span, .social-share > span { vertical-align:middle!important; }
+.social-share > span { margin-left:10px; }
 #blog-post h5 { color:#878585; }
 
 /*****************************************/
