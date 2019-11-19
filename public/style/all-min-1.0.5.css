@@ -5,7 +5,7 @@ h1, h2, h3, h4, h5 { color:black; }
 /* Header */
 header { text-align:center; position:relative; }
 #main-menu { padding:15px 0; background-color:white; font-family:'Roboto Condensed', sans-serif; }
-main > div { margin-top:30px; }
+main > div:not(#searchWidget) { margin-top:30px; overflow: auto; }
 #logo { max-width:100px; max-height:100px; }
 nav { padding-top:20px; }
 nav li { font-size:18px; font-weight:bold; position:relative; text-transform:uppercase; padding:0 20px; letter-spacing:1px; }
@@ -16,7 +16,6 @@ section { background:#F3F3F3; }
 section a { color:#4e4d4d; }
 section a:not(.button) { text-decoration:underline; }
 section a:hover { color:#FFB647; }
-article { padding-bottom:20px; }
 article .row { padding:10px 0; }
 article .row:last-of-type { padding-bottom:40px; }
 article img { width:100%; display:block; margin:0 auto; }
@@ -64,7 +63,7 @@ footer .row > div { display:table-cell!important; }
 
 /* Blog posts */
 #post-footer > div { padding:0; }
-.social-share span:last-of-type { vertical-align:top; }
+.social-share > span { vertical-align:top; margin-left:10px; }
 #blog-post h5 { color:#878585; }
 
 /*****************************************/
