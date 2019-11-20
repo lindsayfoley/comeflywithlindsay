@@ -59,6 +59,8 @@ footer .row > div { display:table-cell!important; }
 #destinations .wide { max-width:750px; padding-bottom:20px; }
 #blog-post main { padding-bottom:20px; }
 #blog-post article > .column { padding-left:0; padding-right:0; }
+#blog-post a { text-decoration:underline; }
+#blog-post a:target::before { content:""; display:block; height:70px; margin: -70px 0 0; }
 #homepage article img, #destinations article img  { border:10px solid white; box-shadow:0 4px 8px 0 rgba(0,0,0,0.1); }
 /* Content pages (not a blog post) */
 .content-page main { padding-bottom:20px; }
@@ -66,6 +68,8 @@ footer .row > div { display:table-cell!important; }
 /*****************************************/
 
 /* Blog posts footer */
+#toTop { display:none; position:fixed; bottom:20px; right:100px; font-size:25px; padding:5px 7px; border-radius:100px; background-color:#F7B044; color:white; cursor:pointer; }
+#toTop.show { display:block; }
 #post-footer > div { padding:0; }
 .social-share { line-height:40px; }
 .social-share > div span, .social-share > span { vertical-align:middle!important; }
@@ -142,8 +146,8 @@ input { font-family:'PT Sans', sans-serif; }
 	#homepage #featured-img-mobile { background:url("/images/homepage/snowy-mountains-trees-banff-canada.jpg") no-repeat; background-size:cover; min-height:180px; padding-top:300px; }
 	#page-top { display:none; position:fixed; right:20px; top:73%; width:70px; height:70px; padding:10px; text-align:center; text-decoration:none; background-color:rgba(37,33,29, 0.6); color:white; font-weight:bold; border-radius:100%; box-shadow:0px 3px 15px rgba(0,0,0,0.2); }
 	#purpose { padding:30px 15px; }
-	
 	#blog-post.article li { padding-bottom:15px; }
+	#toTop { right:20px; font-size:25px; padding:10px 10px; }
 }
 
 /* Social buttons and sibling div on portrait mobile */
