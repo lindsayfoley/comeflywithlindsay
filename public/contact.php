@@ -5,7 +5,7 @@
 	include($_SERVER['DOCUMENT_ROOT'] . "/structure/head.php");
 ?>
 
-  <body class="content-page">
+  <body>
 	  	  
 	<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/header.php"); ?>
 	

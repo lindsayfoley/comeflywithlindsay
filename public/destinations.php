@@ -5,7 +5,7 @@
 	include($_SERVER['DOCUMENT_ROOT'] . "/structure/head.php");
 ?>
   
-  <body id="destinations" class="content-page">
+  <body id="destinations">
 	  	  
 	<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/header.php"); ?>
 	
@@ -29,5 +29,5 @@
 			</div>
 		</main>
 	</section>
-	
+	<button id="toTop">&#8593;</button>
 <?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/footer.php"); ?>
