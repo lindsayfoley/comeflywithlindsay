@@ -87,8 +87,8 @@ Having seen the [Eiffel Tower](https://www.toureiffel.paris/en) 15 years ago and
 
 At dusk when it was lit up and from afar it still looked spectacular and the lights sparkled just as I remembered. 
 
-![The Eiffel Tower, still Paris' biggest attraction](/images/paris/eiffel-tower-paris-at-sunset.jpg)
-<figcaption>The Eiffel Tower, still Paris' biggest attraction</figcaption>
+![The Eiffel Tower remains as Paris' biggest attraction](/images/paris/eiffel-tower-paris-at-sunset.jpg)
+<figcaption>The Eiffel Tower remains as Paris' biggest attraction</figcaption>
 
 ---
 
