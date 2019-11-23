@@ -1,6 +1,6 @@
 <?php 
-	$metaTitle = 'Carvoeiro, Portugal Travel Guide';
-	$metaDescription = 'Travel guide on Carvoeiro in Portugal featuring travel advice and details on where to stay, what to eat and where to visit by Come Fly With Lindsay.';
+	$metaTitle = 'Carvoeiro Holiday Guide, Portugal';
+	$metaDescription = 'My Carvoeiro holiday guide detailing which Carvoeiro hotel I love, what Praia De Carvoeiro (Carvoeiro beach) is like and when the weather in Carvoeiro is good';
 	$ogImageUrl = '/images/carvoeiro/tivoli-carvoeiro-at-sunset.jpg';	 
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/blog-post-start.php');
@@ -12,8 +12,8 @@
 	echo $Parsedown->text($text);
 	// /Blog post body
 	
-	$viewMoreLink = '../banff';
-	$viewMoreText = 'View Banff Guide';	
+	$viewMoreLink = '../croatia';
+	$viewMoreText = 'Read My Croatia Guide';	
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/blog-post-end.php'); 
 ?>
 
