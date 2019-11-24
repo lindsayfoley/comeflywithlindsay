@@ -1,6 +1,6 @@
 <?php
 	$metaTitle = 'New Forest, England';
-	$metaDescription = 'The New Forest is the epitome of natural beauty from lush woodland, to a plethora of wildlife and even beautiful coastal towns! Read my guide to learn more.';
+	$metaDescription = 'A guide to the New Forest including where to spot the famous New Forest horses, the best restaurants and pubs in New Forest and which towns to visit.';
 	$ogImageUrl = '/images/new-forest/ponies-new-forest.jpg';
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/blog-post-start.php');
