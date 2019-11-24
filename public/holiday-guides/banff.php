@@ -1,5 +1,5 @@
 <?php 
-	$metaTitle = 'Banff, Canada Travel Guide';
+	$metaTitle = 'A First-timers Guide to the Canadian Rockies';
 	$metaDescription = 'A handy travel guide on Banff in Alberta, Canada to plan your holiday to the Canadian Rockies. Read my tips on things to do and see by Come Fly With Lindsay.';
 	$ogImageUrl = '/images/banff/banff-town-alberta-canada.jpg';		  
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');

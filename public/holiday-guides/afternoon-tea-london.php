@@ -1,5 +1,5 @@
 <?php 
-	$metaTitle = 'London Afternoon Tea Guide';
+	$metaTitle = 'The Essential Guide to Afternoon Tea in London';
 	$metaDescription = 'A guide to my top traditional afternoon tea venues in London, England with tea reviews of Fortnum and Mason, The Ritz & more, written by Come Fly With Lindsay.';
 	$ogImageUrl = '/images/london/traditional-afternoon-tea-fortnum-and-mason.jpg';		  
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');

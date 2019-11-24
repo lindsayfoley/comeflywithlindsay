@@ -1,5 +1,5 @@
 <?php
-	$metaTitle = 'The Cotswolds Travel Guide, England';
+	$metaTitle = 'How to Maximise 2 Days in the Historic Cotswolds';
 	$metaDescription = 'The Cotswolds is an area in England containing the Cotswold Hills. You\'ll see historic buildings made from honey-coloured Cotswold stone and English countryside';
 	$ogImageUrl = '/images/cotswolds/sudeley-castle-cotswolds.jpg';
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');

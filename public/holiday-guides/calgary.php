@@ -1,5 +1,5 @@
 <?php 
-	$metaTitle = 'Downtown Calgary Travel Guide';
+	$metaTitle = 'How to Spend 2 Nights in Calgary';
 	$metaDescription = 'My insiders guide to spending a couple of nights in Downtown Calgary in Alberta, Canada. Read my blog post to prepare for your short stay in Calgary.';
 	$ogImageUrl = '/images/calgary/olympic-plaza-calgary.jpg';		  
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');

@@ -1,5 +1,5 @@
 <?php
-	$metaTitle = 'New Forest, England';
+	$metaTitle = 'Why The New Forest is the Ultimate All-in-one UK Holiday Destination';
 	$metaDescription = 'A guide to the New Forest including where to spot the famous New Forest horses, the best restaurants and pubs in New Forest and which towns to visit.';
 	$ogImageUrl = '/images/new-forest/ponies-new-forest.jpg';
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');

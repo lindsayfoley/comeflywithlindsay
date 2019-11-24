@@ -1,5 +1,5 @@
 <?php 
-	$metaTitle = 'Vancouver Travel Guide';
+	$metaTitle = 'Top Reasons to Visit Downtown Vancouver';
 	$metaDescription = 'Travel guide on Downtown Vancouver with handy travel tips, experiences, information on where to visit and where to stay by Come Fly With Lindsay.';
 	$ogImageUrl = '/images/vancouver/cycling-around-stanley-park-in-vancouver.jpg';		 
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');

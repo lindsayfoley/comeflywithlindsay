@@ -1,5 +1,5 @@
 <?php 
-	$metaTitle = 'Carvoeiro Holiday Guide, Portugal';
+	$metaTitle = 'Discovering Carvoeiro: Portugal’s Hidden Gem';
 	$metaDescription = 'My Carvoeiro holiday guide detailing which Carvoeiro hotel I love, what Praia De Carvoeiro (Carvoeiro beach) is like and when the weather in Carvoeiro is good';
 	$ogImageUrl = '/images/carvoeiro/tivoli-carvoeiro-at-sunset.jpg';	 
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');
