@@ -1,5 +1,5 @@
 <?php 
-	$metaTitle = 'My Guide to Las Vegas';
+	$metaTitle = '5 Nights in Las Vegas to Remember';
 	$metaDescription = 'A quick guide to help you make the best choices for your time in Las Vegas! I advise on where to eat and the best area and hotels to stay in Vegas.';
 	$ogImageUrl = '/images/las-vegas/las-vegas-strip-at-night.jpg';		  
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');

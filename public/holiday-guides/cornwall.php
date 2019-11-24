@@ -1,5 +1,5 @@
 <?php
-	$metaTitle = 'Mawgan Porth in Newquay, Cornwall';
+	$metaTitle = 'Why the Cornish Coast Is England\'s Best Summer Destination';
 	$metaDescription = 'I stayed at Mawgan Porth in Newquay, North Cornwall and had no idea that England had such heavenly, sandy beaches with ombre blue waters!';
 	$ogImageUrl = '/images/cornwall/mawgan-porth-beach.jpg';
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');

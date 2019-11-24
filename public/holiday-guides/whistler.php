@@ -1,5 +1,5 @@
 <?php 
-	$metaTitle = 'Travel Guide to Whistler, Canada';
+	$metaTitle = 'Visiting Whistler in the Off-peak Season';
 	$metaDescription = 'A guide to Whistler, British Columbia in Canada with things to do and see in sporty Whistler in autumn, with tips and ideas by Come Fly With Lindsay.';
 	$ogImageUrl = '/images/whistler/whistler-village-autumnal-colours.jpg';		  	 
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');

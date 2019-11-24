@@ -1,5 +1,5 @@
 <?php 
-	$metaTitle = 'My Travel Guide to Croatia';
+	$metaTitle = 'The Best Guide you’ll find on the Dalmatia Region in Croatia';
 	$metaDescription = 'Travel guide to Split, Hvar, Brac and Trogir in Croatia in the Dalmatia region. Find out the best area to stay, eat and places to go by Come Fly With Lindsay.';
 	$ogImageUrl = '/images/croatia/trogir-town-croatia.jpg';	 
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');

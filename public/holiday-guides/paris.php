@@ -1,5 +1,5 @@
 <?php
-	$metaTitle = 'A Travel Guide to Paris, France';
+	$metaTitle = 'Everything You Need to See in Paris';
 	$metaDescription = 'Read this guide if you plan to visit Paris to make the most of your city break! I cover fun things to do in Paris, places to eat and the best bars in Paris';
 	$ogImageUrl = '/images/paris/eiffel-tower-paris-at-sunset.jpg';
 	include($_SERVER['DOCUMENT_ROOT'] . '/structure/head.php');
