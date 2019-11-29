@@ -32,7 +32,7 @@
 		}
 	}
 	
-		$painshill = new Destination('painshill-park', 'inside-gothic-temple-painshill-park-surrey', 'The stunning Gothic Temple at Painshill Park, England', '5 Exciting Reasons to Visit Painshill Park, Surrey', 'This beautiful park is far from your average English park, it has a host of impressive monuments to discover like the famous crystal grotto/caves, the historic Gothic Temple and a winding path chocked with artistic sights to discover, you\'ll wonder why you didn\'t visit Painshill Park sooner!', 'A Day in Painshill Park');
+		$painshill = new Destination('painshill-park', 'inside-gothic-temple-painshill-park-surrey', 'The stunning Gothic Temple at Painshill Park, England', '5 Exciting Reasons to Visit Painshill Park, Surrey', 'This 18th century landscaped garden in Surrey is far from your average English park. Follow the winding path to uncover a host of artistic monuments including a cave constructed from crystals, unique temples and ornate follies. This guide will leave you wanting to make a trip to Painshill Park immediately!', 'A Day in Painshill Park');
 
 		$newForest = new Destination('new-forest', 'ponies-new-forest', 'Majestic wild ponies in the New Forest, England', 'The New Forest: an All-in-one Holiday Destination', 'The New Forest is an area steeped in rich history; once a royal hunting ground for William the Conqueror and the site for major airfields during WW2. It has been influenced throughout the centuries, evolving into the extraordinary National Park it is today, receiving worldwide recognition for being a unique area.', 'New Forest Travel Guide');
 			
