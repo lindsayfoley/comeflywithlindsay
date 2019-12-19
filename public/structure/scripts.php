@@ -30,7 +30,3 @@
     src="//assets.pinterest.com/js/pinit.js"
 ></script>
 <!-- /Social  -->
-<!-- Comission Junction  -->
-<script src="//www.anrdoezrs.net/am/9212294/include/allCj/generate/onLoad/impressions/page/am.js"></script>
-<!-- /Comission Junction  -->
-
