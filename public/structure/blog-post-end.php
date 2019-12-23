@@ -7,6 +7,7 @@
 					</div>
 				</div>
 			</article>
+			<?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/third-party/search-box.php"); ?>
 		</main>
 	</section>
 <?php include($_SERVER['DOCUMENT_ROOT'] . "/structure/footer.php"); ?>
