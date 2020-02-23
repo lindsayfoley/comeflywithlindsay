@@ -32,7 +32,7 @@
 		}
 	}
 	
-	$york = new Destination('york', 'cobbled-lane-york-england', 'Picturesque cobbled lanes in York, England', 'A First-timers Guide to York in England', 'York is a quaint English city located in the north of England, encased by medieval stone walls with a striking gothic cathedral adorning the centre. There\'s a great selection of famous and historical sights to visit so it\'s no wonder it\'s one of the UK\'s most popular destinations to visit.', 'My guide to York');
+	$york = new Destination('york', 'cobbled-lane-york-england', 'Picturesque cobbled lanes in York, England', 'A First-timers Guide to York in England', 'York is a quaint English city located in the north of England, encased by medieval stone walls with a striking gothic cathedral adorning the centre. There\'s a great selection of famous and historical sights to visit so it\'s no wonder it\'s one of the UK\'s most popular destinations to visit all year round.', 'My Guide to York');
 
 	
 		$painshill = new Destination('painshill-park', 'inside-gothic-temple-painshill-park-surrey', 'The stunning Gothic Temple at Painshill Park, England', '5 Exciting Reasons to Visit Painshill Park, Surrey', 'This 18th century landscaped garden in Surrey is far from your average English park. Follow the winding path to uncover a host of artistic monuments including a cave constructed from crystals, unique temples and ornate follies. This guide will leave you wanting to make a trip to Painshill Park immediately!', 'A Day in Painshill Park');
@@ -63,6 +63,6 @@
 	
 	$allDestinations = array();
 	
-	array_push($allDestinations, $painshill->createDestinationSection(), $newForest->createDestinationSection(), $croatia->createDestinationSection(), $lasVegas->createDestinationSection(), $cornwall->createDestinationSection(), $cotswolds->createDestinationSection(), $paris->createDestinationSection(), $carvoeiro->createDestinationSection(), $afternoonTea->createDestinationSection(), $calgary->createDestinationSection(), $banff->createDestinationSection(), $whistler->createDestinationSection(), $vancouver->createDestinationSection());
+	array_push($allDestinations, $york->createDestinationSection(), $painshill->createDestinationSection(), $newForest->createDestinationSection(), $croatia->createDestinationSection(), $lasVegas->createDestinationSection(), $cornwall->createDestinationSection(), $cotswolds->createDestinationSection(), $paris->createDestinationSection(), $carvoeiro->createDestinationSection(), $afternoonTea->createDestinationSection(), $calgary->createDestinationSection(), $banff->createDestinationSection(), $whistler->createDestinationSection(), $vancouver->createDestinationSection());
 
 ?>
