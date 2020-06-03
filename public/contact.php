@@ -25,7 +25,7 @@
 								<li>Follow me on <a target="_blank" href="https://www.pinterest.co.uk/comeflywithlindsay/">Pinterest</a></li>
 								<li>Follow me on <a target="_blank" href="https://www.facebook.com/comeflywithlindsay/">Facebook</a></li>
 								<li>Send me an <a href="mailto:me@lindsayfoley.co.uk"> email</a></li>
-								<li>View my <a target="_blank" href="http://www.lindsayfoley.co.uk">portfolio</a></li>
+								<li>View my <a target="_blank" href="https://www.lindsayfoley.co.uk">portfolio</a></li>
 							</ul>
 							<a class="button small" href="destinations">Browse Destinations</a>
 						</div>

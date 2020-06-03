@@ -19,7 +19,7 @@
 			</div>
 		</div>
 		<div class="large-3 medium-3 small-12 column">
-			<a target="_blank" href="http://www.lindsayfoley.co.uk">&copy; Lindsay Foley</a>
+			<a target="_blank" href="https://www.lindsayfoley.co.uk">&copy; Lindsay Foley</a>
 		</div>
 	</div>
 </footer>
