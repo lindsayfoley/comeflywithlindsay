@@ -9,13 +9,13 @@ export default function Header() {
           <Link href="/">
             <a>Come Fly With Lindsay</a>
           </Link>
-          <Link href="destinations">
+          <Link href="/destinations">
             <a>Destinations</a>
           </Link>
-          <Link href="about">
+          <Link href="/about">
             <a>About</a>
           </Link>
-          <Link href="contact">
+          <Link href="/contact">
             <a>Contact</a>
           </Link>
         </div>
