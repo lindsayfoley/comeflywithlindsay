@@ -1,10 +1,10 @@
 import { PostPreview } from "../components/PostPreview";
-import { posts } from "../getAllPosts";
+import { posts } from "../allBlogPosts";
 
 export default function IndexPage() {
   return (
     <>
-      {posts.map((post) => (
+      {posts.map(post => (
         <PostPreview key={post.link} post={post} />
       ))}
     </>

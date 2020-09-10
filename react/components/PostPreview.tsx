@@ -1,11 +1,15 @@
-import Link from 'next/link'
 import { FunctionComponent } from 'react'
-import PostExcerpt from './PostExcerpt'
+import Link from 'next/link'
+import BlogPostExcerpt, { IBlogPostDetails } from './BlogPostExcerpt'
 import { IBlogPostProps } from './BlogPost';
+
+interface IPostDetails extends IBlogPostProps {
+  details: IBlogPostDetails;
+}
 
 interface IPostProps {
   link: string;
-  module: IBlogPostProps;
+  module: IPostDetails;
 }
 
 interface IPostPreviewProps {
@@ -13,16 +17,13 @@ interface IPostPreviewProps {
 }
 
 export const PostPreview: FunctionComponent<IPostPreviewProps> = ({ post }) => {
-  const {
-    link,
-    module: { setup },
-  } = post
+  const { link, module: { details } } = post
 
   return (
     <article>
-      <PostExcerpt setup={setup} />
+      <BlogPostExcerpt details={details} />
       <Link href={'/holiday-guides' + link}>
-        <a>{setup.excerpt.cta}</a>
+        <a>{details.excerpt.cta}</a>
       </Link>
     </article>
   )

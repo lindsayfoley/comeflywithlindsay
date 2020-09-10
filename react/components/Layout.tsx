@@ -3,7 +3,7 @@ import Head from "next/head";
 import Header from "./Header";
 
 interface ILayoutProps {
-  children: JSX.Element;
+  children: Object;
   pageTitle: string;
   description: string;
 }
