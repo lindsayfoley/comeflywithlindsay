@@ -1,19 +1,19 @@
 import { FunctionComponent } from 'react';
 
-export interface IBlogPostMeta {
+interface IBlogPostMeta {
   title: string;
   description: string;
   ogImage: string;
 }
 
-export interface IBlogPostExcerpt {
+interface IBlogPostExcerpt {
   description: string;
   image: string;
   alt: string;
   cta: string;
 }
 
-export interface IRecommendedNextPost {
+interface IRecommendedNextPost {
   link: string;
   cta: string;
 }
