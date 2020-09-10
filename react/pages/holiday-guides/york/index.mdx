@@ -3,19 +3,21 @@ import BlogPost from "../../../components/BlogPost";
 export const setup = {
   meta: {
     title: "A First-timers Guide to York in England",
-    description: "York is a quaint English city encased by medieval walls with a gothic cathedral adorning the centre. It has an abundance of historical sights for you to uncover",
-    ogImage: "/images/london/traditional-afternoon-tea-fortnum-and-mason.jpg"
+    description:
+      "York is a quaint English city encased by medieval walls with a gothic cathedral adorning the centre. It has an abundance of historical sights for you to uncover",
+    ogImage: "/images/london/traditional-afternoon-tea-fortnum-and-mason.jpg",
   },
   excerpt: {
-    description: "York is a quaint English city located in the north of England, encased by medieval stone walls with a striking gothic cathedral adorning the centre. There\'s a great selection of famous and historical sights to visit so it\'s no wonder it\'s one of the UK\'s most popular destinations to visit all year round.",
+    description:
+      "York is a quaint English city located in the north of England, encased by medieval stone walls with a striking gothic cathedral adorning the centre. There's a great selection of famous and historical sights to visit so it's no wonder it's one of the UK's most popular destinations to visit all year round.",
     image: "cobbled-lane-york-england",
     alt: "Picturesque cobbled lanes in York, England",
-    cta: "My Guide to York"
+    cta: "My Guide to York",
   },
   nextPost: {
     link: "../cotswolds",
-    cta: "Cotswolds Travel Guide"
-  }
+    cta: "Cotswolds Travel Guide",
+  },
 };
 
 export default ({ children }) => <BlogPost setup={setup}>{children}</BlogPost>;
