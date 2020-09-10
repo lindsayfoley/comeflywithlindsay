@@ -29,7 +29,7 @@ interface IBlogPostExcerptProps {
 }
 
 const BlogPostExcerpt: FunctionComponent<IBlogPostExcerptProps> = ({
-  details: { meta, excerpt } = {}
+  details: { meta, excerpt }
 }) => (
     <>
       <h1 className="blogPost">

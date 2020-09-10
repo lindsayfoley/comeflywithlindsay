@@ -1,7 +1,7 @@
-import { PostPreview } from "../components/PostPreview";
 import { posts } from "../allBlogPosts";
+import { PostPreview } from "../components/PostPreview";
 
-export default function IndexPage() {
+const Destinations = () => {
   return (
     <>
       {posts.map(post => (
@@ -10,3 +10,5 @@ export default function IndexPage() {
     </>
   );
 }
+
+export default Destinations; 
