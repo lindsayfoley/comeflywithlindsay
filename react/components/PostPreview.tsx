@@ -20,11 +20,20 @@ export const PostPreview: FunctionComponent<IPostPreviewProps> = ({ post }) => {
   const { link, module: { details } } = post
 
   return (
-    <article>
-      <BlogPostExcerpt details={details} />
-      <Link href={'/holiday-guides' + link}>
-        <a>{details.excerpt.cta}</a>
-      </Link>
-    </article>
+    <>
+      <article className="row">
+        <BlogPostExcerpt details={details} />
+      </article>
+      <hr />
+      <style jsx>{`
+        article {
+          clear: both;
+          display: block;
+        }
+        hr:last-of-type {
+          display: none;
+        }
+      `}</style>
+    </>
   )
 }

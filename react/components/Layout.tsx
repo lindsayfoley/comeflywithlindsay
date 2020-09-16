@@ -1,7 +1,7 @@
 import { FunctionComponent } from "react";
 import Head from "next/head";
 import Header from "./Header";
-import { Settings } from "http2";
+import Footer from "./Footer";
 
 interface ILayoutProps {
   children: Object;
@@ -39,10 +39,11 @@ const Layout: FunctionComponent<ILayoutProps> = ({
         <link href="//fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet" />
       </Head>
-      <main>
-        <Header />
-        <div className="content">{children}</div>
-      </main>
+      <Header />
+      <section>
+        {children}
+      </section>
+      <Footer />
     </>
   );
 }

@@ -1,41 +1,71 @@
-import Link from "next/link";
+import Nav from "./Nav";
 
 export default function Header() {
   return (
     <>
-      <nav>
-        <h1>Come Fly With Lindsay</h1>
-        <div>
-          <Link href="/">
-            <a>Come Fly With Lindsay</a>
-          </Link>
-          <Link href="/destinations">
-            <a>Destinations</a>
-          </Link>
-          <Link href="/about">
-            <a>About</a>
-          </Link>
-          <Link href="/contact">
-            <a>Contact</a>
-          </Link>
-        </div>
-      </nav>
+      <header>
+        <menu className="top-bar">
+          <div className="row">
+            <div className="large-12 medium-12 column">
+              <a href="/"><img id="logo" src="/images/logo.png" alt="Come fly with Lindsay logo" /></a>
+            </div>
+            <Nav />
+          </div>
+        </menu>
+      </header>
       <style jsx>{`
-        nav {
-          border-bottom: 10px solid #444;
-          width: auto;
-          padding: 0 2rem;
-          display: flex;
-          justify-content: space-between;
-          align-items: center;
-          font-size: 1rem;
+        header { 
+          text-align: center; 
+          position: relative; 
         }
-        nav a {
-          margin-right: 1rem;
-          text-decoration: none;
+        menu { 
+          padding: 15px 0; 
+          background-color: white; 
+          font-family:'Roboto Condensed', sans-serif; 
         }
-        nav a:hover {
-          text-decoration: underline;
+        main > div:not(#searchWidget) { 
+          margin-top: 30px; 
+          overflow: auto; 
+        }
+        #logo { 
+          max-width: 100px; 
+          max-height: 100px; 
+        }
+        @media all and (min-width: 668px) {
+          menu { 
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            box-shadow: 0px 3px 15px rgba(0,0,0,0.2); 
+          }
+          .hamburger-container { 
+            display: none; 
+          }
+          nav li:not(:first-of-type):after { 
+            content: '•'; 
+            color: #CBCBCB; 
+            position: absolute; 
+            top: 7px; 
+            left: -5px; 
+          }
+          nav li a { 
+            border-bottom: 4px solid transparent; 
+          }
+          nav a:hover { 
+            border-color: #e6e6e6; 
+          }
+          header { 
+            border-top: 20px solid #262626; 
+          }
+        }
+        @media all and (max-width: 667px) {
+          header {
+            border-top: 5px solid #262626;
+         }
+          #logo {
+             max-width: 100px;
+         }
         }
       `}</style>
     </>
