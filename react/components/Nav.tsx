@@ -46,13 +46,6 @@ const Nav: FunctionComponent = () => {
           color: #F7B044; 
         }
         @media all and (min-width: 668px) {
-          menu { 
-            position: absolute; 
-            top: 0; 
-            left: 0; 
-            width: 100%; 
-            box-shadow: 0px 3px 15px rgba(0,0,0,0.2); 
-          }
           .hamburger-container { 
             display: none; 
           }
@@ -68,9 +61,6 @@ const Nav: FunctionComponent = () => {
           }
           nav a:hover { 
             border-color: #e6e6e6; 
-          }
-          header { 
-            border-top: 20px solid #262626; 
           }
         }
         @media all and (max-width: 667px) {

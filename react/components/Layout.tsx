@@ -40,9 +40,7 @@ const Layout: FunctionComponent<ILayoutProps> = ({
         <link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet" />
       </Head>
       <Header />
-      <section>
-        {children}
-      </section>
+      {children}
       <Footer />
     </>
   );

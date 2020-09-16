@@ -2,6 +2,7 @@ import { FunctionComponent } from "react";
 import Layout from "../components/Layout";
 import { PostPreview } from "../components/PostPreview";
 import { posts } from "../allBlogPosts";
+import Link from "next/link";
 
 const IndexPage: FunctionComponent = () => {
   return (
@@ -14,17 +15,25 @@ const IndexPage: FunctionComponent = () => {
       >
         <section>
           <div id="hero">
-            <a href="destinations"><h1>Travel Inspiration &amp; Guides</h1></a>
+            <Link href="/destinations">
+              <a><h1>Travel Inspiration &amp; Guides</h1></a>
+            </Link>
           </div>
           <div id="purpose" className="text-center">
             <h2>Travelling The Globe One Step At A Time</h2>
             <p>With so many spectacular places to visit, I find the web inundated with travel advice websites, resources, reviews, etc. that can make the whole planning/booking process really stressful - especially with the fear of not picking the prime location or the right hotel!</p>
             <p>I decided to document my travels to give you an honest insight into where to go on holiday, advising on the good, the bad and the ugly. Let me be your travel <span className="crossed-out">guinea pig</span> guru and I'll tell you where I think is best to stay, what to see and what activities I recommend doing.</p>
-            <a className="button small" href="/destinations">View All Holiday Guides</a>
+            <Link href="/destinations">
+              <a className="button small">View All Holiday Guides</a>
+            </Link>
           </div>
           <main className="row">
             <div className="large-12 column">
-              <h2 className="text-center"><a href="destinations">Recent Holiday Guides</a></h2>
+              <h2 className="text-center">
+                <Link href="/destinations">
+                  <a>Recent Holiday Guides</a>
+                </Link>
+              </h2>
               {posts.filter((post, index) => (index <= 2) && post).map(post =>
                 <PostPreview key={post.link} post={post} />
               )}
@@ -81,7 +90,7 @@ const IndexPage: FunctionComponent = () => {
         @media all and (min-width: 668px) {
           #hero { 
             background:url("/images/homepage/snowy-mountains-trees-banff-canada.jpg") no-repeat;
-            background-position: center 70px; 
+            background-position: center; 
             background-size: cover; 
             padding: 320px 0; 
           }
@@ -89,7 +98,7 @@ const IndexPage: FunctionComponent = () => {
             padding: 30px; 
           } 
           h1 { 
-            top: 410px; 
+            top: 310px; 
             font-size: 65px; 
           }
         }
@@ -108,33 +117,9 @@ const IndexPage: FunctionComponent = () => {
             background-size: cover;
             min-height: 180px;
          }
-          #page-top {
-            display: none;
-            position: fixed;
-            right: 20px;
-            top: 73%;
-            width: 70px;
-            height: 70px;
-            padding: 10px;
-            text-align: center;
-            text-decoration: none;
-            background-color: rgba(37,33,29, 0.6);
-            color: white;
-            font-weight: bold;
-            border-radius: 100%;
-            box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
-         }
           #purpose {
             padding: 30px 15px;
          }
-          article li {
-            padding-bottom: 15px;
-         }
-          #toTop {
-            right: 20px;
-            font-size: 25px;
-            padding: 10px 10px;
-          }
         }     
       `}</style>
     </>

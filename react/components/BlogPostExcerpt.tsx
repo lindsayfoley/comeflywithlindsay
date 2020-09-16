@@ -35,13 +35,17 @@ const BlogPostExcerpt: FunctionComponent<IBlogPostExcerptProps> = ({
 }) => (
     <>
       <div className="large-6 column">
-        <a href={excerpt.link}>
-          <img src={excerpt.image} alt={excerpt.alt} />
-        </a>
+        <Link href={'/holiday-guides/' + excerpt.link}>
+          <a>
+            <img src={excerpt.image} alt={excerpt.alt} />
+          </a>
+        </Link>
       </div>
       <div className="large-6 column">
         <h2 className="blogPost">
-          <a href={excerpt.link}>{meta.title}</a>
+          <Link href={'/holiday-guides/' + excerpt.link}>
+            <a>{meta.title}</a>
+          </Link>
         </h2>
         <p>{excerpt.description}</p>
         <Link href={'/holiday-guides/' + excerpt.link}>

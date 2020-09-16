@@ -11,10 +11,27 @@ const Destinations = () => {
         ogTitle="Welcome to my Travel Blog"
         ogImage="/images/vancouver/cycling-around-stanley-park-in-vancouver.jpg"
       >
-        {posts.map(post => (
-          <PostPreview key={post.link} post={post} />
-        ))}
+        <section>
+          <div className="row text-center">
+            <h1>Travel Guides to Destinations Around the World</h1>
+            <p>I'm making my way through my travel bucket list and I'm taking you all with me!</p>
+            <p>These travel guides will provide you with tips and advice on your upcoming holidays, as well as inspire you about some incredible destinations you may not have considered visiting.</p>
+          </div>
+          <hr />
+          {posts.map(post =>
+            <PostPreview key={post.link} post={post} />
+          )}
+        </section>
       </Layout>
+      <style jsx>{`
+        section {
+          margin-top: 30px;
+          padding-bottom: 60px;
+        }
+        p:last-of-type {
+          margin-bottom: 0;
+        }
+      `}</style>
     </>
   );
 }
