@@ -54,9 +54,6 @@ const BlogPostExcerpt: FunctionComponent<IBlogPostExcerptProps> = ({
       </div>
       <style jsx>
         {`
-        h2 > a {
-          border-bottom: 2px solid #F7B044;
-        }
         p + .button {
           margin-top: 14px;
         }

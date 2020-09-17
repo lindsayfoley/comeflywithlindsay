@@ -24,6 +24,7 @@ export default function Header() {
           position: relative; 
         }
         menu { 
+          margin: 0;
           padding: 15px 0; 
           background-color: white; 
           font-family:'Roboto Condensed', sans-serif; 

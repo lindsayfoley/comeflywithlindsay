@@ -59,7 +59,7 @@ const Nav: FunctionComponent = () => {
           nav li a { 
             border-bottom: 4px solid transparent; 
           }
-          nav a:hover { 
+          nav li a:hover { 
             border-color: #e6e6e6; 
           }
         }

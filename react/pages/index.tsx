@@ -86,6 +86,7 @@ const IndexPage: FunctionComponent = () => {
         }
         h2 {
           margin-bottom: 20px;
+          border-bottom: 0;
         }
         @media all and (min-width: 668px) {
           #hero { 
