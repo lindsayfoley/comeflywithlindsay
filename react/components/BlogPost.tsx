@@ -1,26 +1,44 @@
 import { FunctionComponent } from 'react';
 import Layout from './Layout';
+import { IBlogPostDetails } from './BlogPostExcerpt';
+import Link from 'next/link';
+import SocialIcons from './SocialIcons';
 
 export interface IBlogPostProps {
   children: JSX.Element;
+  details: IBlogPostDetails;
 }
 
-const BlogPost: FunctionComponent<IBlogPostProps> = ({ children }) =>
+const BlogPost: FunctionComponent<IBlogPostProps> = ({ children, details }) =>
   <>
     <Layout
-      pageTitle="Welcome to my Travel Blog | Come Fly With Lindsay"
-      description="I have been documenting my travel adventures to give you an insight into the destinations I visit, covering where to stay, where to eat and what to see."
-      ogTitle="Welcome to my Travel Blog"
-      ogImage="/images/vancouver/cycling-around-stanley-park-in-vancouver.jpg"
+      pageTitle={details.meta.title}
+      description={details.meta.description}
+      ogTitle={details.meta.title}
+      ogImage={details.meta.ogImage}
     >
       <article id="blog-post" className="row">
         {children}
+        <div id="post-footer">
+          <button id="toTop">&#8593;</button>
+          <div className="large-12 medium-12 small-12">
+            <SocialIcons />
+            <div className="large-6 medium-6 small-6 column text-right">
+              <Link href={details.nextPost.link}>
+                <a className="button small">{details.nextPost.cta}</a>
+              </Link>
+            </div>
+          </div>
+        </div>
       </article>
     </Layout>
     <style jsx>{`
       article {
         margin-top: 30px;
         padding-bottom: 60px;
+      }
+      #post-footer div {
+        padding: 0;
       }
     `}</style>
   </>
