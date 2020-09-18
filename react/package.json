@@ -17,6 +17,7 @@
     "next": "9.5.3",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-share": "^4.2.1",
     "sass": "^1.26.10",
     "style-loader": "^1.2.1",
     "webpack": "^4.44.1"

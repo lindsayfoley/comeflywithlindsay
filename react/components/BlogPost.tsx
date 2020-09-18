@@ -1,8 +1,8 @@
 import { FunctionComponent } from 'react';
 import Layout from './Layout';
-import { IBlogPostDetails } from './BlogPostExcerpt';
 import Link from 'next/link';
-import SocialIcons from './SocialIcons';
+import { IBlogPostDetails } from './BlogPostExcerpt';
+import SocialShare from './SocialShare';
 
 export interface IBlogPostProps {
   children: JSX.Element;
@@ -20,9 +20,14 @@ const BlogPost: FunctionComponent<IBlogPostProps> = ({ children, details }) =>
       <article id="blog-post" className="row">
         {children}
         <div id="post-footer">
-          <button id="toTop">&#8593;</button>
+          {/* <button id="toTop">&#8593;</button> */}
           <div className="large-12 medium-12 small-12">
-            <SocialIcons />
+            <SocialShare
+              pageUrl={details.excerpt.link}
+              ogImage={details.meta.ogImage}
+              title={details.meta.title}
+              description={details.excerpt.description}
+            />
             <div className="large-6 medium-6 small-6 column text-right">
               <Link href={details.nextPost.link}>
                 <a className="button small">{details.nextPost.cta}</a>
