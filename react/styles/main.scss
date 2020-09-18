@@ -1,11 +1,4 @@
-$mainBrandColour: #f7b044;
-$darkestBrandColour: #c98f38;
-$secondaryColour: #4e4d4d;
-$accentColour: #6b6a6a;
-$fadedAccentColour: #dfdfdf;
-$lighestTextColour: #fefefe;
-$lighestColour: #ffffff;
-$darkestColour: #000000;
+@import 'colours.scss';
 
 * {
   box-sizing: border-box;

@@ -26,6 +26,7 @@ const ContactIcons: FunctionComponent = () =>
         fgColor="white"
         bgColor={url === PORTFOLIO_SITE ? "#C27AC0" : undefined}
         style={{ height: FOOTER_SOCIAL_ICON_SIZE, width: FOOTER_SOCIAL_ICON_SIZE }}
+        target="_blank"
       />
     )}
   </>
