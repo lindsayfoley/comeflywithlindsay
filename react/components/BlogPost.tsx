@@ -22,7 +22,6 @@ const BlogPost: FunctionComponent<IBlogPostProps> = ({ children, details }) =>
           <article id="blog-post" className="large-12 column">
             {children}
             <div>
-              {/* <button id="toTop">&#8593;</button> */}
               <div id="post-footer" className="large-12">
                 <div className="large-6 medium-6 small-6 column">
                   <SocialShare

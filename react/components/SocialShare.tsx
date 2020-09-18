@@ -1,5 +1,5 @@
 import { FunctionComponent } from 'react';
-import { DOMAIN, BLOG_POST_SOCIAL_ICON_SIZE } from './constants';
+import { DOMAIN, BLOG_POST_SOCIAL_ICON_SIZE } from '../constants';
 import {
   FacebookShareButton,
   FacebookIcon,

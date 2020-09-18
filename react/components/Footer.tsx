@@ -1,15 +1,19 @@
 import { FunctionComponent } from "react";
+import ContactIcons from "./ContactIcons";
+import NewsletterSubscribe from "./NewsletterSubscribe";
 
 const Footer: FunctionComponent = () => {
   return (
     <>
       <footer>
         <div className="row">
-          <div className="large-3 medium-3 small-12 column">
-            <a target="_blank" href="//instagram.com/comeflywithlindsay"></a>
-            <a target="_blank" href="//www.pinterest.co.uk/comeflywithlindsay"></a>
+          <div id="social-icons" className="large-3 medium-3 small-12 column">
+            <ContactIcons />
           </div>
-          <div className="large-3 medium-3 small-12 column">
+          <div className="large-6 medium-5 small-12 column">
+            <NewsletterSubscribe />
+          </div>
+          <div className="large-3 medium-3 small-12 column text-right">
             <a target="_blank" href="https://www.lindsayfoley.co.uk">&copy; Lindsay Foley</a>
           </div>
         </div>
@@ -21,28 +25,16 @@ const Footer: FunctionComponent = () => {
           border-top: 5px solid black; 
           padding: 15px 0 30px 0; 
         }
-        footer svg { 
-          width: 24px; 
-          height: 24px; 
-          fill: white; 
-        }
-        footer svg:first-child { 
-          margin-right: 10px; 
-        }
         footer a { 
+          display: inline-block;
+          margin-top: 45px;
           font-size: 15px; 
           color: #9E9E9E; 
         }
-        footer svg, footer .row > div { 
-          vertical-align: bottom; 
-        }
-        footer .row { 
-          width: 100%; 
-          display: 
-          table!important; 
-        }
-        footer .row > div { 
-          display: table-cell!important; 
+        @media screen and (max-width: 960px) {
+          footer a { 
+            margin-top: 0;
+          }
         }
       `}</style>
     </>
