@@ -41,6 +41,11 @@ const AboutPage: FunctionComponent = () => {
           display: inline-block;
           border-bottom: 2px solid #f7b044;
         }
+        @media all and (max-width: 1024px) {
+          img {
+            padding-bottom: 20px;
+          }
+        }
         `}</style>
     </>
   );

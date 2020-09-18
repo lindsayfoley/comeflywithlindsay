@@ -67,7 +67,7 @@ const BlogPostExcerpt: FunctionComponent<IBlogPostExcerptProps> = ({
           border: 10px solid white;
           box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
         }
-        @media all and (max-width: 667px) {
+        @media all and (max-width: 1024px) {
           div:nth-of-type(odd) {
             padding-bottom: 20px;
           }

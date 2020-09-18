@@ -25,25 +25,18 @@ const SocialShare: FunctionComponent<ISocialShareProps> = ({
   description
 }) =>
   <>
-    <div className="large-6 medium-6 small-6 column">
-      <FacebookShareButton url={`${DOMAIN}${pageUrl}`}>
-        <FacebookIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
-      </FacebookShareButton>
-      <PinterestShareButton url={`${DOMAIN}${pageUrl}`} media={`${DOMAIN}${ogImage}`}>
-        <PinterestIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
-      </PinterestShareButton>
-      <WhatsappShareButton url={`${DOMAIN}${pageUrl}`} title={title}>
-        <WhatsappIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
-      </WhatsappShareButton>
-      <EmailShareButton url={`${DOMAIN}${pageUrl}`} subject={title} body={description}>
-        <EmailIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
-      </EmailShareButton>
-    </div>
-    <style jsx>{`
-      div { 
-        padding: 0;
-      }
-    `}</style>
+    <FacebookShareButton url={`${DOMAIN}${pageUrl}`}>
+      <FacebookIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
+    </FacebookShareButton>
+    <PinterestShareButton url={`${DOMAIN}${pageUrl}`} media={`${DOMAIN}${ogImage}`}>
+      <PinterestIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
+    </PinterestShareButton>
+    <WhatsappShareButton url={`${DOMAIN}${pageUrl}`} title={title}>
+      <WhatsappIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
+    </WhatsappShareButton>
+    <EmailShareButton url={`${DOMAIN}${pageUrl}`} subject={title} body={description}>
+      <EmailIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
+    </EmailShareButton>
   </>
 
 export default SocialShare;

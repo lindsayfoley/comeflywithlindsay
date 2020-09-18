@@ -16,6 +16,7 @@ const Footer: FunctionComponent = () => {
       </footer>
       <style jsx>{`
         footer { 
+          clear: both;
           background: #222222; 
           border-top: 5px solid black; 
           padding: 15px 0 30px 0; 

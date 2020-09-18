@@ -17,32 +17,39 @@ const BlogPost: FunctionComponent<IBlogPostProps> = ({ children, details }) =>
       ogTitle={details.meta.title}
       ogImage={details.meta.ogImage}
     >
-      <article id="blog-post" className="row">
-        {children}
-        <div id="post-footer">
-          {/* <button id="toTop">&#8593;</button> */}
-          <div className="large-12 medium-12 small-12">
-            <SocialShare
-              pageUrl={details.excerpt.link}
-              ogImage={details.meta.ogImage}
-              title={details.meta.title}
-              description={details.excerpt.description}
-            />
-            <div className="large-6 medium-6 small-6 column text-right">
-              <Link href={details.nextPost.link}>
-                <a className="button small">{details.nextPost.cta}</a>
-              </Link>
+      <section>
+        <main className="row">
+          <article id="blog-post" className="large-12 column">
+            {children}
+            <div>
+              {/* <button id="toTop">&#8593;</button> */}
+              <div id="post-footer" className="large-12">
+                <div className="large-6 medium-6 small-6 column">
+                  <SocialShare
+                    pageUrl={details.excerpt.link}
+                    ogImage={details.meta.ogImage}
+                    title={details.meta.title}
+                    description={details.excerpt.description}
+                  />
+                </div>
+                <div className="large-6 medium-6 small-6 column text-right">
+                  <Link href={details.nextPost.link}>
+                    <a className="button small">{details.nextPost.cta}</a>
+                  </Link>
+                </div>
+              </div>
             </div>
-          </div>
-        </div>
-      </article>
+          </article>
+        </main>
+      </section>
     </Layout>
     <style jsx>{`
-      article {
-        margin-top: 30px;
-        padding-bottom: 60px;
+      section {
+        width: 100%;
+        background-color: #F3F3F3;
+        padding: 30px 0;
       }
-      #post-footer div {
+      #post-footer > div {
         padding: 0;
       }
     `}</style>
