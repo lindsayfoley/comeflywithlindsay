@@ -1,4 +1,4 @@
-@import '_colours.scss';
+@import "_colours.scss";
 
 * {
   box-sizing: border-box;
@@ -499,7 +499,7 @@ footer {
   .large-9 {
     width: 75%;
   }
-  
+
   .large-10 {
     width: 83.33333%;
   }
@@ -507,7 +507,7 @@ footer {
   .large-11 {
     width: 91.66667%;
   }
- 
+
   .large-12 {
     width: 100%;
   }
@@ -595,7 +595,16 @@ footer {
     margin: 1.25rem auto;
   }
 
+  .blogPost {
+    display: inline;
+
+    & + p {
+      margin-top: 0.75rem;
+    }
+  }
+
   #blog-post {
+    h1,
     h3 {
       display: inline;
       line-height: 2rem;
@@ -605,7 +614,7 @@ footer {
       }
     }
   }
-  
+
   footer {
     padding-bottom: 20px;
 
