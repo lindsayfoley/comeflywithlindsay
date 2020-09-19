@@ -34,7 +34,7 @@ const IndexPage: FunctionComponent = () => {
                   <a>Recent Holiday Guides</a>
                 </Link>
               </h2>
-              {posts.filter((post, index) => (index <= 2) && post).map(post =>
+              {posts.filter(post => post.module.details.excerpt.highlight).map(post =>
                 <PostPreview key={post.link} post={post} />
               )}
             </div>

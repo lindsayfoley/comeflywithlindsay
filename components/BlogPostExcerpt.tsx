@@ -13,6 +13,7 @@ interface IBlogPostExcerpt {
   alt: string;
   cta: string;
   link: string;
+  highlight?: boolean;
 }
 
 interface IRecommendedNextPost {
