@@ -75,6 +75,9 @@ const IndexPage: FunctionComponent = () => {
           margin-top: 30px;
           padding-bottom: 60px;
         }
+        #hero {
+          position: relative;
+        }
         h1 { 
           position: absolute; 
           left: 0; 
@@ -99,13 +102,13 @@ const IndexPage: FunctionComponent = () => {
             padding: 30px; 
           } 
           h1 { 
-            top: 310px; 
+            top: 90px; 
             font-size: 65px; 
           }
         }
         @media all and (max-width: 667px) {
           h1 { 
-            top: 153px; 
+            top: 20px; 
             font-size: 32px; 
             text-shadow: 0 0 black;
           }

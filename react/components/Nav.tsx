@@ -1,16 +1,28 @@
-import { FunctionComponent } from "react";
+import { FunctionComponent, useState } from "react";
+import classNames from "classNames";
 import Link from "next/link";
 
-const Nav: FunctionComponent = () => {
+interface INavState {
+  isNavVisible: boolean;
+}
+
+const Nav: FunctionComponent<INavState> = () => {
+
+  const [isNavVisible, setNavStatus] = useState<boolean>(false);
+
   return (
     <>
-      <div className="hamburger-container">
+      <div className="hamburger-container" onClick={() => setNavStatus(!isNavVisible)}>
         <div></div>
         <div></div>
         <div></div>
       </div>
       <div className="large-12 medium-12 column">
-        <nav className="menu-centered">
+        <nav
+          className={classNames('menu-centered', {
+            ['nav-open']: isNavVisible
+          })}
+        >
           <ul className="vertical medium-horizontal menu">
             <li>
               <Link href="/destinations">
@@ -67,26 +79,26 @@ const Nav: FunctionComponent = () => {
           nav {
             display: none;
          }
-          .hamburger-container {
-            position: absolute;
-            left: 0;
-            top: 10px;
-            width: 75px;
-            padding: 15px 0;
-            margin-top: 10px;
+        .menu-centered.nav-open {
+          display: block;
+        }
+        .hamburger-container {
+          position: absolute;
+          left: 0;
+          top: 10px;
+          width: 75px;
+          padding: 15px 0;
+          margin-top: 10px;
          }
-          .hamburger-container div {
-            width: 22px;
-            height: 4px;
-            background-color: black;
-            margin: 4px 0 4px 20px;
-            transition: 0.4s;
+        .hamburger-container div {
+          width: 22px;
+          height: 4px;
+          background-color: black;
+          margin: 4px 0 4px 20px;
+          transition: 0.4s;
          }
-          .hamburger-container div:first-of-type {
-            margin-top: 0;
-         }
-          .nav-open menu {
-            box-shadow: 0px 1px 7px rgba(0,0,0,0.1);
+        .hamburger-container div:first-of-type {
+          margin-top: 0;
          }
         }
       `}</style>
