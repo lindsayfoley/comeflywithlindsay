@@ -44,7 +44,8 @@ const SocialShare: FunctionComponent<ISocialShareProps> = ({
       </EmailShareButton>
       <style jsx>{`
         a {
-          vertical-align: bottom;
+          display: inline-block;
+          vertical-align: middle;
         }
       `}</style>
     </>

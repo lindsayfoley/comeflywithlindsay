@@ -186,6 +186,14 @@ figure {
   text-decoration: line-through;
 }
 
+#post-footer {
+  button {
+    margin: 0;
+    border-radius: 0;
+    display: inline-block;
+  }
+}
+
 footer {
   #social-icons a {
     margin: 30px 10px 0 0;
