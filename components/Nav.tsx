@@ -1,6 +1,6 @@
 import { FunctionComponent, useState } from "react";
 import Link from "next/link";
-var classNames = require('classnames');
+const classNames = require('classnames');
 
 const Nav: FunctionComponent = () => {
 
