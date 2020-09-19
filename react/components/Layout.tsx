@@ -38,6 +38,14 @@ const Layout: FunctionComponent<ILayoutProps> = ({
         <link rel="apple-touch-icon" sizes="144x144" href="icon.png" />
         <link href="//fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109147525-1" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'UA-109147525-1');`
+          }} />
       </Head>
       <Header />
       {children}
