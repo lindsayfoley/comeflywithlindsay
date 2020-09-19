@@ -239,6 +239,10 @@ footer {
     text-decoration: underline;
   }
 
+  ul li {
+    line-height: 1.75rem;
+  }
+
   figcaption {
     color: $darkestBrandColour;
   }
