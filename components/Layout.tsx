@@ -1,4 +1,5 @@
 import { FunctionComponent } from "react";
+import { FACEBOOK_APP_ID } from "../constants";
 import Head from "next/head";
 import Header from "./Header";
 import Footer from "./Footer";
@@ -26,6 +27,7 @@ const Layout: FunctionComponent<ILayoutProps> = ({
         <meta name="author" content="Lindsay Foley" />
         <meta name="Description" content={description} />
         <title>{pageTitle}</title>
+        <meta property="fb:app_id" content={FACEBOOK_APP_ID} />
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={description} />
         <meta property="og:image" content={ogImage} />
