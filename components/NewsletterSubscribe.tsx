@@ -5,7 +5,7 @@ interface INewsletterSubscribeState {
   emailAddress: string;
 }
 
-const NewsletterSubscribe: FunctionComponent<INewsletterSubscribeState> = () => {
+const NewsletterSubscribe: FunctionComponent = () => {
 
   const [email, setEmailAddress] = useState<INewsletterSubscribeState>({ emailAddress: '' });
 
