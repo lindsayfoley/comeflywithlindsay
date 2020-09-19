@@ -25,7 +25,7 @@ const BlogPost: FunctionComponent<IBlogPostProps> = ({ children, details }) =>
               <div id="post-footer" className="large-12">
                 <div className="large-6 medium-6 small-6 column">
                   <SocialShare
-                    pageUrl={details.excerpt.link}
+                    path={details.excerpt.link}
                     ogImage={details.meta.ogImage}
                     title={details.meta.title}
                     description={details.excerpt.description}

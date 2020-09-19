@@ -1,7 +1,6 @@
 import { FunctionComponent } from 'react';
-import { DOMAIN, BLOG_POST_SOCIAL_ICON_SIZE } from '../constants';
+import { DOMAIN, BLOG_POST_SOCIAL_ICON_SIZE, FACEBOOK_APP_ID } from '../constants';
 import {
-  FacebookShareButton,
   FacebookIcon,
   PinterestShareButton,
   PinterestIcon,
@@ -12,31 +11,44 @@ import {
 } from 'react-share';
 
 export interface ISocialShareProps {
-  pageUrl: string;
+  path: string;
   ogImage: string;
   title: string;
   description: string;
 }
 
 const SocialShare: FunctionComponent<ISocialShareProps> = ({
-  pageUrl,
+  path,
   ogImage,
   title,
   description
-}) =>
-  <>
-    <FacebookShareButton url={`${DOMAIN}${pageUrl}`}>
-      <FacebookIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
-    </FacebookShareButton>
-    <PinterestShareButton url={`${DOMAIN}${pageUrl}`} media={`${DOMAIN}${ogImage}`}>
-      <PinterestIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
-    </PinterestShareButton>
-    <WhatsappShareButton url={`${DOMAIN}${pageUrl}`} title={title}>
-      <WhatsappIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
-    </WhatsappShareButton>
-    <EmailShareButton url={`${DOMAIN}${pageUrl}`} subject={title} body={description}>
-      <EmailIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
-    </EmailShareButton>
-  </>
+}) => {
+
+  const url = `${DOMAIN}${path}`;
+
+  return (
+    <>
+      <a
+        target="_blank"
+        href={`//www.facebook.com/dialog/share?app_id=${FACEBOOK_APP_ID}&display=popup&href=${url}`}>
+        <FacebookIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
+      </a>
+      <PinterestShareButton url={url} media={`${DOMAIN}${ogImage}`}>
+        <PinterestIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
+      </PinterestShareButton>
+      <WhatsappShareButton url={url} title={title}>
+        <WhatsappIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
+      </WhatsappShareButton>
+      <EmailShareButton url={url} subject={title} body={description}>
+        <EmailIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
+      </EmailShareButton>
+      <style jsx>{`
+        a {
+          vertical-align: bottom;
+        }
+      `}</style>
+    </>
+  )
+}
 
 export default SocialShare;
