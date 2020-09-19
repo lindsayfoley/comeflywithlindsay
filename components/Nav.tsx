@@ -2,11 +2,7 @@ import { FunctionComponent, useState } from "react";
 import classNames from "classNames";
 import Link from "next/link";
 
-interface INavState {
-  isNavVisible: boolean;
-}
-
-const Nav: FunctionComponent<INavState> = () => {
+const Nav: FunctionComponent = () => {
 
   const [isNavVisible, setNavStatus] = useState<boolean>(false);
 
