@@ -142,8 +142,12 @@ button {
   line-height: 1;
   text-align: center;
   cursor: pointer;
-  background-color: $mainBrandColour;
+  background-color: $lighterBrandColour;
   color: $lighestTextColour;
+
+    &:hover {
+      background-color: $darkestBrandColour;
+    }
 }
 
 hr {
@@ -237,6 +241,13 @@ footer {
 
   a:not(.button) {
     text-decoration: underline;
+  }
+
+  a[name] {
+    display: block;
+    position: relative;
+    top: -60px;
+    visibility: hidden;
   }
 
   ul li {

@@ -107,11 +107,14 @@ const IndexPage: FunctionComponent = () => {
           }
         }
         @media all and (max-width: 667px) {
-          h1 { 
-            top: 20px; 
-            font-size: 32px; 
-            text-shadow: 0 0 black;
-          }
+        h1 { 
+          top: 40px; 
+          font-size: 32px; 
+          text-shadow: 0 0 black;
+        }
+        #purpose h2 {
+          padding: 0 35px;
+        }
          h2::before,
          h2::after {
           display: none;
@@ -119,7 +122,7 @@ const IndexPage: FunctionComponent = () => {
           #hero {
             background: url("/images/homepage/snowy-mountains-trees-banff-canada.jpg") no-repeat;
             background-size: cover;
-            min-height: 180px;
+            min-height: 250px;
          }
           #purpose {
             padding: 30px 15px;

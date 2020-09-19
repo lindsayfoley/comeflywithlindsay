@@ -25,11 +25,16 @@ const Destinations = () => {
       </Layout>
       <style jsx>{`
         section {
-          margin-top: 30px;
-          padding-bottom: 60px;
+          background-color: #F3F3F3;
+          padding: 30px 0 60px;
         }
         p:last-of-type {
           margin-bottom: 0;
+        }
+        @media all and (max-width: 667px) {
+          h1 {
+            padding: 0 30px;
+          }
         }
       `}</style>
     </>
