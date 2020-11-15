@@ -154,6 +154,9 @@ hr {
   max-width: 62.5rem;
   margin: 1.75rem auto;
   border-top: 1px solid $fadedAccentColour;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
   clear: both;
 }
 
