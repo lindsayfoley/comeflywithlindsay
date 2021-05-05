@@ -73,10 +73,13 @@ const Nav: FunctionComponent = () => {
         }
         @media all and (max-width: 667px) {
           nav {
-            display: none;
+            height: 0;
+            opacity: 0;
+            transition: all 0.5s linear;
          }
         .menu-centered.nav-open {
-          display: block;
+          height: 140px;
+          opacity: 1;
         }
         .hamburger-container {
           position: absolute;

@@ -24,7 +24,7 @@ const SocialShare: FunctionComponent<ISocialShareProps> = ({
   description
 }) => {
 
-  const url = `${DOMAIN}${path}`;
+  const url = `${DOMAIN}/${path}`;
 
   return (
     <>
