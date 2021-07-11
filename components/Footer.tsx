@@ -1,5 +1,5 @@
 import { FC } from "react";
-import { EMAIL_ADDRESS } from "../constants";
+import { PORTFOLIO_SITE } from "../constants";
 import ContactIcons from "./ContactIcons";
 import NewsletterSubscribe from "./NewsletterSubscribe";
 
@@ -14,7 +14,7 @@ const Footer: FC = () => (
             <NewsletterSubscribe />
           </div>
           <div className="large-3 medium-3 small-12 column text-right">
-            <a target="_blank" href={EMAIL_ADDRESS}>&copy; Lindsay Foley</a>
+            <a target="_blank" href={PORTFOLIO_SITE}>&copy; Lindsay Foley</a>
           </div>
         </div>
       </footer>
