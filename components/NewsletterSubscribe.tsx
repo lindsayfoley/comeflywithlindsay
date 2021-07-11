@@ -1,12 +1,11 @@
-import { FunctionComponent, useState } from "react";
+import { FC, useState } from "react";
 import { NEWSLETTER_SUBSCRIBE_URL } from "../constants";
 
 interface INewsletterSubscribeState {
   emailAddress: string;
 }
 
-const NewsletterSubscribe: FunctionComponent = () => {
-
+const NewsletterSubscribe: FC = () => {
   const [email, setEmailAddress] = useState<INewsletterSubscribeState>({ emailAddress: '' });
 
   return (

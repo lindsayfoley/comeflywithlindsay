@@ -1,14 +1,13 @@
-import { FunctionComponent, useState } from "react";
+import { FC, useState } from "react";
 import Link from "next/link";
 const classNames = require('classnames');
 
-const Nav: FunctionComponent = () => {
-
-  const [isNavVisible, setNavStatus] = useState<boolean>(false);
+const Nav: FC = () => {
+  const [navIsVisible, setNavStatus] = useState<boolean>(false);
 
   return (
     <>
-      <div className="hamburger-container" onClick={() => setNavStatus(!isNavVisible)}>
+      <div className="hamburger-container" onClick={() => setNavStatus(!navIsVisible)}>
         <div></div>
         <div></div>
         <div></div>
@@ -16,7 +15,7 @@ const Nav: FunctionComponent = () => {
       <div className="large-12 medium-12 column">
         <nav
           className={classNames('menu-centered', {
-            ['nav-open']: isNavVisible
+            ['nav-open']: navIsVisible
           })}
         >
           <ul className="vertical medium-horizontal menu">
@@ -75,11 +74,13 @@ const Nav: FunctionComponent = () => {
           nav {
             height: 0;
             opacity: 0;
-            transition: all 0.5s linear;
+            transition: all 0.2s linear;
+            padding-top: 0;
          }
         .menu-centered.nav-open {
           height: 140px;
           opacity: 1;
+          padding-top: 20px;
         }
         .hamburger-container {
           position: absolute;

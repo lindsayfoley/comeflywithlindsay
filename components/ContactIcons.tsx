@@ -1,4 +1,4 @@
-import { FunctionComponent } from 'react';
+import { FC } from 'react';
 import {
   FOOTER_SOCIAL_ICON_SIZE,
   COME_FLY_WITH_LINDSAY_INSTAGRAM,
@@ -17,7 +17,7 @@ const iconUrls = [
   EMAIL_ADDRESS
 ];
 
-const ContactIcons: FunctionComponent = () =>
+const ContactIcons: FC = () =>
   <>
     {iconUrls.map(url =>
       <SocialIcon

@@ -1,10 +1,9 @@
-import { FunctionComponent } from "react";
+import { FC } from "react";
 import { EMAIL_ADDRESS } from "../constants";
 import ContactIcons from "./ContactIcons";
 import NewsletterSubscribe from "./NewsletterSubscribe";
 
-const Footer: FunctionComponent = () => {
-  return (
+const Footer: FC = () => (
     <>
       <footer>
         <div className="row">
@@ -40,6 +39,6 @@ const Footer: FunctionComponent = () => {
       `}</style>
     </>
   )
-}
+
 
 export default Footer;

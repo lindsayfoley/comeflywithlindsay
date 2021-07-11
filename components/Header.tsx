@@ -1,8 +1,8 @@
 import Nav from "./Nav";
 import Link from "next/link";
+import { FC } from "react";
 
-export default function Header() {
-  return (
+const Header: FC = () =>  (
     <>
       <header>
         <menu className="top-bar">
@@ -43,7 +43,7 @@ export default function Header() {
         }
         @media all and (max-width: 667px) {
           header {
-            border-top: 5px solid #262626;
+            border-top: 6px solid #262626;
          }
           #logo {
              max-width: 100px;
@@ -52,4 +52,6 @@ export default function Header() {
       `}</style>
     </>
   );
-}
+
+
+export default Header;

@@ -1,4 +1,4 @@
-import { FunctionComponent } from "react";
+import { FC } from "react";
 import { FACEBOOK_APP_ID } from "../constants";
 import Head from "next/head";
 import Header from "./Header";
@@ -12,14 +12,12 @@ interface ILayoutProps {
   ogImage?: string;
 }
 
-const Layout: FunctionComponent<ILayoutProps> = ({
+const Layout: FC<ILayoutProps> = ({
   children,
   pageTitle,
   description,
   ogImage
-}) => {
-
-  return (
+}) => (
     <>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -54,6 +52,5 @@ const Layout: FunctionComponent<ILayoutProps> = ({
       <Footer />
     </>
   );
-}
 
 export default Layout;

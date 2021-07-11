@@ -1,4 +1,4 @@
-import { FunctionComponent } from 'react';
+import { FC } from 'react';
 import Layout from './Layout';
 import Link from 'next/link';
 import { IBlogPostDetails } from './BlogPostExcerpt';
@@ -9,7 +9,7 @@ export interface IBlogPostProps {
   details: IBlogPostDetails;
 }
 
-const BlogPost: FunctionComponent<IBlogPostProps> = ({ children, details }) =>
+const BlogPost: FC<IBlogPostProps> = ({ children, details }) =>
   <>
     <Layout
       pageTitle={details.meta.title}
@@ -23,7 +23,7 @@ const BlogPost: FunctionComponent<IBlogPostProps> = ({ children, details }) =>
             {children}
             <div>
               <div id="post-footer" className="large-12">
-                <div className="large-6 medium-6 small-6 column">
+                <div className="large-6 medium-6 small-12 column">
                   <SocialShare
                     path={details.excerpt.link}
                     ogImage={details.meta.ogImage}
@@ -31,7 +31,7 @@ const BlogPost: FunctionComponent<IBlogPostProps> = ({ children, details }) =>
                     description={details.excerpt.description}
                   />
                 </div>
-                <div className="large-6 medium-6 small-6 column text-right">
+                <div className="large-6 medium-6 small-12 column text-right">
                   <Link href={details.nextPost.link}>
                     <a className="button small">{details.nextPost.cta}</a>
                   </Link>

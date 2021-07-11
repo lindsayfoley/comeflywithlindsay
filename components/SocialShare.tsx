@@ -1,4 +1,4 @@
-import { FunctionComponent } from 'react';
+import { FC } from 'react';
 import { DOMAIN, BLOG_POST_SOCIAL_ICON_SIZE, FACEBOOK_APP_ID } from '../constants';
 import {
   FacebookIcon,
@@ -17,7 +17,7 @@ export interface ISocialShareProps {
   description: string;
 }
 
-const SocialShare: FunctionComponent<ISocialShareProps> = ({
+const SocialShare: FC<ISocialShareProps> = ({
   path,
   ogImage,
   title,
@@ -27,7 +27,7 @@ const SocialShare: FunctionComponent<ISocialShareProps> = ({
   const url = `${DOMAIN}/${path}`;
 
   return (
-    <>
+    <aside id="share-icons">
       <a
         target="_blank"
         href={`//www.facebook.com/dialog/share?app_id=${FACEBOOK_APP_ID}&display=popup&href=${url}`}>
@@ -43,12 +43,16 @@ const SocialShare: FunctionComponent<ISocialShareProps> = ({
         <EmailIcon size={BLOG_POST_SOCIAL_ICON_SIZE} />
       </EmailShareButton>
       <style jsx>{`
-        a {
-          display: inline-block;
-          vertical-align: middle;
+        #share-icons {
+          display: flex;
+        }
+        @media screen and (max-width: 23.438rem) {
+          #share-icons {
+            justify-content: center;
+          }
         }
       `}</style>
-    </>
+    </aside>
   )
 }
 

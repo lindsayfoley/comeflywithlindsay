@@ -1,4 +1,4 @@
-import { FunctionComponent } from 'react';
+import { FC } from 'react';
 import Link from 'next/link';
 
 interface IBlogPostMeta {
@@ -31,7 +31,7 @@ interface IBlogPostExcerptProps {
   details: IBlogPostDetails;
 }
 
-const BlogPostExcerpt: FunctionComponent<IBlogPostExcerptProps> = ({
+const BlogPostExcerpt: FC<IBlogPostExcerptProps> = ({
   details: { meta, excerpt },
 }) => (
     <>

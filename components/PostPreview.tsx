@@ -1,8 +1,6 @@
-import { FunctionComponent } from 'react'
-import Link from 'next/link'
+import { FC } from 'react'
 import BlogPostExcerpt, { IBlogPostDetails } from './BlogPostExcerpt'
 import { IBlogPostProps } from './BlogPost';
-
 interface IPostDetails extends IBlogPostProps {
   details: IBlogPostDetails;
 }
@@ -16,8 +14,8 @@ interface IPostPreviewProps {
   post: IPostProps;
 }
 
-export const PostPreview: FunctionComponent<IPostPreviewProps> = ({ post }) => {
-  const { link, module: { details } } = post
+export const PostPreview: FC<IPostPreviewProps> = ({ post }) => {
+  const { module: { details } } = post
 
   return (
     <>
