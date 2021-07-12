@@ -26,9 +26,9 @@ ErrorDocument 404 /page-not-found
 ExpiresActive On
 
 # Expires after 2 weeks
-<filesMatch ".(png|jpg|ico|css|js|htm|html|txt)$">
+# <filesMatch ".(png|jpg|ico|css|js|htm|html|txt)$">
   Header set Cache-Control "max-age=1209600, public"
-</filesMatch>
+# </filesMatch>
 # </ifModule>
 
 # Security Headers
