@@ -22,17 +22,17 @@ Redirect 301 /york /holiday-guides/york
 
 ErrorDocument 404 /page-not-found
 
-<ifModule mod_headers.c>
+# <ifModule mod_headers.c>
 ExpiresActive On
 
 # Expires after 2 weeks
 <filesMatch ".(png|jpg|ico|css|js|htm|html|txt)$">
   Header set Cache-Control "max-age=1209600, public"
 </filesMatch>
-</ifModule>
+# </ifModule>
 
 # Security Headers
-<IfModule mod_headers.c>
+# <IfModule mod_headers.c>
 	Header set X-XSS-Protection "1; mode=block"
 	Header set X-Frame-Options "SAMEORIGIN"
 	Header set X-Content-Type-Options "nosniff"
@@ -40,7 +40,7 @@ ExpiresActive On
 	# Header set Content-Security-Policy ...
 	Header set Referrer-Policy "same-origin"
 	Header set Feature-Policy "geolocation 'self'; vibrate 'none'"
-</IfModule>
+# </IfModule>
 
 # GZIP compression for text files: HTML, CSS, JS, Text, XML, fonts
 <IfModule mod_deflate.c>
