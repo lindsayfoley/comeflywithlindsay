@@ -5,8 +5,8 @@ RewriteRule ^([^\.]+)$ $1.php [NC,L]
 Options +FollowSymLinks
 RewriteEngine on
 
-<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
-  Header set Cache-Control "max-age=2592000, public"
+<FilesMatch "\.(ico|jpg|png|js|css|html)$">
+  Header set Cache-Control "max-age=86400, must-revalidate"
 </FilesMatch>
 
 Redirect 301 /banff /holiday-guides/banff
