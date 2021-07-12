@@ -24,9 +24,10 @@ ErrorDocument 404 /page-not-found
 
 <ifModule mod_headers.c>
 ExpiresActive On
+
 # Expires after 2 weeks
-<filesMatch ".(png|jpg|ico|css|js|htm|html|txt|php)$">
-Header set Cache-Control "max-age=1209600"
+<filesMatch ".(png|jpg|ico|css|js|htm|html|txt)$">
+  Header set Cache-Control "max-age=1209600, public"
 </filesMatch>
 </ifModule>
 
