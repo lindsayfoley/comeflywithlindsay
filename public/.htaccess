@@ -19,23 +19,6 @@ Redirect 301 /york /holiday-guides/york
 
 ErrorDocument 404 /page-not-found
 
-Redirect 301 /banff /holiday-guides/banff
-Redirect 301 /whistler /holiday-guides/whistler
-Redirect 301 /vancouver /holiday-guides/vancouver
-Redirect 301 /calgary /holiday-guides/calgary
-Redirect 301 /afternoon-tea /holiday-guides/afternoon-tea-london
-Redirect 301 /carvoeiro /holiday-guides/carvoeiro
-Redirect 301 /paris /holiday-guides/paris
-Redirect 301 /cotswolds /holiday-guides/cotswolds
-Redirect 301 /cornwall /holiday-guides/cornwall
-Redirect 301 /las-vegas /holiday-guides/las-vegas
-Redirect 301 /croatia /holiday-guides/croatia
-Redirect 301 /new-forest /holiday-guides/new-forest
-Redirect 301 /painshill-park /holiday-guides/painshill-park
-Redirect 301 /york /holiday-guides/york
-
-ErrorDocument 404 /page-not-found
-
 <ifModule mod_headers.c>
 # Expires after 2 weeks
 <filesMatch ".(png|jpg|ico|css|js|htm|html|txt)$">
