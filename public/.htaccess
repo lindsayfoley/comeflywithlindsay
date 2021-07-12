@@ -5,6 +5,10 @@ RewriteRule ^([^\.]+)$ $1.php [NC,L]
 Options +FollowSymLinks
 RewriteEngine on
 
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+  Header set Cache-Control "max-age=2592000, public"
+</FilesMatch>
+
 Redirect 301 /banff /holiday-guides/banff
 Redirect 301 /whistler /holiday-guides/whistler
 Redirect 301 /vancouver /holiday-guides/vancouver
@@ -19,10 +23,5 @@ Redirect 301 /croatia /holiday-guides/croatia
 Redirect 301 /new-forest /holiday-guides/new-forest
 Redirect 301 /painshill-park /holiday-guides/painshill-park
 Redirect 301 /york /holiday-guides/york
-
-Redirect 301 /how-to-make-your-blog-more-successful /articles/how-to-make-your-blog-more-successful
-Redirect 301 /how-to-be-successful-on-instagram /articles/how-to-be-successful-on-instagram
-Redirect 301 /how-to-run-an-instagram-competition /articles/how-to-run-an-instagram-competition
-Redirect 301 /how-to-get-thousands-of-pinterest-viewers /articles/how-to-get-thousands-of-pinterest-viewers
 
 ErrorDocument 404 /page-not-found
