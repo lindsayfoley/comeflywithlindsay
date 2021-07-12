@@ -5,10 +5,6 @@ RewriteRule ^([^\.]+)$ $1.php [NC,L]
 Options +FollowSymLinks
 RewriteEngine on
 
-<FilesMatch "\.(ico|jpg|png|js|css|html)$">
-  Header set Cache-Control "max-age=86400, must-revalidate"
-</FilesMatch>
-
 Redirect 301 /banff /holiday-guides/banff
 Redirect 301 /whistler /holiday-guides/whistler
 Redirect 301 /vancouver /holiday-guides/vancouver
@@ -25,3 +21,18 @@ Redirect 301 /painshill-park /holiday-guides/painshill-park
 Redirect 301 /york /holiday-guides/york
 
 ErrorDocument 404 /page-not-found
+
+<FilesMatch "\.(ico|jpg|png|js|css|html|php)$">
+  Header set Cache-Control "max-age=86400, must-revalidate"
+</FilesMatch>
+
+# BEGIN GZIP
+<ifmodule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript
+</ifmodule>
+# END GZIP
+
+# Use HTTP Strict Transport Security to force client to use secure connections only
+<ifmodule mod_headers.c>
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" env=HTTPS
+</ifmodule>
