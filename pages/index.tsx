@@ -127,7 +127,7 @@ const IndexPage: FunctionComponent = () => {
         @media all and (max-width: 667px) {
           h1 {
             top: 40px;
-            font-size: 32px;
+            font-size: 30px;
             text-shadow: 0 0 black;
           }
           #purpose h2 {
