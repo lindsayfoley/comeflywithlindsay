@@ -8,21 +8,36 @@ const IndexPage: FunctionComponent = () => {
   return (
     <>
       <Layout
-        pageTitle="Welcome to my Travel Blog | Come Fly With Lindsay"
-        description="I have been documenting my travel adventures to give you an insight into the destinations I visit, covering where to stay, where to eat and what to see."
+        pageTitle="Inspiring Travel Adventures Around the World | Come Fly with Lindsay"
+        description="Join me on my travel adventures as I share insights into incredible destinations, from top places to stay and eat to famed attractions. Let’s explore together"
         ogTitle="Welcome to my Travel Blog"
         ogImage="/images/vancouver/cycling-around-stanley-park-in-vancouver.jpg"
       >
         <section>
           <div id="hero">
             <Link href="/destinations">
-              <a><h1>Travel Inspiration &amp; Guides</h1></a>
+              <a>
+                <h1>Travel Inspiration &amp; Guides</h1>
+              </a>
             </Link>
           </div>
           <div id="purpose" className="text-center">
             <h2>Travelling The Globe One Step At A Time</h2>
-            <p>With so many spectacular places to visit, I find the web inundated with travel advice websites, resources, reviews, etc. that can make the whole planning/booking process really stressful - especially with the fear of not picking the prime location or the right hotel!</p>
-            <p>I decided to document my travels to give you an honest insight into where to go on holiday, advising on the good, the bad and the ugly. Let me be your travel <span className="crossed-out">guinea pig</span> guru and I'll tell you where I think is best to stay, what to see and what activities I recommend doing.</p>
+            <p>
+              With so many spectacular places to visit, I find the web inundated
+              with travel advice websites, resources, reviews, etc. that can
+              make the whole planning/booking process really stressful -
+              especially with the fear of not picking the prime location or the
+              right hotel!
+            </p>
+            <p>
+              I decided to document my travels to give you an honest insight
+              into where to go on holiday, advising on the good, the bad and the
+              ugly. Let me be your travel{" "}
+              <span className="crossed-out">guinea pig</span> guru and I'll tell
+              you where I think is best to stay, what to see and what activities
+              I recommend doing.
+            </p>
             <Link href="/destinations">
               <a className="button small">View All Holiday Guides</a>
             </Link>
@@ -34,16 +49,18 @@ const IndexPage: FunctionComponent = () => {
                   <a>Recent Holiday Guides</a>
                 </Link>
               </h2>
-              {posts.filter(post => post.module.details.excerpt.highlight).map(post =>
-                <PostPreview key={post.link} post={post} />
-              )}
+              {posts
+                .filter((post) => post.module.details.excerpt.highlight)
+                .map((post) => (
+                  <PostPreview key={post.link} post={post} />
+                ))}
             </div>
           </main>
         </section>
       </Layout>
       <style jsx>{`
         section {
-          background-color: #F3F3F3;
+          background-color: #f3f3f3;
         }
         #purpose {
           background: white;
@@ -55,7 +72,7 @@ const IndexPage: FunctionComponent = () => {
         }
         #purpose > h2:before,
         #purpose > h2:after {
-          content: '—';
+          content: "—";
           padding: 0 5px;
         }
         #purpose p:last-of-type {
@@ -78,59 +95,61 @@ const IndexPage: FunctionComponent = () => {
         #hero {
           position: relative;
         }
-        h1 { 
-          position: absolute; 
-          left: 0; 
-          font-family: 'Satisfy', cursive; 
-          text-align: center; 
-          width: 100%; 
-          color: white; 
-          text-decoration: none; 
+        h1 {
+          position: absolute;
+          left: 0;
+          font-family: "Satisfy", cursive;
+          text-align: center;
+          width: 100%;
+          color: white;
+          text-decoration: none;
         }
         h2 {
           margin-bottom: 20px;
           border-bottom: 0;
         }
         @media all and (min-width: 668px) {
-          #hero { 
-            background:url("/images/homepage/snowy-mountains-trees-banff-canada.jpg") no-repeat;
-            background-position: center; 
-            background-size: cover; 
-            padding: 320px 0; 
+          #hero {
+            background: url("/images/homepage/snowy-mountains-trees-banff-canada.jpg")
+              no-repeat;
+            background-position: center;
+            background-size: cover;
+            padding: 320px 0;
           }
-          #purpose { 
-            padding: 30px; 
-          } 
-          h1 { 
-            top: 90px; 
-            font-size: 65px; 
+          #purpose {
+            padding: 30px;
+          }
+          h1 {
+            top: 90px;
+            font-size: 65px;
           }
         }
         @media all and (max-width: 667px) {
-        h1 { 
-          top: 40px; 
-          font-size: 32px; 
-          text-shadow: 0 0 black;
-        }
-        #purpose h2 {
-          padding: 0 35px;
-        }
-         h2::before,
-         h2::after {
-          display: none;
-         }
+          h1 {
+            top: 40px;
+            font-size: 32px;
+            text-shadow: 0 0 black;
+          }
+          #purpose h2 {
+            padding: 0 35px;
+          }
+          h2::before,
+          h2::after {
+            display: none;
+          }
           #hero {
-            background: url("/images/homepage/snowy-mountains-trees-banff-canada.jpg") no-repeat;
+            background: url("/images/homepage/snowy-mountains-trees-banff-canada.jpg")
+              no-repeat;
             background-size: cover;
             min-height: 250px;
-         }
+          }
           #purpose {
             padding: 30px 15px;
-         }
-        }     
+          }
+        }
       `}</style>
     </>
   );
-}
+};
 
 export default IndexPage;

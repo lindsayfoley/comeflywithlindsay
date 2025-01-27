@@ -2,9 +2,10 @@ import BlogPost from "../../../components/BlogPost";
 
 export const details = {
   meta: {
-    title: "A First-timers Guide to York in England",
+    title: "Discover York | Holiday Guides by Come Fly with Lindsay",
+    heading: "A First-timers Guide to York in England",
     description:
-      "York is a quaint English city encased by medieval walls with a gothic cathedral adorning the centre. It has an abundance of historical sights for you to uncover",
+      "Discover York, a charming English city with medieval walls, stunning Gothic cathedral and historic sights. Plan your visit with tips from Come Fly with Lindsay",
     ogImage: "/images/london/traditional-afternoon-tea-fortnum-and-mason.jpg",
   },
   excerpt: {
@@ -14,7 +15,7 @@ export const details = {
     alt: "Picturesque cobbled lanes in York, England",
     cta: "My Guide to York",
     link: "york",
-    highlight: true
+    highlight: true,
   },
   nextPost: {
     link: "cotswolds",
@@ -22,7 +23,9 @@ export const details = {
   },
 };
 
-export default ({ children }) => <BlogPost details={details}>{children}</BlogPost>;
+export default ({ children }) => (
+  <BlogPost details={details}>{children}</BlogPost>
+);
 
 # A First-timers Guide to York in England
 

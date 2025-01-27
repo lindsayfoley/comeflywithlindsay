@@ -2,11 +2,11 @@ import { FunctionComponent } from "react";
 import Link from "next/link";
 import Layout from "../components/Layout";
 
-const ErrorPage: FunctionComponent = () =>
+const ErrorPage: FunctionComponent = () => (
   <>
     <Layout
-      pageTitle="Page not found | Come Fly With Lindsay"
-      description="I have been documenting my travel adventures to give you an insight into the destinations I visit, covering where to stay, where to eat and what to see."
+      pageTitle="Page Not Found | Come Fly With Lindsay"
+      description="Sorry, the page you're looking for isn't here. Explore travel guides, tips, and inspiration to plan your next adventure with Come Fly with Lindsay"
       ogTitle="Page not found on Come Fly With Lindsay"
       ogImage="/images/me-at-rainbow-falls-in-whistler-canada.jpg"
     >
@@ -42,10 +42,11 @@ const ErrorPage: FunctionComponent = () =>
     </Layout>
     <style jsx>{`
       section {
-        background-color: #F3F3F3;
+        background-color: #f3f3f3;
         padding: 40px 0 60px 0;
       }
     `}</style>
   </>
+);
 
 export default ErrorPage;

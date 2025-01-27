@@ -2,24 +2,29 @@ import BlogPost from "../../../components/BlogPost";
 
 export const details = {
   meta: {
-    title: "The Essential Guide to Afternoon Tea in London",
-    description: "A guide to my top traditional afternoon tea venues in London, England with tea reviews of Fortnum and Mason, The Ritz & more, written by Come Fly With Lindsay.",
-    ogImage: "/images/london/traditional-afternoon-tea-fortnum-and-mason.jpg"
+    title: "Afternoon Tea in London | Holiday Guides by Come Fly with Lindsay",
+    heading: "The Essential Guide to Afternoon Tea in London",
+    description:
+      "Discover the best traditional afternoon tea venues in London, including reviews of Fortnum & Mason, The Ritz, and more. Explore with Come Fly with Lindsay",
+    ogImage: "/images/london/traditional-afternoon-tea-fortnum-and-mason.jpg",
   },
   excerpt: {
-    description: "With so many places to choose from including top hotels, tea rooms, upmarket department stores and even museums! Afternoon tea in London can be found almost anywhere - so here are a few of my top picks which have been vigorously tried and tested (of course!) to help narrow things down.",
+    description:
+      "With so many places to choose from including top hotels, tea rooms, upmarket department stores and even museums! Afternoon tea in London can be found almost anywhere - so here are a few of my top picks which have been vigorously tried and tested (of course!) to help narrow things down.",
     image: "/images/homepage/afternoon-tea-london.jpg",
     alt: "Afternoon tea at Fortnum and Mason in London, England",
     cta: "London Afternoon Tea Guide",
-    link: "afternoon-tea-london"
+    link: "afternoon-tea-london",
   },
   nextPost: {
     link: "/destinations",
-    cta: "View All Holiday Guides"
-  }
+    cta: "View All Holiday Guides",
+  },
 };
 
-export default ({ children }) => <BlogPost details={details}>{children}</BlogPost>;
+export default ({ children }) => (
+  <BlogPost details={details}>{children}</BlogPost>
+);
 
 # The Essential Guide to Afternoon Tea in London
 

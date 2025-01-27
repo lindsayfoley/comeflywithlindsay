@@ -1,8 +1,9 @@
-import { FC } from 'react';
-import Link from 'next/link';
+import { FC } from "react";
+import Link from "next/link";
 
 interface IBlogPostMeta {
   title: string;
+  heading: string;
   description: string;
   ogImage: string;
 }
@@ -34,27 +35,27 @@ interface IBlogPostExcerptProps {
 const BlogPostExcerpt: FC<IBlogPostExcerptProps> = ({
   details: { meta, excerpt },
 }) => (
-    <>
-      <div className="large-6 column">
-        <Link href={'/holiday-guides/' + excerpt.link}>
-          <a>
-            <img src={excerpt.image} alt={excerpt.alt} />
-          </a>
+  <>
+    <div className="large-6 column">
+      <Link href={"/holiday-guides/" + excerpt.link}>
+        <a>
+          <img src={excerpt.image} alt={excerpt.alt} />
+        </a>
+      </Link>
+    </div>
+    <div className="large-6 column">
+      <h2 className="blogPost">
+        <Link href={"/holiday-guides/" + excerpt.link}>
+          <a>{meta.heading}</a>
         </Link>
-      </div>
-      <div className="large-6 column">
-        <h2 className="blogPost">
-          <Link href={'/holiday-guides/' + excerpt.link}>
-            <a>{meta.title}</a>
-          </Link>
-        </h2>
-        <p>{excerpt.description}</p>
-        <Link href={'/holiday-guides/' + excerpt.link}>
-          <a className="button small">{excerpt.cta}</a>
-        </Link>
-      </div>
-      <style jsx>
-        {`
+      </h2>
+      <p>{excerpt.description}</p>
+      <Link href={"/holiday-guides/" + excerpt.link}>
+        <a className="button small">{excerpt.cta}</a>
+      </Link>
+    </div>
+    <style jsx>
+      {`
         p + .button {
           margin-top: 14px;
         }
@@ -74,8 +75,8 @@ const BlogPostExcerpt: FC<IBlogPostExcerptProps> = ({
           }
         }
       `}
-      </style>
-    </>
-  );
+    </style>
+  </>
+);
 
 export default BlogPostExcerpt;

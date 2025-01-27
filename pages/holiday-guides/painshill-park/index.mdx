@@ -2,9 +2,10 @@ import BlogPost from "../../../components/BlogPost";
 
 export const details = {
   meta: {
-    title: "5 Exciting Reasons to Visit Painshill Park, Surrey",
+    title: "Discover Painshill Park | Holiday Guides by Come Fly with Lindsay",
+    heading: "5 Exciting Reasons to Visit Painshill Park, Surrey",
     description:
-      "With its crystal grotto, Gothic Temple and winding path of artistic sights to discover, you'll wonder why you didn't visit Painshill Park in Surrey sooner!",
+      "Discover the crystal grotto, Gothic Temple, and artistic landscapes of Painshill Park in Surrey. A must-visit destination you'll wish you'd explored sooner!",
     ogImage:
       "/images/painshill-park/inside-gothic-temple-painshill-park-surrey.jpg",
   },
@@ -15,7 +16,7 @@ export const details = {
     alt: "The stunning Gothic Temple at Painshill Park, England",
     cta: "A Day at Painshill Park",
     link: "painshill-park",
-    highlight: true
+    highlight: true,
   },
   nextPost: {
     link: "new-forest",
@@ -23,7 +24,9 @@ export const details = {
   },
 };
 
-export default ({ children }) => <BlogPost details={details}>{children}</BlogPost>;
+export default ({ children }) => (
+  <BlogPost details={details}>{children}</BlogPost>
+);
 
 # 5 Exciting Reasons to Visit Painshill Park Surrey
 
