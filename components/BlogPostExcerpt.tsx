@@ -39,7 +39,7 @@ const BlogPostExcerpt: FC<IBlogPostExcerptProps> = ({
     <div className="large-6 column">
       <Link href={"/holiday-guides/" + excerpt.link}>
         <a>
-          <img src={excerpt.image} alt={excerpt.alt} />
+          <img loading="lazy" src={excerpt.image} alt={excerpt.alt} />
         </a>
       </Link>
     </div>
