@@ -59,6 +59,10 @@ const Layout: FC<ILayoutProps> = ({
               gtag('config', 'UA-109147525-1');`,
         }}
       />
+      <script
+        async
+        src="https://tp.media/content?trs=384618&shmarker=602490&locale=en&sustainable=false&deals=false&border_radius=5&plain=false&powered_by=true&promo_id=2693&campaign_id=84"
+      />
     </Head>
     <Header />
     {children}
