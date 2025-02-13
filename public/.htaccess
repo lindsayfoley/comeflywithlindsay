@@ -16,6 +16,7 @@ Redirect 301 /croatia /holiday-guides/croatia
 Redirect 301 /new-forest /holiday-guides/new-forest
 Redirect 301 /painshill-park /holiday-guides/painshill-park
 Redirect 301 /york /holiday-guides/york
+Redirect 301 /seville /holiday-guides/seville
 
 ErrorDocument 404 /page-not-found
 
