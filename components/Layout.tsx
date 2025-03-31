@@ -3,7 +3,7 @@ import Head from "next/head";
 import { useRouter } from "next/dist/client/router";
 import Header from "./Header";
 import Footer from "./Footer";
-import { FACEBOOK_APP_ID } from "../constants";
+import { DOMAIN, FACEBOOK_APP_ID } from "../constants";
 
 interface ILayoutProps {
   children: Object;
@@ -41,7 +41,7 @@ const Layout: FC<ILayoutProps> = ({
         <meta property="article:author" content="Come Fly With Lindsay" />
         <link
           rel="canonical"
-          href={`https://comeflywithlindsay.com${router.asPath.split("?")[0]}`}
+          href={`${DOMAIN}${router.asPath.split("?")[0]}`}
         />
         <link rel="apple-touch-icon" href="/icon.png" />
         <link rel="apple-touch-icon" sizes="72x72" href="icon.png" />
